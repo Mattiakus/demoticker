@@ -1,0 +1,3763 @@
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 08:03:45 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 08:03:45 CET 2025
+User:+4917621430270
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 08:15:36 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 08:15:36 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 08:15:36 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 08:15:36 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 08:15:36 CET 2025
+User:+4917621430270
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 08:15:48 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 08:17:16 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 08:17:16 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 08:17:16 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 08:17:16 CET 2025
+User:+4917621430270
+Group:
+Text:mkp
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:03:28 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:03:28 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:03:28 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:03:43 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:03:43 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:03:43 CET 2025
+User:+4917621430270
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:03:43 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:07:53 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:07:53 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:07:53 CET 2025
+User:+4917621430270
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:07:55 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:09:15 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:09:15 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:09:15 CET 2025
+User:+4917621430270
+Group:
+Text:Hallo Welt!
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:09:20 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:11:04 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:11:04 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:11:04 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:11:12 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:11:12 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:11:23 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:11:23 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:11:23 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:11:23 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:11:31 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:11:31 CET 2025
+User:+4917621430270
+Group:
+Text:Wir sind hier, wir sind Krass! Antifa, da geht noch was!
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:11:39 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:14:32 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:14:32 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:14:32 CET 2025
+User:+4917621430270
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:14:41 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:15:44 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:15:44 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:15:44 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:15:44 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:15:44 CET 2025
+User:+4917621430270
+Group:
+Text:Wir sind hier, wir sind Krass! Antifa, da geht noch was!
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:16:13 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:16:52 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:16:52 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:16:52 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:16:52 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:16:52 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:16:52 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:16:52 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:16:52 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:16:52 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:16:52 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:16:52 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:16:52 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:16:52 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:16:52 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:16:52 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:17:03 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:17:03 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:17:03 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:17:03 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:17:03 CET 2025
+User:+4917621430270
+Group:
+Text:Hallo alle
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:17:16 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:17:23 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:17:23 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:17:23 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:17:23 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:17:23 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:17:23 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:17:23 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:17:23 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:17:23 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:17:31 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:17:31 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:17:31 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:17:39 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:17:39 CET 2025
+User:+4917621430270
+Group:
+Text:-shouts Antifa
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:17:43 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:17:43 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:17:43 CET 2025
+User:+4917621430270
+Group:
+Text:hallo alle
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:18:08 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:18:08 CET 2025
+User:+4917621430270
+Group:
+Text:-unsubscribe
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:18:12 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:18:12 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:18:12 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:18:12 CET 2025
+User:+4917621430270
+Group:
+Text:diese Nachricht sieht nur Luna
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:18:25 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:18:25 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:18:25 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:18:25 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:18:25 CET 2025
+User:+4917621430270
+Group:
+Text:-subscribe
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:18:30 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:18:30 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:18:30 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:18:30 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:18:30 CET 2025
+User:+4917621430270
+Group:
+Text:und diese wieder alle
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:18:43 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:18:52 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:18:52 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:18:52 CET 2025
+User:+4917664160088
+Group:
+Text:hi
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:01 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:01 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:01 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:01 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:01 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:19:01 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:19:01 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:19:01 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:01 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:01 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:01 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:01 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:01 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:01 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:19:01 CET 2025
+User:+4917664160088
+Group:
+Text:cool dise vileicht du auch
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:10 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:10 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:10 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:19:10 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:19:10 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:19:10 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:10 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:10 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:10 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:10 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:19:18 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:18 CET 2025
+User:+4917621430270
+Group:
+Text:-shouts Antifa
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:19:21 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:19:21 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:21 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:21 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:19:21 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:19:21 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:19:21 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:19:21 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:19:21 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:19:21 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:22 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:19:22 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:21:01 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:21:01 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:21:21 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:21:21 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:21:21 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:21:21 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:21:21 CET 2025
+User:+4917621430270
+Group:
+Text:-shouts Antifa
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:21:27 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:21:43 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:21:43 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:21:43 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:21:43 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:21:43 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:21:43 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:21:43 CET 2025
+User:+4917621430270
+Group:
+Text:-shouts Umwelt
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:22:17 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:22:59 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:22:59 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:23:07 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:23:07 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:23:07 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:23:07 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:23:17 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:23:17 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:23:25 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:23:25 CET 2025
+User:+4917664160088
+Group:
+Text:also kanst du alle nachiten sehen nicht btw danke das du mich luna nenst macht micht sehr happy
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:23:41 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:23:41 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:23:41 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:23:41 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:23:41 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:23:41 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:24:58 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:24:58 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:25:20 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:25:20 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:25:20 CET 2025
+User:+4917621430270
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:25:58 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:25:58 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:25:58 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:25:58 CET 2025
+User:+4917664160088
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:hi
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:27:18 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:27:18 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:27:18 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:27:25 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:27:25 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:27:25 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:29:59 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:29:59 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:30:06 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:30:06 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:30:17 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:30:17 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:30:17 CET 2025
+User:+4917664160088
+Group:
+Text:Das kan man dan lesen?
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:30:26 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:30:34 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:30:34 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:30:34 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:30:34 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:30:34 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:30:34 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:30:34 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:30:34 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:30:34 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:33:08 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:33:08 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:33:08 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:33:08 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:33:16 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:33:16 CET 2025
+User:+4917621430270
+Group:
+Text:- shouts Antifa
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:33:22 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:33:22 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:33:29 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:33:29 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:33:29 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:33:29 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:40:07 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:40:07 CET 2025
+User:+4917621430270
+Group:
+Text:- shouts Antifa
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:40:21 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:40:28 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:40:28 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:40:28 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:40:28 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:40:28 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:40:28 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:40:28 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:40:28 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:40:28 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:40:44 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 21:40:44 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:40:44 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:40:52 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:40:52 CET 2025
+User:+4917621430270
+Group:
+Text:-schouts
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:40:57 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:41:05 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:41:05 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:41:05 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:42:57 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:42:57 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:47:55 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:47:55 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:47:55 CET 2025
+User:+4917621430270
+Group:
+Text:-shouts Umwelt
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:48:01 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:48:08 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:48:08 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:48:08 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:48:23 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:48:23 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:58:08 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:58:08 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:58:15 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:58:15 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:58:15 CET 2025
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:58:20 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 21:58:27 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:58:27 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:58:27 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 21:58:27 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 22:09:25 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:09:25 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:09:25 CET 2025
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:09:29 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 22:09:36 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:09:36 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:09:36 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:09:36 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 22:12:09 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:12:09 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:12:09 CET 2025
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:12:14 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 22:12:21 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:12:21 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:12:21 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:12:21 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 22:23:19 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:23:19 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:23:19 CET 2025
+User:+4917621430270
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:23:29 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:
+Time:Sa 8. Feb 22:26:58 CET 2025
+User:
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:26:58 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:29:35 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:29:35 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 22:29:56 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 22:30:11 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 22:30:11 CET 2025
+User:+4917664160088
+Group:
+Text:Hi
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 22:30:20 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 22:30:27 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 22:30:27 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 22:30:27 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 22:30:27 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:30:27 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:30:27 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 22:30:27 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:paul
+Time:Sa 8. Feb 22:30:27 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:30:27 CET 2025
+User:+4917621430270
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 22:36:19 CET 2025
+User:+49491634615548
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 22:36:30 CET 2025
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:
+File:
+///MESSAGE///
+Name:Moon
+Time:Sa 8. Feb 22:36:30 CET 2025
+User:+4917664160088
+Group:
+Text:
+File:
+///MESSAGE///
+Name:Moon
+Time:Sa 8. Feb 22:39:02 CET 2025
+User:+4917664160088
+Group:
+Text:btw hab grade mein signal name zu moon geändert
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:44:33 CET 2025
+User:+4917621430270
+Group:
+Text:Diese Nachricht sollte jetzt so beibehalten werden und der Name sollte extra stehen
+File:/home/johbot/.local/share/signal-cli/attachments/-RYvLDAxpe82wYpQ57Oj.jpg
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 22:46:20 CET 2025
+User:+4917621430270
+Group:
+Text:Diese Nachricht sollte jetzt so beibehalten werden und der Name sollte extra stehen
+File:/home/johbot/.local/share/signal-cli/attachments/VeV_sm2pYkRPjeG4yRhx.jpg
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:28:03 CET 2025
+User:+4917621430270
+Group:
+Text:-help ; echo "Bash insertion works, damn!!"
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:28:49 CET 2025
+User:+4917621430270
+Group:
+Text:test; echo "what about this?"
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:30:35 CET 2025
+User:+4917621430270
+Group:
+Text:Da ich den Überblick verloren habe, welche Demos hier im Kanal für die kommenden Tage/Wochen angekündigt wurden, hab' ich das mal zusammengetragen und stell's Euch gerne auch zur Verfügung. Kein Anspruch auf Korrektheit/Vollständigkeit!
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:31:03 CET 2025
+User:+4917621430270
+Group:
+Text:7.2. 15:00 Wiesbaden Hbf Klimastreik
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:31:38 CET 2025
+User:+4917621430270
+Group:
+Text:oh nooooooo
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:32:07 CET 2025
+User:+4917621430270
+Group:
+Text:geht ja doch nicht
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:32:25 CET 2025
+User:+4917621430270
+Group:
+Text:-unsubscribe
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:39:45 CET 2025
+User:+4917621430270
+Group:
+Text:-shouts Antifa
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:40:59 CET 2025
+User:+4917621430270
+Group:
+Text:-shouts Antifa
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:41:07 CET 2025
+User:+4917621430270
+Group:
+Text:-shouts Umwelt
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:41:14 CET 2025
+User:+4917621430270
+Group:
+Text:-subscribe
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:41:20 CET 2025
+User:+4917621430270
+Group:
+Text:-unsubscribe
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:41:27 CET 2025
+User:+4917621430270
+Group:
+Text:-subscribe
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:41:33 CET 2025
+User:+4917621430270
+Group:
+Text:-subscribe
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:41:39 CET 2025
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:51:42 CET 2025
+User:+4917621430270
+Group:
+Text:dashier sollte schneller gehen
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:52:02 CET 2025
+User:+4917621430270
+Group:
+Text:-shouts Antifa
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:53:18 CET 2025
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:53:18 CET 2025
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:53:18 CET 2025
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:53:18 CET 2025
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:53:18 CET 2025
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:53:18 CET 2025
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:53:18 CET 2025
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Sa 8. Feb 23:53:19 CET 2025
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 23:56:45 CET 2025
+User:+49491634615548
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 23:56:45 CET 2025
+User:+49491634615548
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 23:56:45 CET 2025
+User:+49491634615548
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 23:56:46 CET 2025
+User:+49491634615548
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 23:56:46 CET 2025
+User:+49491634615548
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 23:56:47 CET 2025
+User:+49491634615548
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 23:56:47 CET 2025
+User:+49491634615548
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 23:56:47 CET 2025
+User:+49491634615548
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 23:56:48 CET 2025
+User:+49491634615548
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 23:56:48 CET 2025
+User:+49491634615548
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 23:56:49 CET 2025
+User:+49491634615548
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 23:56:50 CET 2025
+User:+49491634615548
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 23:56:51 CET 2025
+User:+49491634615548
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 23:56:52 CET 2025
+User:+49491634615548
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 23:56:52 CET 2025
+User:+49491634615548
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 23:56:53 CET 2025
+User:+49491634615548
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Sa 8. Feb 23:56:54 CET 2025
+User:+49491634615548
+Group:
+Text:test
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 9. Feb 13:33:34 CET 2025
+User:+4917621430270
+Group:
+Text:-shouts Antifa
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 9. Feb 13:34:05 CET 2025
+User:+4917621430270
+Group:
+Text:-shouts Antifa
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 9. Feb 13:34:05 CET 2025
+User:+4917621430270
+Group:
+Text:-shouts Umwelt
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 9. Feb 13:34:05 CET 2025
+User:+4917621430270
+Group:
+Text:-subscribe
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 9. Feb 13:34:05 CET 2025
+User:+4917621430270
+Group:
+Text:-subscribe
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 9. Feb 13:35:21 CET 2025
+User:+4917621430270
+Group:
+Text:-subscribe
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 9. Feb 13:35:54 CET 2025
+User:+4917621430270
+Group:
+Text:-subscribe
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 9. Feb 13:39:09 CET 2025
+User:+4917621430270
+Group:
+Text:-subscribe
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 9. Feb 13:47:50 CET 2025
+Timestamp:1739105263402
+User:+4917621430270
+Group:
+Text:-shouts Antifa
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mo 10. Feb 20:11:57 CET 2025
+Timestamp:1739214707648
+User:+4917621430270
+Group:
+Text:Dashier wird jetzt auch auf Mastodon gepostet!
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mo 10. Feb 20:30:29 CET 2025
+Timestamp:1739215823438
+User:+4917621430270
+Group:
+Text:Dashier wird jetzt auch auf Mastodon gepostet!\nhttps://kolektiva.social/@Demoticker\nPreviews:\n- Preview\nTitle: Demoticker (@Demoticker@kolektiva.social)\nDescription: 2 Posts, 0 Following, 0 Followers ·\nDate: 0 (1970-01-01T00:00:00.000Z)\nUrl: https://kolektiva.social/@Demoticker\nImage:\nContent-Type: image/jpeg\nType: Pointer\nId: 9o6gpfOaY3XDJrg9GZVA.jpg\nUpload timestamp: 1739214708277 (2025-02-10T19:11:48.277Z)\nSize: 3803 bytes\nDimensions: 400x400\nStored plaintext in: /home/johbot/.local/share/signal-cli/attachments/9o6gpfOaY3XDJrg9GZVA.jpg
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mo 10. Feb 20:34:56 CET 2025
+Timestamp:1739216090621
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mo 10. Feb 20:36:06 CET 2025
+Timestamp:1739216160618
+User:+4917621430270
+Group:
+Text:zeile 1\nzeile 2\nzeile 3\nzeile 3
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mo 10. Feb 20:38:53 CET 2025
+Timestamp:1739216327312
+User:+4917621430270
+Group:
+Text:zeile 1\nzeile 2\nzeile 3\nzeile 3
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mo 10. Feb 20:41:57 CET 2025
+Timestamp:1739216509789
+User:+4917621430270
+Group:
+Text:Den Demoticker gibt es jetzt auch auf Mastodon!\nBleib immer informiert über die aktuellen Demonstrationen in und um Wiesbaden:\nhttps://kolektiva.social/@Demoticker
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mo 10. Feb 22:31:16 CET 2025
+Timestamp:1739223067400
+User:+4917621430270
+Group:
+Text:Treffpunkt in Wiesbaden ist der Luisenplatz\nTreffpunkt in Mainz ist der Schillerplatz\n\nKrasse Leute gehen auf beide Demos ❤️
+File:/home/johbot/.local/share/signal-cli/attachments/P15kErNvp0kGLxPcsl91.png
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 12. Feb 12:23:34 CET 2025
+Timestamp:1739359408882
+User:+4917621430270
+Group:
+Text:
+File:/home/johbot/.local/share/signal-cli/attachments/t_j1FHnnpTBPbktRYhWO.jpg
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 12. Feb 12:23:34 CET 2025
+Timestamp:1739359408950
+User:+4917621430270
+Group:
+Text:Liebe Kolleginnen, liebe Kollegen,\n\nsehr geehrte Damen und Herren,\n\nnoch immer ist der Mangel an bezahlbarem Wohnraum ein großes Problem in Wiesbaden. Viele Beschäftigte mit kleinem und mittlerem Einkommen können sich keine Wohnungen in der Stadt mehr leisten. Der Mangel an bezahlbarem Wohnraum stellt weiterhin eine der wichtigsten sozialen Fragen der Gegenwart dar – mit weitreichenden Folgen für die Betroffenen, die Wirtschaft und die Landeshauptstadt Wiesbaden.\nWir wollen im Vorfeld der Oberbürgermeister/Oberbürgermeisterinnen-Wahl mit OB-Kandidat*innen unter dem Motto „Bezahlbarer Wohnraum - die Stadt in der Verantwortung!“ über die Strategien der Kandidat*innen zur Schaffung von mehr bezahlbarem Wohnraum in unserer Stadt diskutieren.\n\nZugesagt haben:\nGert-Uwe Mende (Oberbürgermeister / SPD)\nGesine Bonnet (Bündnis 90/ Die Grünen)\nIngo von Seemen (Die Linke)\n\nWir freuen uns, dass wir mit Conny Petzold vom Verein „Mieter helfen Mietern“ aus Frankfurt eine Expertin auf dem Gebiet gewinnen konnten, die das Thema inhaltlich einleiten und begleiten wird.\n\nDie Veranstaltung findet am 28.02.25  um 16 Uhr\n\nim Bürgersaal des Georg-Buch-Haus, Wellritzstraße 38a Wiesbaden, statt.\n\nDie Veranstaltung wird gemeinsam ausgerichtet von: DGB Wiesbaden Rheingau-Taunus, Runder Tisch Neue-Boden +Wohnungspolitik, attac Wiesbaden, Bürgerinitiative Gemeinwohl-hat-Vorfahrt\n\nWir freuen uns über eure/Ihre Teilnahme.\n\nGerne dürfen sie unsere Ankündigungen im social media teilen und weiterverbreiten:\n\nDiskussion zur OB-Wahl - Die Stadt in Verantwortung für bezahlbaren Wohnraum. | Facebook\n\nhttps://www.instagram.com/dgb.frankfurtrheinmain?igsh=MWpuYTR0bjdrajBjaA==\n\nDGB_Frankfurt_Rhein-Main (@dgbfrankfrheinmain.bsky.social) — Bluesky
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Di 18. Feb 19:34:59 CET 2025
+Timestamp:1739903696135
+User:+4917621430270
+Group:
+Text:-shouts Antifa
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Di 18. Feb 19:36:57 CET 2025
+Timestamp:1739903814169
+User:+4917621430270
+Group:
+Text:-shouts Umwelt
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Di 18. Feb 21:08:29 CET 2025
+Timestamp:1739909307161
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Di 18. Feb 21:08:55 CET 2025
+Timestamp:1739909332750
+User:+4917621430270
+Group:
+Text:-shouts Antifa
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Di 18. Feb 21:09:13 CET 2025
+Timestamp:1739909350039
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Alex
+Time:Di 18. Feb 21:12:02 CET 2025
+Timestamp:1739909521604
+User:8d5fe19a-126b-415d-8d2a-a493547a6a03
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Lori (er/ihm) Vorträge/Integration Mz/Wi
+Time:Mi 19. Feb 18:06:36 CET 2025
+Timestamp:1739910200252
+User:5a230e01-13d8-4955-813b-4ad2fa157939
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:🔥🌍🔥🌎🔥🌍🔥🌎🔥🌍🔥\nTEILEN++TEILEN++TEILEN\n\nAm Samstag vor der Bundestagswahl wollen wir nochmal Aufmerksamkeit schaffen…\n\n*Dafür brauchen wir Deine Hilfe!*\nWir haben eine kreative Aktion geplant: „Klimaschutz nicht verschlafen“ ist das Motto. Dafür legen wir uns gemeinsam auf den Schillerplatz. Leg Dich mit dazu, damit aus der Kundgebung ein echtes Happening wird!\n📢🛌📢😴📢🛌📢😴📢\n\n🗓️22.02.2025\n⏰11-13 Uhr\n🌇Schillerplatz (Am Fastnachtsbrunnen)\n\n✊Bring mit:\n• Schlafsack\n• Isomatte oder vergleichbare Unterlage\n• Wenn Du magst gerne auch noch ein Plakat\n\n🤝Wir stellen für alle Fälle:\n• Plane als Unterlage\n• Pavillon zum unterstellen\n• Tee\n\n❤️‍🩹Falls Du selbst keinen Schlafsack da hast, melde Dich einfach bei den Students for Future, und wir schauen, dass Du einen von uns bekommst\n\nInsta: @studentsforfuture_mainz\nMail: studentsforfuture.mainz@posteo.de
+File:/home/johbot/.local/share/signal-cli/attachments/2LuKnkbNB3OLuDO6aGsy.jpeg
+///MESSAGE///
+Name:Peppy
+Time:Mi 19. Feb 18:06:37 CET 2025
+Timestamp:1739910430914
+User:672dee5b-88ab-436b-854f-6824c2972b80
+Group:U/bVJbYCLQ2QMoYc0tTad/edVkczwaAcoAQRgEvxVDo=
+Text:WiKu morgen. Grüße an den Freudenberg 👋
+File:/home/johbot/.local/share/signal-cli/attachments/F8RW1FC2uk5oah8JYGGa.png
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:06:38 CET 2025
+Timestamp:1739921926639
+User:+4917621430270
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:Ich habe heute sehr intensive Gespräche mit Menschen vom Chaos Computer Club geführt. Die haben richtig Bock unsere Strukturen zu Unterstützen, haben aber zum herkömmlichem Aktivismus nicht so viele Berührungspunkte. Deshalb möchte ich gerne mal in die Runde fragen, wie euch der CCC im Aktivismus unterstützen kann. Ich denke da an Skillshares zu Privatsphäre Praktiken und Prinzipien, Workshops über Computerverständnis, euch Webseiten zu hosten, euch zu erklären, wie ihr eure eigene Webseite einrichtet usw. Ich bin selbst aber ein Nerd und ich kann schwer einschätzen was eure Bedürfnisse sind und was ihr euch da wünscht. Es bringt natürlich nichts, ein Skillshare zu machen, wenn sich niemand dafür interessiert.\nWas sind denn eure Wünsche an linke Hacker und Computerfreunde?
+File:
+///MESSAGE///
+Name:Pumuckl
+Time:Mi 19. Feb 18:06:38 CET 2025
+Timestamp:1739922053922
+User:2af5e25d-67e9-4193-8c93-50ae664788e5
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:Voll schön! Also der letzten IT security workshop wurde herzlich angenommen. Die dudes kamen halt aus leipzig.\nEs wurde sich gewünscht mehr davon stattfinden zu lassen.\n\nWärst du fein damit, wenn ich ein abstrakt deines textes ans OAT Wiesbaden weiterleite?
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:06:38 CET 2025
+Timestamp:1739922086298
+User:+4917621430270
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:Klaro
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:06:38 CET 2025
+Timestamp:1739922128083
+User:+4917621430270
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:Btw ein Weg, wie die auf jeden Fall helfen können:\nDIE HABEN EINE BUTTON MASCHIENE
+File:
+///MESSAGE///
+Name:Regina Sagel
+Time:Mi 19. Feb 18:06:38 CET 2025
+Timestamp:1739922165450
+User:7f41a629-665c-42ae-b3b0-98a2e8d60170
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:1. Sicherheit,\n2. Sicherheit,\n3. Sicherheit!
+File:
+///MESSAGE///
+Name:Pumuckl
+Time:Mi 19. Feb 18:06:39 CET 2025
+Timestamp:1739922257241
+User:2af5e25d-67e9-4193-8c93-50ae664788e5
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:Das war ein Gespräch mit einer lonalen CCC gruppe nehme ich an? Wenn ja welche? Also mainz oder Wi
+File:
+///MESSAGE///
+Name:Theo
+Time:Mi 19. Feb 18:06:39 CET 2025
+Timestamp:1739922317356
+User:be12b985-e136-4e49-9f21-33ae5de44d85
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:Die Wiesbadener*innen haben immer dienstags um 19 Uhr "Sprwchstunde"
+File:
+///MESSAGE///
+Name:Pumuckl
+Time:Mi 19. Feb 18:06:39 CET 2025
+Timestamp:1739922344163
+User:2af5e25d-67e9-4193-8c93-50ae664788e5
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:Am sedanplatz sitzen die, wa?
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:06:39 CET 2025
+Timestamp:1739922435504
+User:+4917621430270
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:Es gibt nur eine Lokale gruppe. Es kann sein, dass sich eine Mainzer Gruppe neben der Wiesbadener Gruppe gründet, aber nur aus Politischen/Rechtlichen Gründen (wegen der Gemeinnützigkeit)
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:06:39 CET 2025
+Timestamp:1739922453677
+User:+4917621430270
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:Es gibt nur eine Lokale gruppe. Es kann sein, dass sich eine Mainzer Gruppe neben der Wiesbadener Gruppe gründet, aber nur aus Politischen/Rechtlichen Gründen
+File:
+///MESSAGE///
+Name:Pumuckl
+Time:Mi 19. Feb 18:06:39 CET 2025
+Timestamp:1739922502607
+User:2af5e25d-67e9-4193-8c93-50ae664788e5
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:Mh, also der CCC agiert Bundesweit. Daher meine Nachfrage
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:06:39 CET 2025
+Timestamp:1739922548457
+User:+4917621430270
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:Jup, also mit Menschen der Lokalen Gruppe, mit Sitz am Sedanplatz :)
+File:
+///MESSAGE///
+Name:Eric Sesterhenn
+Time:Mi 19. Feb 18:06:40 CET 2025
+Timestamp:1739940730907
+User:dca14c3c-19d4-47d6-970c-db1f74531ce9
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:Was früher immer gut ging waren Vorträge zu Themen wie Verschlüsselung, was welche messenger (nicht) leisten und wie man halbwegs privat im Netz unterwegs ist. Aber hängt auch beim Chaos immer an Einzelpersinen, die Vernetzung in polit. Gruppen war in Wiesbaden mal deutlich größer :(
+File:
+///MESSAGE///
+Name:Erik
+Time:Mi 19. Feb 18:06:40 CET 2025
+Timestamp:1739944053677
+User:69caf632-2bdd-45b1-8abd-3151dc1f7be9
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Am 22.02 wird es in ganz Deutschland Demos gegen den Rechtsruck geben.\n\nInzwischen zeigen die Grünen ihr Gesicht. Diese versuchen mit aller Kraft Juniorpartner eines Merz zu werden.\n\nVor wenigen Tagen standen Grüne noch mit auf dem Demos der Brandmauer.\nJetzt versuchen diese selbst auf die andere Seite zu kommen.\nDieser weitere Schritt nach rechts von Grünen sollte bei den Reden am Samstag noch einmal erwähnt werden.\nPS: Kommentar von einem Genossen.
+File:/home/johbot/.local/share/signal-cli/attachments/pKmaUkn-PZe16eTCsxDi.jpg
+///MESSAGE///
+Name:jinora
+Time:Mi 19. Feb 18:06:41 CET 2025
+Timestamp:1739949580085
+User:fbf56ee6-7103-4cb6-8139-169ef5203d99
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:So wie es Momentan aussieht, ist eine Stimme für die Linken halt auch nicht verschenkt.\nSelbst wenn sie unter 5% kommen sollten, gibt es die realistische Chance, dass sie mit 3 Direktmandaten die 5% Hürde umgehen. Eine Stimme für die Linken lohnt sich also!
+File:
+///MESSAGE///
+Name:Micha
+Time:Mi 19. Feb 18:06:42 CET 2025
+Timestamp:1739949807386
+User:4e30d0ca-7cdb-49c1-b3fd-63ac0504b8c6
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Hallo Admins,\nWenn ihr hier keine Diskussionen wollt - dann bitte dieses Sharepic (was meiner Meinung nach ein Diskussionsbeitrag ist) bitte löschen!\nWas ist den die Aussage (außer Grünen-bashing)?\nWo ist der Hinweis für welche konkrete Veranstaltung?\n"Stimmen für die Linken" sind natürlich NICHT verschenkt!\nDiskussions- und Meinungsbeiträge bitte im Diskussions-Channel!
+File:/home/johbot/.local/share/signal-cli/attachments/Hta1J95Gwn4ZVeYRGroH.png
+///MESSAGE///
+Name:Micha
+Time:Mi 19. Feb 18:06:42 CET 2025
+Timestamp:1739949832734
+User:4e30d0ca-7cdb-49c1-b3fd-63ac0504b8c6
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Hallo Admins,\nWenn ihr hier keine Diskussionen wollt - dann bitte dieses Sharepic (was meiner Meinung nach ein Diskussionsbeitrag ist) bitte löschen!\nWas ist denn die Aussage (außer Grünen-bashing)?\nWo ist der Hinweis für welche konkrete Veranstaltung?\n"Stimmen für die Linken" sind natürlich NICHT verschenkt!\nDiskussions- und Meinungsbeiträge bitte im Diskussions-Channel!
+File:/home/johbot/.local/share/signal-cli/attachments/OZwlWo3pOYxOaQVJ4pgN.png
+///MESSAGE///
+Name:wolle
+Time:Mi 19. Feb 18:06:42 CET 2025
+Timestamp:1739949865161
+User:8be22396-e402-4f60-94bd-e184d16c15b9
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Grüner spotted
+File:
+///MESSAGE///
+Name:wolle
+Time:Mi 19. Feb 18:06:43 CET 2025
+Timestamp:1739950098044
+User:8be22396-e402-4f60-94bd-e184d16c15b9
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Warum ist deiner Ansicht nach „Linken-Bashing“ okay wenn es von der Partei die Grünen kommt?
+File:
+///MESSAGE///
+Name:Sebus
+Time:Mi 19. Feb 18:06:43 CET 2025
+Timestamp:1739950145546
+User:69ac3467-ed7f-4e29-99e0-b540160d0b17
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Ich würde gerne mal wissen, wo dieses Sharepic denn überhaupt herkommt?
+File:
+///MESSAGE///
+Name:Micha
+Time:Mi 19. Feb 18:06:44 CET 2025
+Timestamp:1739950159314
+User:4e30d0ca-7cdb-49c1-b3fd-63ac0504b8c6
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Aus der Beschreibung:\nDie Gruppe ist zum Vernetzen und Teilen von Veranstaltungen. Los geht's!\nWir behalten uns vor, Diskussions(!)beiträge zu löschen.\nBitte private Gespräche in privaten Chats. Für Diskussionen gibt es diese Gruppe:  https://signal.group/#CjQKIM9dpLlGfgvDBUSyK_pvmDEL99xirOypsvfRpTLAdUIYEhBDf7krOwO6L1CCnOAKccNq\nBitte achtet auf ein respektvolles und wertschätzendes Miteinander.
+File:
+///MESSAGE///
+Name:wolle
+Time:Mi 19. Feb 18:06:44 CET 2025
+Timestamp:1739950613619
+User:8be22396-e402-4f60-94bd-e184d16c15b9
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Die nachricht über die du dich aufregst, benennt die realistische Politik der partei die Grünen und fordert dazu auf, das in den Brandmauer Demos nicht zu vergessen + am besten zu erwähnen, das ist zwar nicht direkt ein Veranstaltungsaufruf, bezieht sich aber auf (mehrere) anstehende Veranstaltungen. Das ist kein Grünen-Bashing.
+File:
+///MESSAGE///
+Name:Lexi B
+Time:Mi 19. Feb 18:06:45 CET 2025
+Timestamp:1739950848791
+User:796b6603-64e4-4f4c-93d2-337bfe59fe34
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Könnt ihr bitte auch für diese Diskussion die Diskussionsgruppe nutzen? Uns man muss auch nicht immer einer Meinung sein zu etwas. Die admins werden schon entscheiden, ob das hier her kann oder nicht. In der Zwischenzeit fände ich es toll, nicht dauernd neue Benachrichtigungen zu bekommen, die keine Veranstaltungshinweise sind, sondern zwei Leute die ihre Diskussion nicht woanders führen konnten.
+File:
+///MESSAGE///
+Name:Haschem DBWI
+Time:Mi 19. Feb 18:06:48 CET 2025
+Timestamp:1739951495082
+User:0a7742af-6481-4af7-a8f9-8ab9f8e4097b
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Danke Lexi . vielleicht haben nicht bemerkt.hier Bitte nur Veranstaltung hinweis.ich will keins belehren werden in diese Netzwerk.
+File:
+///MESSAGE///
+Name:Simon MiW
+Time:Mi 19. Feb 18:06:52 CET 2025
+Timestamp:1739962464041
+User:a3b171fe-7fb1-4c89-af43-edbe6194b4de
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Hallo ihr Lieben,\n\ngegenwärtig kann man meinen dass sich die Ereignisse überschlagen und mit ihnen die Antwort der Mainzer Stadtgesellschaft. In den einschlägigen Telegram- und Signal-Gruppen laufen die Drähte heiß, und wenn es euch so geht wie uns droht man langsam aber sicher den Überblick zu verlieren.\n\nKraft unseres Amtes als Vernetzungsaktivist*innen haben wir euch die anstehenden Events zusammengefasst. Sollte etwas fehlen, schreibt es uns gerne.\n\nHeute, sprich Mittwoch, der 19.02, wird eine Mahnwache anlässlich der rassistischen Anschläge in Hanau vor der Staatskanzlei um 20 Uhr stattfinden.\n\nAm Donnerstag, den 20.02. um 18 Uhr wird auf dem Domplatz die Kundgebung "Sound of Democracy" stattfinden. Es werden dort viele Musiker zusammenkommen, und es ist offen für alle. Außerdem soll eine Menschenkette gebildet werden, die die Worte "Nie wieder" bilden wird.\n\nAm Freitag, den 21.02. wird ab 15:30 auf dem Gutenbergplatz ausgehend vom DGB, Rheinhessen gegen Rechts und #NieWieder33 die Kundgebung "Demokratie wählen - Rechtsextreme stoppen" stattfinden. Die neue Initiative "Eltern gegen Rechts" werden wieder einen Familienbereich anbieten, und die oben genannten "Kunstschaffende gegen Rechts" werden ein kulturelles Programm bieten.\n\nEbenfalls am Freitag veranstaltet das MediNetz Mainz um 18 Uhr im Roten Saal der Hochschule für Musik Mainz, Jakob-Welder-Weg 28, ein Konzert mit dem Namen "Zuhören und Vernetzen". Details findet ihr auf unserer Homepage:\nhttps://mainzimwandel.de/termine/konzert-zuhoeren-und-vernetzen/\n\nAm Samstag, den 22.02. findet am Schillerplatz, genauer gesagt am Fastnachtsbrunnen, um 11-13 Uhr die Aktion "Klimaschutz nicht verschlafen" von den Students For Future statt. Bringt Schlafsack, Isomatte und ggf. ein Plakat mit 😁\n\nAm Sonntag, den 23.02. ist Wahltag. Bitte geht wählen und nutzt eure Stimme ✊\n\nSpäter am Sonntag, und zwar ab 18 Uhr, findet im Infoladen Ella Janecek ein Wahlabend statt. Federführend sind dabei das Jugendf
+File:/home/johbot/.local/share/signal-cli/attachments/87OzWfeZDEBG2IgoIBdO.txt
+///MESSAGE///
+Name:Simon MiW
+Time:Mi 19. Feb 18:06:52 CET 2025
+Timestamp:1739962683979
+User:a3b171fe-7fb1-4c89-af43-edbe6194b4de
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Fast vergessen, das gibt's auch noch!
+File:/home/johbot/.local/share/signal-cli/attachments/8lg4gUGmnhe0Owb4kWf4.jpg
+///MESSAGE///
+Name:jinora
+Time:Mi 19. Feb 18:06:53 CET 2025
+Timestamp:1739963199175
+User:fbf56ee6-7103-4cb6-8139-169ef5203d99
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Heute um 18 Uhr ist noch folgende Veranstaltung im Infoladen: https://www.instagram.com/p/DGJRQsQIOj6/?igsh=MTgycnBsczVkcWtsZg==
+File:/home/johbot/.local/share/signal-cli/attachments/JwwNIsqO9yooEwqnIJEP.jpg
+///MESSAGE///
+Name:Theo
+Time:Mi 19. Feb 18:06:53 CET 2025
+Timestamp:1739963595732
+User:be12b985-e136-4e49-9f21-33ae5de44d85
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Hey\nFür die Demo am Samstag brauchen wir noch dringend etwas Unterstützung, kommt dafür bitte heute Abend um 19 Uhr zum Infoladen Wiesbaden. Mehr Infos dann Vorort.
+File:
+///MESSAGE///
+Name:L
+Time:Mi 19. Feb 18:06:53 CET 2025
+Timestamp:1739963690887
+User:b5d7910d-7920-4c66-8760-9a72155d94cd
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Stimmt das mir der Mahnwache um 20 Uhr?\nIn der Staatskanzlei wird heute 20 Uhr das Theaterstück "And now Hanau" aufgeführt vom Staatstheater. Von einer Mahnwache finde ich aber nirgends etwas.
+File:
+///MESSAGE///
+Name:Simon MiW
+Time:Mi 19. Feb 18:06:53 CET 2025
+Timestamp:1739965036887
+User:a3b171fe-7fb1-4c89-af43-edbe6194b4de
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Au verreck, dann war das ein Missverständnis 😳
+File:
+///MESSAGE///
+Name:jinora
+Time:Mi 19. Feb 18:06:54 CET 2025
+Timestamp:1739965109464
+User:fbf56ee6-7103-4cb6-8139-169ef5203d99
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Um 18 Uhr findet auf jeden Fall in Frankfurt eine Demo zu 5 Jahre Hanau statt ✊
+File:
+///MESSAGE///
+Name:Charlotte
+Time:Mi 19. Feb 18:06:54 CET 2025
+Timestamp:1739965181161
+User:b0bcc9a9-b2f1-46b7-bef6-133375dcd535
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:In Wiesbaden ist um 17 Uhr am Dern’schen Gelände eine Mahnwache
+File:
+///MESSAGE///
+Name:Simon MiW
+Time:Mi 19. Feb 18:06:54 CET 2025
+Timestamp:1739965212319
+User:a3b171fe-7fb1-4c89-af43-edbe6194b4de
+Group:c46uKTQOMBq7YHQfzJ32.jpg
+Text:https://www.staatstheater-mainz.com/veranstaltungen/schauspiel-24-25/and-now-hanau
+File:
+///MESSAGE///
+Name:Simon MiW
+Time:Mi 19. Feb 18:06:54 CET 2025
+Timestamp:1739965216320
+User:a3b171fe-7fb1-4c89-af43-edbe6194b4de
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Hast recht
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:06:54 CET 2025
+Timestamp:1739966002135
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:54 CET 2025
+Timestamp:1739966029305
+User:+49491634615548
+Group:
+Text:Anti AfD Sprüche/Lieder:\n\nAlerta, Alerta, Antifascista!\n\nSiamo tutti antifascisti!\n\nGib mir ein A - A! Gib mir ein F - F! Gib mir ein D - D! Was ist das? Scheiße! Was ist das? Scheiße!\n\nAfD - Rassistenpack - wir haben euch zum Kotzen satt!\n\nSay it loud, say it clear, refugees are welcome here!\n\nAlle zusammen gegen den Faschismus!\n\nIhr habt den Krieg verloren, Ihr habt den Krieg verloren, ihr habt, ihr habt, ihr habt den Krieg verloren (wiederholen) zwei mal!\n\nNazis gibt's in jeder Stadt, bildet Banden macht sie platt!\n\nIhr seid so lächerlich, ihr seid so lächerlich, ihr seid, ihr seid, ihr seid so lächerlich\n\nGebt den Nazis die Straße zurück - Stein für Stein - Stück für Stück\n\nOb Ost, ob West, nieder mit der Nazipest\nOb Süd, ob Nord, Nazis über Bord!\n\nOb Süd ob Nord- Widerstand an jedem Ort.\n\nEs gibt kein Recht auf Nazipropaganda!\n\nAttacke, Attacke, die AfD ist kacke\n\nGegen das Konstrukt aus Volk, Nation und Rasse. Für uns gibt's nur eins: Klasse gegen Klasse\n\nGegen das Konstrukt von Rasse und Nation. Für uns gib's nur eins:\nSoziale Revolution!\n\nFür die Freiheit, für das Leben - Nazis von der Straße Fegen\n\nNie, nie, nie wieder Deutschland!!!\n\nKein Vergeben - Kein Vergessen: Nazis haben Namen und Adressen!\n\nDer Fuchs ist schlau und Stellt sich dumm - Beim Fascho ist es andersrum\n\nNationalismus raus aus den Köpfen!\n\nWer nichts ist und wer nichts kann - der muss stolz sein auf sein Land!\n\nSchießt die Weidel auf den Mond,  das ist Raumfahrt die sich lohnt!\n\nSay it loud, say it clear, fascists are not welcome here\n\nHurra, hurra,\nDie Antifa ist da\n\nAfd - Rassisten, Sexisten\nBrandstifter, Totschläger und Faschisten\n\nWer Deutschland nicht liebt, hat Deutschland verstanden\n\nEs gibt kein Recht auf Nazipropaganda\n\nDie AfD ist rechtsextrem -und für die Verfassung ein Problem\n\nNazis verpisst Euch\nX X   XX X\nkeiner vermisst Euch!\nX X   XX X\n\nNie wieder ist jetzt!\n\nHoch die internationale Solidarität!\n\nSolidarität heisst Widerstand,\nKampf dem Faschis
+File:/home/johbot/.local/share/signal-cli/attachments/BNQ_saS1Ny40iB0VqKLh.txt
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:54 CET 2025
+Timestamp:1739966054861
+User:+49491634615548
+Group:
+Text:Du wurdest noch nicht verifiziert. Deine Nachricht wird manuell überprüft. Das kann einen Moment dauern, bitte habe etwas Geduld.\n\nEnvelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548\nTimestamp: 1739966057444 (2025-02-19T11:54:17.444Z)\nServer timestamps: received: 1739966058197 (2025-02-19T11:54:18.197Z) delivered: 1739984795463 (2025-02-19T17:06:35.463Z)\nReceived a sync message\nReceived sync sent message\nTo: “Löwenzahn” +4917621430270\nTimestamp: 1739966057444 (2025-02-19T11:54:17.444Z)\nMessage timestamp: 1739966057444 (2025-02-19T11:54:17.444Z)\nBody: Wir sind hier, wir sind laut, weil ihr uns die Zukunft klaut\nMotor aus, Fahrrad fahr'n. Für das Klima Bus und Bahn.\n\n„What do we want? Climate justice! When do we want it? Now!“\n\nStreik in der Schule, Streik in dem Betrieb, das ist unsre Antwort auf eure Politik\n\n„Ob Kohle aus der Mine, ob Kohle aus der Bank: Beidem fehlt die Liebe, beides macht uns krank.“\nErst kommt das Fressen, dann kommt dir Moral: Wohlstand für alle - Kampf dem Kapital\n\n/// Mathenachhilfe ///\n1,2,3,4, Für das Klima sind wir hier  5,6,7,8,  RWE wird plattgemacht  9 und 10, der Klimastreik wird weitergehen\n1,2,3,4 Alle Bäume bleiben hier  5,6,7,8, Kohlekraft wird plattgemacht  9 und 10, der Widerstand muss weitergehn!\n1,2,3,4 In Wiesbaden da streiken wir  5,6,7,8, die CDU hat scheiß gemacht  9 und 10, der Friedrich Merz der muss jetzt gehn!\n\n/// Rechtsberatung ///\nEs gibt kein Recht, die Erde zu zerstören.\nEs gibt kein Recht, ein SUV zu fahren.\nEs gibt kein Recht, Kohle auszugraben.\nEs gibt kein Recht, Kohlebagger zu fahren.\nEs gibt kein Recht auf Kohlebagger fahren.\nEs gibt kein Recht, auf neue Autobahnen.\nEs gibt kein Recht, auf Kohle, Gas und Erdöl.\nEs gibt kein Recht, von Donald Gas zu Kaufen.\n((Hinweis: immer schön das K in Kein betonen ^^))\n\nHoch die internationale Solidarität!\nHoch die antinationale Solidarität!\n\n„Show me what democracy looks like“ – „This is what democracy looks like!“\n\nWo, Wo, Wo bleibt die Klima-era?\nWo, Wo, Wo bleibt das Klimageld?\n\nSport for future\n„Hey, hey! Wer nicht hüpft der ist für Kohle.“\nHoch mit dem Klimaschutz - Runter mit der Kohle!\n\n„We are unstoppable, another world is possible“\n\n/// Ein geben und Nehmen ///\nGebt mir ein R - W - E\nGebt mir ein L - N - G\nGebt mir ein B - P\nGebt mir ein A - F - D\nGebt mir ein F - D - P\nGebt mir ein C - D - U\nGebt mir ein A - K - W\n\nIch sage Kohle ihr sagt Stopp!\nIch sage Hambi ihr sagt bleibt!\nIch sage Grüne Lunge ihr sagt bleibt!\nIch sag Banny ihr sagt Bleib
+File:/home/johbot/.local/share/signal-cli/attachments/oBF6xs4ITwXtdeT4edjS.txt
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:54 CET 2025
+Timestamp:1739966056812
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Demoticker Mainz Wiesbaden:
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:54 CET 2025
+Timestamp:1739966058919
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Anti AfD Sprüche/Lieder:nnAlerta, Alerta, Antifascista!nnSiamo tutti antifascisti!nnGib mir ein A - A! Gib mir ein F - F! Gib mir ein D - D! Was ist das? Scheiße! Was ist das? Scheiße!nnAfD - Rassistenpack - wir haben euch zum Kotzen satt!nnSay it loud, say it clear, refugees are welcome here!nnAlle zusammen gegen den Faschismus!nnIhr habt den Krieg verloren, Ihr habt den Krieg verloren, ihr habt, ihr habt, ihr habt den Krieg verloren (wiederholen) zwei mal!nnNazis gibt's in jeder Stadt, bildet Banden macht sie platt!nnIhr seid so lächerlich, ihr seid so lächerlich, ihr seid, ihr seid, ihr seid so lächerlichnnGebt den Nazis die Straße zurück - Stein für Stein - Stück für StücknnOb Ost, ob West, nieder mit der NazipestnOb Süd, ob Nord, Nazis über Bord!nnOb Süd ob Nord- Widerstand an jedem Ort.nnEs gibt kein Recht auf Nazipropaganda!nnAttacke, Attacke, die AfD ist kackennGegen das Konstrukt aus Volk, Nation und Rasse. Für uns gibt's nur eins: Klasse gegen KlassennGegen das Konstrukt von Rasse und Nation. Für uns gib's nur eins:nSoziale Revolution!nnFür die Freiheit, für das Leben - Nazis von der Straße FegennnNie, nie, nie wieder Deutschland!!!nnKein Vergeben - Kein Vergessen: Nazis haben Namen und Adressen!nnDer Fuchs ist schlau und Stellt sich dumm - Beim Fascho ist es andersrumnnNationalismus raus aus den Köpfen!nnWer nichts ist und wer nichts kann - der muss stolz sein auf sein Land!nnSchießt die Weidel auf den Mond,  das ist Raumfahrt die sich lohnt!nnSay it loud, say it clear, fascists are not welcome herennHurra, hurra,nDie Antifa ist dannAfd - Rassisten, SexistennBrandstifter, Totschläger und FaschistennnWer Deutschland nicht liebt, hat Deutschland verstandennnEs gibt kein Recht auf NazipropagandannDie AfD ist rechtsextrem -und für die Verfassung ein ProblemnnNazis verpisst EuchnX X   XX Xnkeiner vermisst Euch!nX X   XX XnnNie wieder ist jetzt!nnHoch die internationa
+File:/home/johbot/.local/share/signal-cli/attachments/TZQsKkwWP3ZCZbVchnhF.txt
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:54 CET 2025
+Timestamp:1739966098656
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Du wurdest noch nicht verifiziert. Deine Nachricht wird manuell überprüft. Das kann einen Moment dauern, bitte habe etwas Geduld.\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1739966100318 (2025-02-19T11:55:00.318Z)\nServer timestamps: received: 1739966101235 (2025-02-19T11:55:01.235Z) delivered: 1739984795464 (2025-02-19T17:06:35.464Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1739966100318 (2025-02-19T11:55:00.318Z)\nIs delivery receipt\nTimestamps:\n- 1739966099960 (2025-02-19T11:54:59.960Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1739966100450 (2025-02-19T11:55:00.450Z)\nServer timestamps: received: 1739966101356 (2025-02-19T11:55:01.356Z) delivered: 1739984795464 (2025-02-19T17:06:35.464Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1739966100450 (2025-02-19T11:55:00.450Z)\nIs delivery receipt\nTimestamps:\n- 1739966099863 (2025-02-19T11:54:59.863Z)\n\nEnvelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548\nTimestamp: 1739966099960 (2025-02-19T11:54:59.960Z)\nServer timestamps: received: 1739966101506 (2025-02-19T11:55:01.506Z) delivered: 1739984795464 (2025-02-19T17:06:35.464Z)\nReceived a sync message\nReceived sync sent message\nTo: “Löwenzahn” +4917621430270, “Moon” +4917664160088\nTimestamp: 1739966099960 (2025-02-19T11:54:59.960Z)\nMessage timestamp: 1739966099960 (2025-02-19T11:54:59.960Z)\nBody: Hier ist eine Liste von commands:n-shouts [Antifa|Umwelt] zeigt eine Liste mit Demorufen ann-subscribe fügt dich zu der Verteilerliste hinzun-unsubscribe entfernt dich von der Verteilerliste
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:54 CET 2025
+Timestamp:1739966099863
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Demoticker Mainz Wiesbaden:
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:54 CET 2025
+Timestamp:1739966102095
+User:+49491634615548
+Group:
+Text:Hier ist eine Liste von commands:\n-shouts [Antifa|Umwelt] zeigt eine Liste mit Demorufen an\n-subscribe fügt dich zu der Verteilerliste hinzu\n-unsubscribe entfernt dich von der Verteilerliste
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:55 CET 2025
+Timestamp:1739966102477
+User:+49491634615548
+Group:
+Text:Du wurdest noch nicht verifiziert. Deine Nachricht wird manuell überprüft. Das kann einen Moment dauern, bitte habe etwas Geduld.\n\nEnvelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548\nTimestamp: 1739966103310 (2025-02-19T11:55:03.310Z)\nServer timestamps: received: 1739966103739 (2025-02-19T11:55:03.739Z) delivered: 1739984795465 (2025-02-19T17:06:35.465Z)\nReceived a sync message\nReceived sync sent message\nTo: “Löwenzahn” +4917621430270\nTimestamp: 1739966103310 (2025-02-19T11:55:03.310Z)\nMessage timestamp: 1739966103310 (2025-02-19T11:55:03.310Z)\nBody: Anti AfD Sprüche/Lieder:\n\nAlerta, Alerta, Antifascista!\n\nSiamo tutti antifascisti!\n\nGib mir ein A - A! Gib mir ein F - F! Gib mir ein D - D! Was ist das? Scheiße! Was ist das? Scheiße!\n\nAfD - Rassistenpack - wir haben euch zum Kotzen satt!\n\nSay it loud, say it clear, refugees are welcome here!\n\nAlle zusammen gegen den Faschismus!\n\nIhr habt den Krieg verloren, Ihr habt den Krieg verloren, ihr habt, ihr habt, ihr habt den Krieg verloren (wiederholen) zwei mal!\n\nNazis gibt's in jeder Stadt, bildet Banden macht sie platt!\n\nIhr seid so lächerlich, ihr seid so lächerlich, ihr seid, ihr seid, ihr seid so lächerlich\n\nGebt den Nazis die Straße zurück - Stein für Stein - Stück für Stück\n\nOb Ost, ob West, nieder mit der Nazipest\nOb Süd, ob Nord, Nazis über Bord!\n\nOb Süd ob Nord- Widerstand an jedem Ort.\n\nEs gibt kein Recht auf Nazipropaganda!\n\nAttacke, Attacke, die AfD ist kacke\n\nGegen das Konstrukt aus Volk, Nation und Rasse. Für uns gibt's nur eins: Klasse gegen Klasse\n\nGegen das Konstrukt von Rasse und Nation. Für uns gib's nur eins:\nSoziale Revolution!\n\nFür die Freiheit, für das Leben - Nazis von der Straße Fegen\n\nNie, nie, nie wieder Deutschland!!!\n\nKein Vergeben - Kein Vergessen: Nazis haben Namen und Adressen!\n\nDer Fuchs ist schlau und Stellt sich dumm - Beim Fascho ist es andersrum\n\nNationalismus raus aus den Köpfen!\n\nWer nichts ist und wer nichts kann - der muss stolz sein auf sein Land!\n\nSchießt die Weidel auf den Mond,  das ist Raumfahrt die sich lohnt!\n\nSay it loud, say it clear, fascists are not welcome here\n\nHurra, hurra,\nDie Antifa ist da\n\nAfd - Rassisten, Sexisten\nBrandstifter, Totschläger und Faschisten\n\nWer Deutschland nicht liebt, hat Deutschland verstanden\n\nEs gibt kein Recht auf Nazipropaganda\n\nDie AfD ist rechtsextrem -und für die Verfassung ein Problem\n\nNazis verpisst Euch\nX X   XX X\nkeiner vermisst Euch!\nX X   XX X\n\nNie wieder ist jetzt!\n\nHoch die internationale Solidarität!\n\nSolidarität heisst Widerstand,\nKampf dem Faschis
+File:/home/johbot/.local/share/signal-cli/attachments/PivtPPALchfYSg-YlbC_.txt
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:55 CET 2025
+Timestamp:1739966103038
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Demoticker Mainz Wiesbaden:
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:55 CET 2025
+Timestamp:1739966103200
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Wir sind hier, wir sind laut, weil ihr uns die Zukunft klautnMotor aus, Fahrrad fahr'n. Für das Klima Bus und Bahn.nn„What do we want? Climate justice! When do we want it? Now!“nnStreik in der Schule, Streik in dem Betrieb, das ist unsre Antwort auf eure Politiknn„Ob Kohle aus der Mine, ob Kohle aus der Bank: Beidem fehlt die Liebe, beides macht uns krank.“nErst kommt das Fressen, dann kommt dir Moral: Wohlstand für alle - Kampf dem Kapitalnn/// Mathenachhilfe ///n1,2,3,4, Für das Klima sind wir hier  5,6,7,8,  RWE wird plattgemacht  9 und 10, der Klimastreik wird weitergehenn1,2,3,4 Alle Bäume bleiben hier  5,6,7,8, Kohlekraft wird plattgemacht  9 und 10, der Widerstand muss weitergehn!n1,2,3,4 In Wiesbaden da streiken wir  5,6,7,8, die CDU hat scheiß gemacht  9 und 10, der Friedrich Merz der muss jetzt gehn!nn/// Rechtsberatung ///nEs gibt kein Recht, die Erde zu zerstören.nEs gibt kein Recht, ein SUV zu fahren.nEs gibt kein Recht, Kohle auszugraben.nEs gibt kein Recht, Kohlebagger zu fahren.nEs gibt kein Recht auf Kohlebagger fahren.nEs gibt kein Recht, auf neue Autobahnen.nEs gibt kein Recht, auf Kohle, Gas und Erdöl.nEs gibt kein Recht, von Donald Gas zu Kaufen.n((Hinweis: immer schön das K in Kein betonen ^^))nnHoch die internationale Solidarität!nHoch die antinationale Solidarität!nn„Show me what democracy looks like“ – „This is what democracy looks like!“nnWo, Wo, Wo bleibt die Klima-era?nWo, Wo, Wo bleibt das Klimageld?nnSport for futuren„Hey, hey! Wer nicht hüpft der ist für Kohle.“nHoch mit dem Klimaschutz - Runter mit der Kohle!nn„We are unstoppable, another world is possible“nn/// Ein geben und Nehmen ///nGebt mir ein R - W - EnGebt mir ein L - N - GnGebt mir ein B - PnGebt mir ein A - F - DnGebt mir ein F - D - PnGebt mir ein C - D - UnGebt mir ein A - K - WnnIch sage Kohle ihr sagt Stopp!nIch sage Hambi ihr sagt bleibt!nIch sage Grüne Lunge ihr sagt bleibt!nIch
+File:/home/johbot/.local/share/signal-cli/attachments/NtI67JlHcvPZ8whjv7He.txt
+///MESSAGE///
+Name:Ralf-Michael Jäger
+Time:Mi 19. Feb 18:06:55 CET 2025
+Timestamp:1739966119601
+User:1639c035-5e3f-422f-9cdf-b2583fde874a
+Group:U/bVJbYCLQ2QMoYc0tTad/edVkczwaAcoAQRgEvxVDo=
+Text:Hallo ihr Lieben,\n\ngegenwärtig kann man meinen dass sich die Ereignisse überschlagen und mit ihnen die Antwort der Mainzer Stadtgesellschaft. In den einschlägigen Telegram- und Signal-Gruppen laufen die Drähte heiß, und wenn es euch so geht wie uns droht man langsam aber sicher den Überblick zu verlieren.\n\nKraft unseres Amtes als Vernetzungsaktivist*innen haben wir euch die anstehenden Events zusammengefasst. Sollte etwas fehlen, schreibt es uns gerne.\n\nHeute, sprich Mittwoch, der 19.02, wird eine Mahnwache anlässlich der rassistischen Anschläge in Hanau vor der Staatskanzlei um 20 Uhr stattfinden.\n\nAm Donnerstag, den 20.02. um 18 Uhr wird auf dem Domplatz die Kundgebung "Sound of Democracy" stattfinden. Es werden dort viele Musiker zusammenkommen, und es ist offen für alle. Außerdem soll eine Menschenkette gebildet werden, die die Worte "Nie wieder" bilden wird.\n\nAm Freitag, den 21.02. wird ab 15:30 auf dem Gutenbergplatz ausgehend vom DGB, Rheinhessen gegen Rechts und #NieWieder33 die Kundgebung "Demokratie wählen - Rechtsextreme stoppen" stattfinden. Die neue Initiative "Eltern gegen Rechts" werden wieder einen Familienbereich anbieten, und die oben genannten "Kunstschaffende gegen Rechts" werden ein kulturelles Programm bieten.\n\nEbenfalls am Freitag veranstaltet das MediNetz Mainz um 18 Uhr im Roten Saal der Hochschule für Musik Mainz, Jakob-Welder-Weg 28, ein Konzert mit dem Namen "Zuhören und Vernetzen". Details findet ihr auf unserer Homepage:\nhttps://mainzimwandel.de/termine/konzert-zuhoeren-und-vernetzen/\n\nAm Samstag, den 22.02. findet am Schillerplatz, genauer gesagt am Fastnachtsbrunnen, um 11-13 Uhr die Aktion "Klimaschutz nicht verschlafen" von den Students For Future statt. Bringt Schlafsack, Isomatte und ggf. ein Plakat mit 😁\n\nAm Sonntag, den 23.02. ist Wahltag. Bitte geht wählen und nutzt eure Stimme ✊\n\nSpäter am Sonntag, und zwar ab 18 Uhr, findet im Infoladen Ella Janecek ein Wahlabend statt. Federführend sind dabei das Jugendf
+File:/home/johbot/.local/share/signal-cli/attachments/87OzWfeZDEBG2IgoIBdO.txt
+///MESSAGE///
+Name:Ralf-Michael Jäger
+Time:Mi 19. Feb 18:06:55 CET 2025
+Timestamp:1739966119681
+User:1639c035-5e3f-422f-9cdf-b2583fde874a
+Group:JOYmPusY0iPM4t0DatMntkQ6g3gp9+ASgSaWb4gnkNw=
+Text:Hallo ihr Lieben,\n\ngegenwärtig kann man meinen dass sich die Ereignisse überschlagen und mit ihnen die Antwort der Mainzer Stadtgesellschaft. In den einschlägigen Telegram- und Signal-Gruppen laufen die Drähte heiß, und wenn es euch so geht wie uns droht man langsam aber sicher den Überblick zu verlieren.\n\nKraft unseres Amtes als Vernetzungsaktivist*innen haben wir euch die anstehenden Events zusammengefasst. Sollte etwas fehlen, schreibt es uns gerne.\n\nHeute, sprich Mittwoch, der 19.02, wird eine Mahnwache anlässlich der rassistischen Anschläge in Hanau vor der Staatskanzlei um 20 Uhr stattfinden.\n\nAm Donnerstag, den 20.02. um 18 Uhr wird auf dem Domplatz die Kundgebung "Sound of Democracy" stattfinden. Es werden dort viele Musiker zusammenkommen, und es ist offen für alle. Außerdem soll eine Menschenkette gebildet werden, die die Worte "Nie wieder" bilden wird.\n\nAm Freitag, den 21.02. wird ab 15:30 auf dem Gutenbergplatz ausgehend vom DGB, Rheinhessen gegen Rechts und #NieWieder33 die Kundgebung "Demokratie wählen - Rechtsextreme stoppen" stattfinden. Die neue Initiative "Eltern gegen Rechts" werden wieder einen Familienbereich anbieten, und die oben genannten "Kunstschaffende gegen Rechts" werden ein kulturelles Programm bieten.\n\nEbenfalls am Freitag veranstaltet das MediNetz Mainz um 18 Uhr im Roten Saal der Hochschule für Musik Mainz, Jakob-Welder-Weg 28, ein Konzert mit dem Namen "Zuhören und Vernetzen". Details findet ihr auf unserer Homepage:\nhttps://mainzimwandel.de/termine/konzert-zuhoeren-und-vernetzen/\n\nAm Samstag, den 22.02. findet am Schillerplatz, genauer gesagt am Fastnachtsbrunnen, um 11-13 Uhr die Aktion "Klimaschutz nicht verschlafen" von den Students For Future statt. Bringt Schlafsack, Isomatte und ggf. ein Plakat mit 😁\n\nAm Sonntag, den 23.02. ist Wahltag. Bitte geht wählen und nutzt eure Stimme ✊\n\nSpäter am Sonntag, und zwar ab 18 Uhr, findet im Infoladen Ella Janecek ein Wahlabend statt. Federführend sind dabei das Jugendf
+File:/home/johbot/.local/share/signal-cli/attachments/87OzWfeZDEBG2IgoIBdO.txt
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:55 CET 2025
+Timestamp:1739966176233
+User:+49491634615548
+Group:
+Text:Hier ist eine Liste von commands:\n-shouts [Antifa|Umwelt] zeigt eine Liste mit Demorufen an\n-subscribe fügt dich zu der Verteilerliste hinzu\n-unsubscribe entfernt dich von der Verteilerliste
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:55 CET 2025
+Timestamp:1739966176029
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Hier ist eine Liste von commands:n-shouts [Antifa|Umwelt] zeigt eine Liste mit Demorufen ann-subscribe fügt dich zu der Verteilerliste hinzun-unsubscribe entfernt dich von der Verteilerliste
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:55 CET 2025
+Timestamp:1739966175906
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Demoticker Mainz Wiesbaden:
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:55 CET 2025
+Timestamp:1739966175455
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Demoticker Mainz Wiesbaden:
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:55 CET 2025
+Timestamp:1739966180706
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Du wurdest noch nicht verifiziert. Deine Nachricht wird manuell überprüft. Das kann einen Moment dauern, bitte habe etwas Geduld.\n\nEnvelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548\nTimestamp: 1739966180601 (2025-02-19T11:56:20.601Z)\nServer timestamps: received: 1739966181389 (2025-02-19T11:56:21.389Z) delivered: 1739984795467 (2025-02-19T17:06:35.467Z)\nReceived a sync message\nReceived sync sent message\nTo: “Demoticker Mainz Wiesbaden” +49491634615548\nTimestamp: 1739966180601 (2025-02-19T11:56:20.601Z)\nMessage timestamp: 1739966180601 (2025-02-19T11:56:20.601Z)\nBody: Du wurdest noch nicht verifiziert. Deine Nachricht wird manuell überprüft. Das kann einen Moment dauern, bitte habe etwas Geduld.\n\nEnvelope from: “Moon” +4917664160088 (device: 1) to +49491634615548\nTimestamp: 1739966181802 (2025-02-19T11:56:21.802Z)\nServer timestamps: received: 1739966181420 (2025-02-19T11:56:21.420Z) delivered: 1739984795467 (2025-02-19T17:06:35.467Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1739966181802 (2025-02-19T11:56:21.802Z)\nIs delivery receipt\nTimestamps:\n- 1739966175455 (2025-02-19T11:56:15.455Z)\n\nEnvelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548\nTimestamp: 1739966179436 (2025-02-19T11:56:19.436Z)\nServer timestamps: received: 1739966181546 (2025-02-19T11:56:21.546Z) delivered: 1739984795468 (2025-02-19T17:06:35.468Z)\nReceived a sync message\nReceived sync sent message\nTo: “Löwenzahn” +4917621430270, “Moon” +4917664160088\nTimestamp: 1739966179436 (2025-02-19T11:56:19.436Z)\nMessage timestamp: 1739966179436 (2025-02-19T11:56:19.436Z)\nBody: Hier ist eine Liste von commands:n-shouts [Antifa|Umwelt] zeigt eine Liste mit Demorufen ann-subscribe fügt dich zu der Verteilerliste hinzun-unsubscribe entfernt dich von der Verteilerliste
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:55 CET 2025
+Timestamp:1739966180604
+User:+49491634615548
+Group:
+Text:Hier ist eine Liste von commands:\n-shouts [Antifa|Umwelt] zeigt eine Liste mit Demorufen an\n-subscribe fügt dich zu der Verteilerliste hinzu\n-unsubscribe entfernt dich von der Verteilerliste
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:55 CET 2025
+Timestamp:1739966182098
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Du wurdest noch nicht verifiziert. Deine Nachricht wird manuell überprüft. Das kann einen Moment dauern, bitte habe etwas Geduld.\n\nEnvelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548\nTimestamp: 1739966182151 (2025-02-19T11:56:22.151Z)\nServer timestamps: received: 1739966182469 (2025-02-19T11:56:22.469Z) delivered: 1739984795468 (2025-02-19T17:06:35.468Z)\nReceived a sync message\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1739966181871 (2025-02-19T11:56:21.871Z)\nServer timestamps: received: 1739966182776 (2025-02-19T11:56:22.776Z) delivered: 1739984795468 (2025-02-19T17:06:35.468Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1739966181871 (2025-02-19T11:56:21.871Z)\nIs delivery receipt\nTimestamps:\n- 1739966181298 (2025-02-19T11:56:21.298Z)\n\nEnvelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548\nTimestamp: 1739966181298 (2025-02-19T11:56:21.298Z)\nServer timestamps: received: 1739966182935 (2025-02-19T11:56:22.935Z) delivered: 1739984795468 (2025-02-19T17:06:35.468Z)\nReceived a sync message\nReceived sync sent message\nTo: “Löwenzahn” +4917621430270, “Moon” +4917664160088\nTimestamp: 1739966181298 (2025-02-19T11:56:21.298Z)\nMessage timestamp: 1739966181298 (2025-02-19T11:56:21.298Z)\nBody: Demoticker Mainz Wiesbaden:
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:56 CET 2025
+Timestamp:1739966183954
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Anti AfD Sprüche/Lieder:nnAlerta, Alerta, Antifascista!nnSiamo tutti antifascisti!nnGib mir ein A - A! Gib mir ein F - F! Gib mir ein D - D! Was ist das? Scheiße! Was ist das? Scheiße!nnAfD - Rassistenpack - wir haben euch zum Kotzen satt!nnSay it loud, say it clear, refugees are welcome here!nnAlle zusammen gegen den Faschismus!nnIhr habt den Krieg verloren, Ihr habt den Krieg verloren, ihr habt, ihr habt, ihr habt den Krieg verloren (wiederholen) zwei mal!nnNazis gibt's in jeder Stadt, bildet Banden macht sie platt!nnIhr seid so lächerlich, ihr seid so lächerlich, ihr seid, ihr seid, ihr seid so lächerlichnnGebt den Nazis die Straße zurück - Stein für Stein - Stück für StücknnOb Ost, ob West, nieder mit der NazipestnOb Süd, ob Nord, Nazis über Bord!nnOb Süd ob Nord- Widerstand an jedem Ort.nnEs gibt kein Recht auf Nazipropaganda!nnAttacke, Attacke, die AfD ist kackennGegen das Konstrukt aus Volk, Nation und Rasse. Für uns gibt's nur eins: Klasse gegen KlassennGegen das Konstrukt von Rasse und Nation. Für uns gib's nur eins:nSoziale Revolution!nnFür die Freiheit, für das Leben - Nazis von der Straße FegennnNie, nie, nie wieder Deutschland!!!nnKein Vergeben - Kein Vergessen: Nazis haben Namen und Adressen!nnDer Fuchs ist schlau und Stellt sich dumm - Beim Fascho ist es andersrumnnNationalismus raus aus den Köpfen!nnWer nichts ist und wer nichts kann - der muss stolz sein auf sein Land!nnSchießt die Weidel auf den Mond,  das ist Raumfahrt die sich lohnt!nnSay it loud, say it clear, fascists are not welcome herennHurra, hurra,nDie Antifa ist dannAfd - Rassisten, SexistennBrandstifter, Totschläger und FaschistennnWer Deutschland nicht liebt, hat Deutschland verstandennnEs gibt kein Recht auf NazipropagandannDie AfD ist rechtsextrem -und für die Verfassung ein ProblemnnNazis verpisst EuchnX X   XX Xnkeiner vermisst Euch!nX X   XX XnnNie wieder ist jetzt!nnHoch die internationa
+File:/home/johbot/.local/share/signal-cli/attachments/tTRXAFaWpXx9aR5k-0PO.txt
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:56 CET 2025
+Timestamp:1739966211511
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Demoticker Mainz Wiesbaden:
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:56 CET 2025
+Timestamp:1739966213475
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Hallo Nils
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:56 CET 2025
+Timestamp:1739966214118
+User:+49491634615548
+Group:
+Text:Du wurdest noch nicht verifiziert. Deine Nachricht wird manuell überprüft. Das kann einen Moment dauern, bitte habe etwas Geduld.\n\nEnvelope from: “Moon” +4917664160088 (device: 1) to +49491634615548\nTimestamp: 1739966215543 (2025-02-19T11:56:55.543Z)\nServer timestamps: received: 1739966214338 (2025-02-19T11:56:54.338Z) delivered: 1739984795469 (2025-02-19T17:06:35.469Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1739966215543 (2025-02-19T11:56:55.543Z)\nIs delivery receipt\nTimestamps:\n- 1739966213475 (2025-02-19T11:56:53.475Z)\n\nEnvelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548\nTimestamp: 1739966217737 (2025-02-19T11:56:57.737Z)\nServer timestamps: received: 1739966217820 (2025-02-19T11:56:57.820Z) delivered: 1739984795469 (2025-02-19T17:06:35.469Z)\nReceived a sync message\n\nEnvelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548\nTimestamp: 1739966229928 (2025-02-19T11:57:09.928Z)\nServer timestamps: received: 1739966230247 (2025-02-19T11:57:10.247Z) delivered: 1739984795469 (2025-02-19T17:06:35.469Z)\nReceived a sync message\nReceived sync sent message\nTo: “Löwenzahn” +4917621430270\nTimestamp: 1739966229928 (2025-02-19T11:57:09.928Z)\nMessage timestamp: 1739966229928 (2025-02-19T11:57:09.928Z)\nBody: Hier ist eine Liste von commands:\n-shouts [Antifa|Umwelt] zeigt eine Liste mit Demorufen an\n-subscribe fügt dich zu der Verteilerliste hinzu\n-unsubscribe entfernt dich von der Verteilerliste
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:06:56 CET 2025
+Timestamp:1739966357622
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:56 CET 2025
+Timestamp:1739966368078
+User:+49491634615548
+Group:
+Text:Hier ist eine Liste von commands:\n-shouts [Antifa|Umwelt] zeigt eine Liste mit Demorufen an\n-subscribe fügt dich zu der Verteilerliste hinzu\n-unsubscribe entfernt dich von der Verteilerliste
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:06:56 CET 2025
+Timestamp:1739966381003
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:56 CET 2025
+Timestamp:1739966391426
+User:+49491634615548
+Group:
+Text:Hier ist eine Liste von commands:\n-shouts [Antifa|Umwelt] zeigt eine Liste mit Demorufen an\n-subscribe fügt dich zu der Verteilerliste hinzu\n-unsubscribe entfernt dich von der Verteilerliste
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:06:56 CET 2025
+Timestamp:1739966391104
+User:+4917621430270
+Group:
+Text:hallo
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:56 CET 2025
+Timestamp:1739966409881
+User:+49491634615548
+Group:
+Text:Du wurdest noch nicht verifiziert. Deine Nachricht wird manuell überprüft. Das kann einen Moment dauern, bitte habe etwas Geduld.
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:56 CET 2025
+Timestamp:1739966410859
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Löwenzahn:
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:56 CET 2025
+Timestamp:1739966411120
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:hallo
+File:
+///MESSAGE///
+Name:Regina Sagel
+Time:Mi 19. Feb 18:06:57 CET 2025
+Timestamp:1739966710814
+User:7f41a629-665c-42ae-b3b0-98a2e8d60170
+Group:JOYmPusY0iPM4t0DatMntkQ6g3gp9+ASgSaWb4gnkNw=
+Text:Am 23.2. findet in den Wahllokalen die Auszählung der Stimmen statt. Jede*r hat das Recht, diese Auszählung zu beobachten. Davon sollten wir ausgiebig Gebrauch machen, denn genau bei der Auszählung könnte manipuliert werden. Wahlpartys bitte auf später verschieben!🙏
+File:
+///MESSAGE///
+Name:Regina Sagel
+Time:Mi 19. Feb 18:06:57 CET 2025
+Timestamp:1739966760438
+User:7f41a629-665c-42ae-b3b0-98a2e8d60170
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:Am 23.2. findet in den Wahllokalen die Auszählung der Stimmen statt. Jede*r hat das Recht, diese Auszählung zu beobachten. Davon sollten wir ausgiebig Gebrauch machen, denn genau bei der Auszählung könnte manipuliert werden. Wahlpartys bitte auf später verschieben!🙏
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:06:57 CET 2025
+Timestamp:1739966790494
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:57 CET 2025
+Timestamp:1739966801440
+User:+49491634615548
+Group:
+Text:Hier ist eine Liste von commands:\n-shouts [Antifa|Umwelt] zeigt eine Liste mit Demorufen an\n-subscribe fügt dich zu der Verteilerliste hinzu\n-unsubscribe entfernt dich von der Verteilerliste
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:06:57 CET 2025
+Timestamp:1739966825196
+User:+4917621430270
+Group:
+Text:hallo Menschheit
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:57 CET 2025
+Timestamp:1739966835919
+User:+49491634615548
+Group:
+Text:Du wurdest noch nicht verifiziert. Deine Nachricht wird manuell überprüft. Das kann einen Moment dauern, bitte habe etwas Geduld.
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:57 CET 2025
+Timestamp:1739966843324
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Löwenzahn:
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:57 CET 2025
+Timestamp:1739966851805
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:hallo Menschheit
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:06:58 CET 2025
+Timestamp:1739966970247
+User:+4917621430270
+Group:
+Text:Lasst uns gemeinsam diesen Freitag den Mauritiusplatz verziehren! Wir treffen uns vor Ort um 15 Uhr, um dort lauter Botschaften für Menschlichkeit und Vielfalt zu hinterlassen. Das ist nicht nur ein wirksames Mittel, um\nvor der BTW nochmal Werbung gegen Rechts zu machen, es nervt auch die AfD, die am Tag danach vermutlich dort einen Infostand halten wird. Bringt gerne Kreide mit, wir haben aber auch welche vor Ort. Bitte teilt diesen Aufruf nicht auf öffentlichen Kanälen und großen Gruppen, damit AfD und Gleichgesinnte keinen Wind davon bekommen.
+File:/home/johbot/.local/share/signal-cli/attachments/-gtMOEp4G2lf_mYWv2WF.png
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:58 CET 2025
+Timestamp:1739967033044
+User:+49491634615548
+Group:
+Text:Du wurdest noch nicht verifiziert. Deine Nachricht wird manuell überprüft. Das kann einen Moment dauern, bitte habe etwas Geduld.
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:58 CET 2025
+Timestamp:1739967040516
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Löwenzahn:
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:58 CET 2025
+Timestamp:1739967049912
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Lasst uns gemeinsam diesen Freitag den Mauritiusplatz verziehren! Wir treffen uns vor Ort um 15 Uhr, um dort lauter Botschaften für Menschlichkeit und Vielfalt zu hinterlassen. Das ist nicht nur ein wirksames Mittel, umnvor der BTW nochmal Werbung gegen Rechts zu machen, es nervt auch die AfD, die am Tag danach vermutlich dort einen Infostand halten wird. Bringt gerne Kreide mit, wir haben aber auch welche vor Ort. Bitte teilt diesen Aufruf nicht auf öffentlichen Kanälen und großen Gruppen, damit AfD und Gleichgesinnte keinen Wind davon bekommen.
+File:/home/johbot/.local/share/signal-cli/attachments/icFjs-0o6Dffx0xWsi_M.png
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:06:58 CET 2025
+Timestamp:1739967092465
+User:+4917621430270
+Group:
+Text:Lasst uns gemeinsam diesen Freitag den Mauritiusplatz verziehren! Wir treffen uns vor Ort um 15 Uhr, um dort lauter Botschaften für Menschlichkeit und Vielfalt zu hinterlassen. Das ist nicht nur ein wirksames Mittel, um\nvor der BTW nochmal Werbung gegen Rechts zu machen, es nervt auch die AfD, die am Tag danach vermutlich dort einen Infostand halten wird. Bringt gerne Kreide mit, wir haben aber auch welche vor Ort. Bitte teilt diesen Aufruf nicht auf öffentlichen Kanälen und großen Gruppen, damit AfD und Gleichgesinnte keinen Wind davon bekommen.
+File:/home/johbot/.local/share/signal-cli/attachments/icFjs-0o6Dffx0xWsi_M.png
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:58 CET 2025
+Timestamp:1739967186946
+User:+49491634615548
+Group:
+Text:Du bist krass
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:58 CET 2025
+Timestamp:1739967207347
+User:+49491634615548
+Group:
+Text:Lasst uns gemeinsam diesen Freitag den Mauritiusplatz verziehren! Wir treffen uns vor Ort um 15 Uhr, um dort lauter Botschaften für Menschlichkeit und Vielfalt zu hinterlassen. Das ist nicht nur ein wirksames Mittel, um\nvor der BTW nochmal Werbung gegen Rechts zu machen, es nervt auch die AfD, die am Tag danach vermutlich dort einen Infostand halten wird. Bringt gerne Kreide mit, wir haben aber auch welche vor Ort. Bitte teilt diesen Aufruf nicht auf öffentlichen Kanälen und großen Gruppen, damit AfD und Gleichgesinnte keinen Wind davon bekommen.
+File:/home/johbot/.local/share/signal-cli/attachments/dYraOO1ib29zt7bx4Y6x.png
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:59 CET 2025
+Timestamp:1739967207635
+User:+49491634615548
+Group:
+Text:Lasst uns gemeinsam diesen Freitag den Mauritiusplatz verziehren! Wir treffen uns vor Ort um 15 Uhr, um dort lauter Botschaften für Menschlichkeit und Vielfalt zu hinterlassen. Das ist nicht nur ein wirksames Mittel, um\nvor der BTW nochmal Werbung gegen Rechts zu machen, es nervt auch die AfD, die am Tag danach vermutlich dort einen Infostand halten wird. Bringt gerne Kreide mit, wir haben aber auch welche vor Ort. Bitte teilt diesen Aufruf nicht auf öffentlichen Kanälen und großen Gruppen, damit AfD und Gleichgesinnte keinen Wind davon bekommen.
+File:/home/johbot/.local/share/signal-cli/attachments/VTJ305kmaxc9mqEMp6lm.png
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:59 CET 2025
+Timestamp:1739967305616
+User:+49491634615548
+Group:
+Text:Hey, ich hab dich leider aus Versehen deabonniert, du musst dich selbst wieder neu abonnieren, damit du wieder up to date bleibst :)
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:59 CET 2025
+Timestamp:1739967312839
+User:+49491634615548
+Group:
+Text:Lasst uns gemeinsam diesen Freitag den Mauritiusplatz verziehren! Wir treffen uns vor Ort um 15 Uhr, um dort lauter Botschaften für Menschlichkeit und Vielfalt zu hinterlassen. Das ist nicht nur ein wirksames Mittel, um\nvor der BTW nochmal Werbung gegen Rechts zu machen, es nervt auch die AfD, die am Tag danach vermutlich dort einen Infostand halten wird. Bringt gerne Kreide mit, wir haben aber auch welche vor Ort. Bitte teilt diesen Aufruf nicht auf öffentlichen Kanälen und großen Gruppen, damit AfD und Gleichgesinnte keinen Wind davon bekommen.
+File:/home/johbot/.local/share/signal-cli/attachments/VTJ305kmaxc9mqEMp6lm.png
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:59 CET 2025
+Timestamp:1739967321570
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Du wurdest noch nicht verifiziert. Deine Nachricht wird manuell überprüft. Das kann einen Moment dauern, bitte habe etwas Geduld.\n\nEnvelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548\nTimestamp: 1739967328791 (2025-02-19T12:15:28.791Z)\nServer timestamps: received: 1739967329347 (2025-02-19T12:15:29.347Z) delivered: 1739984804500 (2025-02-19T17:06:44.500Z)\nReceived a sync message\nReceived sync sent message\nTo: “Löwenzahn” +4917621430270, “Moon” +4917664160088\nTimestamp: 1739967328791 (2025-02-19T12:15:28.791Z)\nMessage timestamp: 1739967328791 (2025-02-19T12:15:28.791Z)\nBody: Demoticker Mainz Wiesbaden:
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:59 CET 2025
+Timestamp:1739967336255
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Hey, ich hab dich leider aus Versehen deabonniert, du musst dich selbst wieder neu abonnieren, damit du wieder up to date bleibst :)
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:59 CET 2025
+Timestamp:1739967344032
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Du wurdest noch nicht verifiziert. Deine Nachricht wird manuell überprüft. Das kann einen Moment dauern, bitte habe etwas Geduld.\n\nEnvelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548\nTimestamp: 1739967351316 (2025-02-19T12:15:51.316Z)\nServer timestamps: received: 1739967351793 (2025-02-19T12:15:51.793Z) delivered: 1739984805296 (2025-02-19T17:06:45.296Z)\nReceived a sync message\nReceived sync sent message\nTo: “Löwenzahn” +4917621430270, “Moon” +4917664160088\nTimestamp: 1739967351316 (2025-02-19T12:15:51.316Z)\nMessage timestamp: 1739967351316 (2025-02-19T12:15:51.316Z)\nBody: Demoticker Mainz Wiesbaden:
+File:
+///MESSAGE///
+Name:Demoticker Mainz Wiesbaden
+Time:Mi 19. Feb 18:06:59 CET 2025
+Timestamp:1739967360258
+User:+49491634615548
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:Lasst uns gemeinsam diesen Freitag den Mauritiusplatz verziehren! Wir treffen uns vor Ort um 15 Uhr, um dort lauter Botschaften für Menschlichkeit und Vielfalt zu hinterlassen. Das ist nicht nur ein wirksames Mittel, umnvor der BTW nochmal Werbung gegen Rechts zu machen, es nervt auch die AfD, die am Tag danach vermutlich dort einen Infostand halten wird. Bringt gerne Kreide mit, wir haben aber auch welche vor Ort. Bitte teilt diesen Aufruf nicht auf öffentlichen Kanälen und großen Gruppen, damit AfD und Gleichgesinnte keinen Wind davon bekommen.
+File:/home/johbot/.local/share/signal-cli/attachments/u3U0tUxRRxoqic1PpI0Z.png
+///MESSAGE///
+Name:wander marvin
+Time:Mi 19. Feb 18:07:00 CET 2025
+Timestamp:1739969022604
+User:2a237882-f236-4c65-82ca-41b33673c71f
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:Ich war selbst schon wahlhelfer und ich habe gesehen, dass es ziemlich unmöglich ist zu schummeln. Da müsste die ganze Helfergruppe und mehr Leute mit drin stecken.\nIch glaube nicht dass man sich hier in Wiesbaden Sorgen machen muss.\n
+File:
+///MESSAGE///
+Name:Regina Sagel
+Time:Mi 19. Feb 18:07:01 CET 2025
+Timestamp:1739971541557
+User:7f41a629-665c-42ae-b3b0-98a2e8d60170
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:Ich musste als Wahlhelferin einen Kollegen beim Auszählen mehrfach zurückpfeifen.\n\nAls Beobachterin musste ich auch schon mal einschreiten.
+File:
+///MESSAGE///
+Name:SugarBeet
+Time:Mi 19. Feb 18:07:01 CET 2025
+Timestamp:1739972004267
+User:4cee0138-6374-426d-be8b-8cd0f6bdde5d
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:Wow! Ich war auch nur einmal Wahlhelfer und habe das wie Marvin erlebt. Kommt offenbar doch auf die Zusammensetzung an.
+File:
+///MESSAGE///
+Name:Theo
+Time:Mi 19. Feb 18:07:01 CET 2025
+Timestamp:1739972723561
+User:be12b985-e136-4e49-9f21-33ae5de44d85
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:AfD ist Kacke, wir alle wissen das.\nJetzt am Samstag den 22. Februar will die AfD Wiesbaden wieder einen Infostand auf dem Mauritiusplatz machen und wir werden auch da sein!\nKommt ab/zwischen 11 Uhr bis 14/15 Uhr zu unserer Gegenkundgebung direkt beim AfD Stand!\n\n#5nach12 #afd_bekaempfen #antifaindieoffensive #fghtafd #noafd #keinbockaufnazis
+File:/home/johbot/.local/share/signal-cli/attachments/_4kGu_Oe_HVBKkRvJ96E.jpg
+///MESSAGE///
+Name:Theo
+Time:Mi 19. Feb 18:07:01 CET 2025
+Timestamp:1739972723523
+User:be12b985-e136-4e49-9f21-33ae5de44d85
+Group:ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Text:AfD ist Kacke, wir alle wissen das.\nJetzt am Samstag den 22. Februar will die AfD Wiesbaden wieder einen Infostand auf dem Mauritiusplatz machen und wir werden auch da sein!\nKommt ab/zwischen 11 Uhr bis 14/15 Uhr zu unserer Gegenkundgebung direkt beim AfD Stand!\n\n#5nach12 #afd_bekaempfen #antifaindieoffensive #fghtafd #noafd #keinbockaufnazis
+File:/home/johbot/.local/share/signal-cli/attachments/_4kGu_Oe_HVBKkRvJ96E.jpg
+///MESSAGE///
+Name:Hiltrudt
+Time:Mi 19. Feb 18:07:01 CET 2025
+Timestamp:1739974376006
+User:c7fb5dec-a664-4da6-b05b-280da591e135
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Heute abend ist um 18 h auch eine Veranstaltung zum Zusammenhang von Klimakrise-Kapital-Herrschaft von den Gruppen gegen Kapital und Nation. :)
+File:
+///MESSAGE///
+Name:Hiltrudt
+Time:Mi 19. Feb 18:07:02 CET 2025
+Timestamp:1739974397337
+User:c7fb5dec-a664-4da6-b05b-280da591e135
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:Heute abend ist um 18 h auch eine Veranstaltung zum Zusammenhang von Klimakrise-Kapital-Herrschaft von den Gruppen gegen Kapital und Nation im Infoladen. :)
+File:
+///MESSAGE///
+Name:jinora
+Time:Mi 19. Feb 18:07:03 CET 2025
+Timestamp:1739975999098
+User:fbf56ee6-7103-4cb6-8139-169ef5203d99
+Group:XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Text:
+File:/home/johbot/.local/share/signal-cli/attachments/JwwNIsqO9yooEwqnIJEP.jpg
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:07:03 CET 2025
+Timestamp:1739981326733
+User:+4917621430270
+Group:NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Text:￼ in der Gruppenbeschreibung hier sind einige todos. Wenn wir den Server gehostet bekommen, kann ich dir auch nen ssh zugang geben, sodass du auch mitentwickeln kannst
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:07:03 CET 2025
+Timestamp:1739984786110
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:12:39 CET 2025
+Timestamp:1739985157914
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:18:16 CET 2025
+Timestamp:1739985486091
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:19:20 CET 2025
+Timestamp:1739985551443
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:20:31 CET 2025
+Timestamp:1739985628990
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:21:04 CET 2025
+Timestamp:1739985660977
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:21:16 CET 2025
+Timestamp:1739985672885
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:21:24 CET 2025
+Timestamp:1739985681035
+User:+4917621430270
+Group:
+Text:-help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:21:35 CET 2025
+Timestamp:1739985691393
+User:+4917621430270
+Group:
+Text:-shouts Antifa
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:Mi 19. Feb 18:22:28 CET 2025
+Timestamp:1739985745765
+User:+4917621430270
+Group:
+Text:hallo
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 16:21:16 CET 2025
+Timestamp:1740928774473
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:04:20 CET 2025
+Timestamp:1740934996463
+User:+4917621430270
+Group:
+Text:!echo test
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:06:37 CET 2025
+Timestamp:1740935179906
+User:+4917621430270
+Group:
+Text:!echo
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:06:48 CET 2025
+Timestamp:1740935179906
+User:+4917621430270
+Group:
+Text:!echo hallo welt!
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:06:58 CET 2025
+Timestamp:1740935179906
+User:+4917621430270
+Group:
+Text:!echo hallo welt!\nAction: STARTED\nTimestamp: 1740935179906 (2025-03-02T17:06:19.906Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935185263 (2025-03-02T17:06:25.263Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STARTED\nTimestamp: 1740935188225 (2025-03-02T17:06:28.225Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935190379 (2025-03-02T17:06:30.379Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STARTED\nTimestamp: 1740935191179 (2025-03-02T17:06:31.179Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935195198 (2025-03-02T17:06:35.198Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nWhen: 1740935196764 (2025-03-02T17:06:36.764Z)\nIs delivery receipt\nTimestamps:\n- 1740935198009 (2025-03-02T17:06:38.009Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935196902 (2025-03-02T17:06:36.902Z)\nServer timestamps: received: 1740935198451 (2025-03-02T17:06:38.451Z) delivered: 1740935198452 (2025-03-02T17:06:38.452Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935196902 (2025-03-02T17:06:36.902Z)\nIs read receipt\nTimestamps:\n- 1740935198009 (2025-03-02T17:06:38.009Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935201506 (2025-03-02T17:06:41.506Z)\nServer timestamps: received: 1740935203059 (2025-03-02T17:06:43.059Z) delivered: 1740935203060 (2025-03-02T17:06:43.060Z)\nSent by unidentified/sealed sender\nReceived a typing message\nAction: STARTED\nTimestamp: 1740935201506 (2025-03-02T17:06:41.506Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935204896 (2025-03-02T17:06:44.896Z)\nServer timestamps: received: 1740935206484 (2025-03-02T17:06:46.484Z) delivered: 1740935206485 (2025-03-02T17:06:46.485Z)\nSent by unidentified/sealed sender\nMessage timestamp: 1740935204896 (2025-03-02T17:06:44.896Z)\nBody: !echo hallo welt!\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935207443 (2025-03-02T17:06:47.443Z)\nServer timestamps: received: 1740935208989 (2025-03-02T17:06:48.989Z) delivered: 1740935208990 (2025-03-02T17:06:48.990Z)\nSent by unidentified/sealed sender\nReceived a typing message\nAction: STOPPED\nTimestamp: 1740935207443 (2025-03-02T17:06:47.443Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935208224 (2025-03-02T17:06:48.224Z)\nServer timestamps: received: 1740935209784 (2025-03-02T17:06:49.784Z) delivered: 1740935209785 (2025-03-02T17:06:49.785Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935208224 (2025-03-02T17:06:48.224Z)\nIs delivery receipt\nTimestamps:\n- 1740935209442 (2025-03-02T17:06:49.442Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935208427 (2025-03-02T17:06:48.427Z)\nServer timestamps: received: 1740935209969 (2025-03-02T17:06:49.969Z) delivered: 1740935209970 (2025-03-02T17:06:49.970Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935208427 (2025-03-02T17:06:48.427Z)\nIs read receipt\nTimestamps:\n- 1740935209442 (2025-03-02T17:06:49.442Z)\nAction: STARTED\nTimestamp: 1740935179906 (2025-03-02T17:06:19.906Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935185263 (2025-03-02T17:06:25.263Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STARTED\nTimestamp: 1740935188225 (2025-03-02T17:06:28.225Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935190379 (2025-03-02T17:06:30.379Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STARTED\nTimestamp: 1740935191179 (2025-03-02T17:06:31.179Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935195198 (2025-03-02T17:06:35.198Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nWhen: 1740935196764 (2025-03-02T17:06:36.764Z)\nIs delivery receipt\nTimestamps:\n- 1740935198009 (2025-03-02T17:06:38.009Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935196902 (2025-03-02T17:06:36.902Z)\nServer timestamps: received: 1740935198451 (2025-03-02T17:06:38.451Z) delivered: 1740935198452 (2025-03-02T17:06:38.452Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935196902 (2025-03-02T17:06:36.902Z)\nIs read receipt\nTimestamps:\n- 1740935198009 (2025-03-02T17:06:38.009Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935201506 (2025-03-02T17:06:41.506Z)\nServer timestamps: received: 1740935203059 (2025-03-02T17:06:43.059Z) delivered: 1740935203060 (2025-03-02T17:06:43.060Z)\nSent by unidentified/sealed sender\nReceived a typing message\nAction: STARTED\nTimestamp: 1740935201506 (2025-03-02T17:06:41.506Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935204896 (2025-03-02T17:06:44.896Z)\nServer timestamps: received: 1740935206484 (2025-03-02T17:06:46.484Z) delivered: 1740935206485 (2025-03-02T17:06:46.485Z)\nSent by unidentified/sealed sender\nMessage timestamp: 1740935204896 (2025-03-02T17:06:44.896Z)\nBody: !echo hallo welt!\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935207443 (2025-03-02T17:06:47.443Z)\nServer timestamps: received: 1740935208989 (2025-03-02T17:06:48.989Z) delivered: 1740935208990 (2025-03-02T17:06:48.990Z)\nSent by unidentified/sealed sender\nReceived a typing message\nAction: STOPPED\nTimestamp: 1740935207443 (2025-03-02T17:06:47.443Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935208224 (2025-03-02T17:06:48.224Z)\nServer timestamps: received: 1740935209784 (2025-03-02T17:06:49.784Z) delivered: 1740935209785 (2025-03-02T17:06:49.785Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935208224 (2025-03-02T17:06:48.224Z)\nIs delivery receipt\nTimestamps:\n- 1740935209442 (2025-03-02T17:06:49.442Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935208427 (2025-03-02T17:06:48.427Z)\nServer timestamps: received: 1740935209969 (2025-03-02T17:06:49.969Z) delivered: 1740935209970 (2025-03-02T17:06:49.970Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935208427 (2025-03-02T17:06:48.427Z)\nIs read receipt\nTimestamps:\n- 1740935209442 (2025-03-02T17:06:49.442Z)\nAction: STARTED\nTimestamp: 1740935179906 (2025-03-02T17:06:19.906Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935185263 (2025-03-02T17:06:25.263Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STARTED\nTimestamp: 1740935188225 (2025-03-02T17:06:28.225Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935190379 (2025-03-02T17:06:30.379Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STARTED\nTimestamp: 1740935191179 (2025-03-02T17:06:31.179Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935195198 (2025-03-02T17:06:35.198Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nWhen: 1740935196764 (2025-03-02T17:06:36.764Z)\nIs delivery receipt\nTimestamps:\n- 1740935198009 (2025-03-02T17:06:38.009Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935196902 (2025-03-02T17:06:36.902Z)\nServer timestamps: received: 1740935198451 (2025-03-02T17:06:38.451Z) delivered: 1740935198452 (2025-03-02T17:06:38.452Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935196902 (2025-03-02T17:06:36.902Z)\nIs read receipt\nTimestamps:\n- 1740935198009 (2025-03-02T17:06:38.009Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935201506 (2025-03-02T17:06:41.506Z)\nServer timestamps: received: 1740935203059 (2025-03-02T17:06:43.059Z) delivered: 1740935203060 (2025-03-02T17:06:43.060Z)\nSent by unidentified/sealed sender\nReceived a typing message\nAction: STARTED\nTimestamp: 1740935201506 (2025-03-02T17:06:41.506Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935204896 (2025-03-02T17:06:44.896Z)\nServer timestamps: received: 1740935206484 (2025-03-02T17:06:46.484Z) delivered: 1740935206485 (2025-03-02T17:06:46.485Z)\nSent by unidentified/sealed sender\nMessage timestamp: 1740935204896 (2025-03-02T17:06:44.896Z)\nBody: !echo hallo welt!\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935207443 (2025-03-02T17:06:47.443Z)\nServer timestamps: received: 1740935208989 (2025-03-02T17:06:48.989Z) delivered: 1740935208990 (2025-03-02T17:06:48.990Z)\nSent by unidentified/sealed sender\nReceived a typing message\nAction: STOPPED\nTimestamp: 1740935207443 (2025-03-02T17:06:47.443Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935208224 (2025-03-02T17:06:48.224Z)\nServer timestamps: received: 1740935209784 (2025-03-02T17:06:49.784Z) delivered: 1740935209785 (2025-03-02T17:06:49.785Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935208224 (2025-03-02T17:06:48.224Z)\nIs delivery receipt\nTimestamps:\n- 1740935209442 (2025-03-02T17:06:49.442Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935208427 (2025-03-02T17:06:48.427Z)\nServer timestamps: received: 1740935209969 (2025-03-02T17:06:49.969Z) delivered: 1740935209970 (2025-03-02T17:06:49.970Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935208427 (2025-03-02T17:06:48.427Z)\nIs read receipt\nTimestamps:\n- 1740935209442 (2025-03-02T17:06:49.442Z)\nAction: STARTED\nTimestamp: 1740935179906 (2025-03-02T17:06:19.906Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935185263 (2025-03-02T17:06:25.263Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STARTED\nTimestamp: 1740935188225 (2025-03-02T17:06:28.225Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935190379 (2025-03-02T17:06:30.379Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STARTED\nTimestamp: 1740935191179 (2025-03-02T17:06:31.179Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935195198 (2025-03-02T17:06:35.198Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nWhen: 1740935196764 (2025-03-02T17:06:36.764Z)\nIs delivery receipt\nTimestamps:\n- 1740935198009 (2025-03-02T17:06:38.009Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935196902 (2025-03-02T17:06:36.902Z)\nServer timestamps: received: 1740935198451 (2025-03-02T17:06:38.451Z) delivered: 1740935198452 (2025-03-02T17:06:38.452Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935196902 (2025-03-02T17:06:36.902Z)\nIs read receipt\nTimestamps:\n- 1740935198009 (2025-03-02T17:06:38.009Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935201506 (2025-03-02T17:06:41.506Z)\nServer timestamps: received: 1740935203059 (2025-03-02T17:06:43.059Z) delivered: 1740935203060 (2025-03-02T17:06:43.060Z)\nSent by unidentified/sealed sender\nReceived a typing message\nAction: STARTED\nTimestamp: 1740935201506 (2025-03-02T17:06:41.506Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935204896 (2025-03-02T17:06:44.896Z)\nServer timestamps: received: 1740935206484 (2025-03-02T17:06:46.484Z) delivered: 1740935206485 (2025-03-02T17:06:46.485Z)\nSent by unidentified/sealed sender\nMessage timestamp: 1740935204896 (2025-03-02T17:06:44.896Z)\nBody: !echo hallo welt!\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935207443 (2025-03-02T17:06:47.443Z)\nServer timestamps: received: 1740935208989 (2025-03-02T17:06:48.989Z) delivered: 1740935208990 (2025-03-02T17:06:48.990Z)\nSent by unidentified/sealed sender\nReceived a typing message\nAction: STOPPED\nTimestamp: 1740935207443 (2025-03-02T17:06:47.443Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935208224 (2025-03-02T17:06:48.224Z)\nServer timestamps: received: 1740935209784 (2025-03-02T17:06:49.784Z) delivered: 1740935209785 (2025-03-02T17:06:49.785Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935208224 (2025-03-02T17:06:48.224Z)\nIs delivery receipt\nTimestamps:\n- 1740935209442 (2025-03-02T17:06:49.442Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935208427 (2025-03-02T17:06:48.427Z)\nServer timestamps: received: 1740935209969 (2025-03-02T17:06:49.969Z) delivered: 1740935209970 (2025-03-02T17:06:49.970Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935208427 (2025-03-02T17:06:48.427Z)\nIs read receipt\nTimestamps:\n- 1740935209442 (2025-03-02T17:06:49.442Z)\nAction: STARTED\nTimestamp: 1740935179906 (2025-03-02T17:06:19.906Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935185263 (2025-03-02T17:06:25.263Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STARTED\nTimestamp: 1740935188225 (2025-03-02T17:06:28.225Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935190379 (2025-03-02T17:06:30.379Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STARTED\nTimestamp: 1740935191179 (2025-03-02T17:06:31.179Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935195198 (2025-03-02T17:06:35.198Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nWhen: 1740935196764 (2025-03-02T17:06:36.764Z)\nIs delivery receipt\nTimestamps:\n- 1740935198009 (2025-03-02T17:06:38.009Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935196902 (2025-03-02T17:06:36.902Z)\nServer timestamps: received: 1740935198451 (2025-03-02T17:06:38.451Z) delivered: 1740935198452 (2025-03-02T17:06:38.452Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935196902 (2025-03-02T17:06:36.902Z)\nIs read receipt\nTimestamps:\n- 1740935198009 (2025-03-02T17:06:38.009Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935201506 (2025-03-02T17:06:41.506Z)\nServer timestamps: received: 1740935203059 (2025-03-02T17:06:43.059Z) delivered: 1740935203060 (2025-03-02T17:06:43.060Z)\nSent by unidentified/sealed sender\nReceived a typing message\nAction: STARTED\nTimestamp: 1740935201506 (2025-03-02T17:06:41.506Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935204896 (2025-03-02T17:06:44.896Z)\nServer timestamps: received: 1740935206484 (2025-03-02T17:06:46.484Z) delivered: 1740935206485 (2025-03-02T17:06:46.485Z)\nSent by unidentified/sealed sender\nMessage timestamp: 1740935204896 (2025-03-02T17:06:44.896Z)\nBody: !echo hallo welt!\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935207443 (2025-03-02T17:06:47.443Z)\nServer timestamps: received: 1740935208989 (2025-03-02T17:06:48.989Z) delivered: 1740935208990 (2025-03-02T17:06:48.990Z)\nSent by unidentified/sealed sender\nReceived a typing message\nAction: STOPPED\nTimestamp: 1740935207443 (2025-03-02T17:06:47.443Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935208224 (2025-03-02T17:06:48.224Z)\nServer timestamps: received: 1740935209784 (2025-03-02T17:06:49.784Z) delivered: 1740935209785 (2025-03-02T17:06:49.785Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935208224 (2025-03-02T17:06:48.224Z)\nIs delivery receipt\nTimestamps:\n- 1740935209442 (2025-03-02T17:06:49.442Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935208427 (2025-03-02T17:06:48.427Z)\nServer timestamps: received: 1740935209969 (2025-03-02T17:06:49.969Z) delivered: 1740935209970 (2025-03-02T17:06:49.970Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935208427 (2025-03-02T17:06:48.427Z)\nIs read receipt\nTimestamps:\n- 1740935209442 (2025-03-02T17:06:49.442Z)\nAction: STARTED\nTimestamp: 1740935179906 (2025-03-02T17:06:19.906Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935185263 (2025-03-02T17:06:25.263Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STARTED\nTimestamp: 1740935188225 (2025-03-02T17:06:28.225Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935190379 (2025-03-02T17:06:30.379Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STARTED\nTimestamp: 1740935191179 (2025-03-02T17:06:31.179Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935195198 (2025-03-02T17:06:35.198Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nWhen: 1740935196764 (2025-03-02T17:06:36.764Z)\nIs delivery receipt\nTimestamps:\n- 1740935198009 (2025-03-02T17:06:38.009Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935196902 (2025-03-02T17:06:36.902Z)\nServer timestamps: received: 1740935198451 (2025-03-02T17:06:38.451Z) delivered: 1740935198452 (2025-03-02T17:06:38.452Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935196902 (2025-03-02T17:06:36.902Z)\nIs read receipt\nTimestamps:\n- 1740935198009 (2025-03-02T17:06:38.009Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935201506 (2025-03-02T17:06:41.506Z)\nServer timestamps: received: 1740935203059 (2025-03-02T17:06:43.059Z) delivered: 1740935203060 (2025-03-02T17:06:43.060Z)\nSent by unidentified/sealed sender\nReceived a typing message\nAction: STARTED\nTimestamp: 1740935201506 (2025-03-02T17:06:41.506Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935204896 (2025-03-02T17:06:44.896Z)\nServer timestamps: received: 1740935206484 (2025-03-02T17:06:46.484Z) delivered: 1740935206485 (2025-03-02T17:06:46.485Z)\nSent by unidentified/sealed sender\nMessage timestamp: 1740935204896 (2025-03-02T17:06:44.896Z)\nBody: !echo hallo welt!\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935207443 (2025-03-02T17:06:47.443Z)\nServer timestamps: received: 1740935208989 (2025-03-02T17:06:48.989Z) delivered: 1740935208990 (2025-03-02T17:06:48.990Z)\nSent by unidentified/sealed sender\nReceived a typing message\nAction: STOPPED\nTimestamp: 1740935207443 (2025-03-02T17:06:47.443Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935208224 (2025-03-02T17:06:48.224Z)\nServer timestamps: received: 1740935209784 (2025-03-02T17:06:49.784Z) delivered: 1740935209785 (2025-03-02T17:06:49.785Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935208224 (2025-03-02T17:06:48.224Z)\nIs delivery receipt\nTimestamps:\n- 1740935209442 (2025-03-02T17:06:49.442Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935208427 (2025-03-02T17:06:48.427Z)\nServer timestamps: received: 1740935209969 (2025-03-02T17:06:49.969Z) delivered: 1740935209970 (2025-03-02T17:06:49.970Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935208427 (2025-03-02T17:06:48.427Z)\nIs read receipt\nTimestamps:\n- 1740935209442 (2025-03-02T17:06:49.442Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935213587 (2025-03-02T17:06:53.587Z)\nServer timestamps: received: 1740935215122 (2025-03-02T17:06:55.122Z) delivered: 1740935215123 (2025-03-02T17:06:55.123Z)\nSent by unidentified/sealed sender\nReceived a typing message\nAction: STARTED\nTimestamp: 1740935213587 (2025-03-02T17:06:53.587Z)\nAction: STARTED\nTimestamp: 1740935179906 (2025-03-02T17:06:19.906Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935185263 (2025-03-02T17:06:25.263Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STARTED\nTimestamp: 1740935188225 (2025-03-02T17:06:28.225Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935190379 (2025-03-02T17:06:30.379Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STARTED\nTimestamp: 1740935191179 (2025-03-02T17:06:31.179Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nAction: STOPPED\nTimestamp: 1740935195198 (2025-03-02T17:06:35.198Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nWhen: 1740935196764 (2025-03-02T17:06:36.764Z)\nIs delivery receipt\nTimestamps:\n- 1740935198009 (2025-03-02T17:06:38.009Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935196902 (2025-03-02T17:06:36.902Z)\nServer timestamps: received: 1740935198451 (2025-03-02T17:06:38.451Z) delivered: 1740935198452 (2025-03-02T17:06:38.452Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935196902 (2025-03-02T17:06:36.902Z)\nIs read receipt\nTimestamps:\n- 1740935198009 (2025-03-02T17:06:38.009Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935201506 (2025-03-02T17:06:41.506Z)\nServer timestamps: received: 1740935203059 (2025-03-02T17:06:43.059Z) delivered: 1740935203060 (2025-03-02T17:06:43.060Z)\nSent by unidentified/sealed sender\nReceived a typing message\nAction: STARTED\nTimestamp: 1740935201506 (2025-03-02T17:06:41.506Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935204896 (2025-03-02T17:06:44.896Z)\nServer timestamps: received: 1740935206484 (2025-03-02T17:06:46.484Z) delivered: 1740935206485 (2025-03-02T17:06:46.485Z)\nSent by unidentified/sealed sender\nMessage timestamp: 1740935204896 (2025-03-02T17:06:44.896Z)\nBody: !echo hallo welt!\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935207443 (2025-03-02T17:06:47.443Z)\nServer timestamps: received: 1740935208989 (2025-03-02T17:06:48.989Z) delivered: 1740935208990 (2025-03-02T17:06:48.990Z)\nSent by unidentified/sealed sender\nReceived a typing message\nAction: STOPPED\nTimestamp: 1740935207443 (2025-03-02T17:06:47.443Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935208224 (2025-03-02T17:06:48.224Z)\nServer timestamps: received: 1740935209784 (2025-03-02T17:06:49.784Z) delivered: 1740935209785 (2025-03-02T17:06:49.785Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935208224 (2025-03-02T17:06:48.224Z)\nIs delivery receipt\nTimestamps:\n- 1740935209442 (2025-03-02T17:06:49.442Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935208427 (2025-03-02T17:06:48.427Z)\nServer timestamps: received: 1740935209969 (2025-03-02T17:06:49.969Z) delivered: 1740935209970 (2025-03-02T17:06:49.970Z)\nSent by unidentified/sealed sender\nReceived a receipt message\nWhen: 1740935208427 (2025-03-02T17:06:48.427Z)\nIs read receipt\nTimestamps:\n- 1740935209442 (2025-03-02T17:06:49.442Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935213587 (2025-03-02T17:06:53.587Z)\nServer timestamps: received: 1740935215122 (2025-03-02T17:06:55.122Z) delivered: 1740935215123 (2025-03-02T17:06:55.123Z)\nSent by unidentified/sealed sender\nReceived a typing message\nAction: STARTED\nTimestamp: 1740935213587 (2025-03-02T17:06:53.587Z)\n\nEnvelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548\nTimestamp: 1740935214406 (2025-03-02T17:06:54.406Z)\nServer timestamps: received: 1740935216015 (2025-03-02T17:06:56.015Z) delivered: 1740935216016 (2025-03-02T17:06:56.016Z)\nSent by unidentified/sealed sender\nMessage timestamp: 1740935214406 (2025-03-02T17:06:54.406Z)\nBody: !help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:00 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:02 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:04 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:07 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:09 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:11 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:14 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:16 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:18 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:20 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:22 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:25 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:27 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:29 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:31 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:33 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:36 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:38 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:40 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:46:41 CET 2025
+Timestamp:1740937557433
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:
+Time:So 2. Mär 18:49:48 CET 2025
+Timestamp:1740935179906
+User:
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:51:40 CET 2025
+Timestamp:1740937890784
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:51:56 CET 2025
+Timestamp:1740937913577
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:59:25 CET 2025
+Timestamp:1740938364010
+User:+4917621430270
+Group:
+Text:!echo hallo welt!
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 18:59:35 CET 2025
+Timestamp:1740938373522
+User:+4917621430270
+Group:
+Text:!help
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 19:00:17 CET 2025
+Timestamp:1740938415259
+User:+4917621430270
+Group:
+Text:!echo zeile 1\n2 zeile\n3eliez\nende
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 19:00:31 CET 2025
+Timestamp:1740938428942
+User:+4917621430270
+Group:
+Text:!echo\nzeile 1\n2 zeile\n3eliez\nende
+File:
+///MESSAGE///
+Name:Löwenzahn
+Time:So 2. Mär 19:00:46 CET 2025
+Timestamp:1740938444668
+User:+4917621430270
+Group:
+Text:!echo\nzeile 1\n2 zeile\n3eliez\nende
+File:

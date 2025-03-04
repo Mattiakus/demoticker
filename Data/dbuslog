@@ -1,0 +1,73 @@
+
+Envelope from: “Micha” 2cda6ea3-2426-46bc-b6f2-765ad14a4171 (device: 2) to +49491634615548
+Timestamp: 1739902496190 (2025-02-18T18:14:56.190Z)
+Server timestamps: received: 1739902499046 (2025-02-18T18:14:59.046Z) delivered: 1739902780850 (2025-02-18T18:19:40.850Z)
+Sent by unidentified/sealed sender
+
+Envelope from: “Moon” +4917664160088 (device: 2) to +49491634615548
+Timestamp: 1739902650148 (2025-02-18T18:17:30.148Z)
+Server timestamps: received: 1739902645765 (2025-02-18T18:17:25.765Z) delivered: 1739902780851 (2025-02-18T18:19:40.851Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+  When: 1739902650148 (2025-02-18T18:17:30.148Z)
+  Is delivery receipt
+  Timestamps:
+  - 1739867968006 (2025-02-18T08:39:28.006Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1739902791983 (2025-02-18T18:19:51.983Z)
+Server timestamps: received: 1739902793029 (2025-02-18T18:19:53.029Z) delivered: 1739902793032 (2025-02-18T18:19:53.032Z)
+Sent by unidentified/sealed sender
+Received a typing message
+  Action: STARTED
+  Timestamp: 1739902791983 (2025-02-18T18:19:51.983Z)
+  Group Info:
+    Id: NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+    Name: Demo Bot Admingruppe
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1739902792341 (2025-02-18T18:19:52.341Z)
+Server timestamps: received: 1739902793247 (2025-02-18T18:19:53.247Z) delivered: 1739902793306 (2025-02-18T18:19:53.306Z)
+Sent by unidentified/sealed sender
+Received a typing message
+  Action: STOPPED
+  Timestamp: 1739902792341 (2025-02-18T18:19:52.341Z)
+  Group Info:
+    Id: NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+    Name: Demo Bot Admingruppe
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1739902792700 (2025-02-18T18:19:52.700Z)
+Server timestamps: received: 1739902793720 (2025-02-18T18:19:53.720Z) delivered: 1739902793725 (2025-02-18T18:19:53.725Z)
+Sent by unidentified/sealed sender
+Received a typing message
+  Action: STARTED
+  Timestamp: 1739902792700 (2025-02-18T18:19:52.700Z)
+  Group Info:
+    Id: NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+    Name: Demo Bot Admingruppe
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1739902793637 (2025-02-18T18:19:53.637Z)
+Server timestamps: received: 1739902794566 (2025-02-18T18:19:54.566Z) delivered: 1739902794569 (2025-02-18T18:19:54.569Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1739902793637 (2025-02-18T18:19:53.637Z)
+Body: hallo
+Group info:
+  Id: NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+  Name: Demo Bot Admingruppe
+  Revision: 79
+  Type: DELIVER
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1739902796299 (2025-02-18T18:19:56.299Z)
+Server timestamps: received: 1739902797200 (2025-02-18T18:19:57.200Z) delivered: 1739902797204 (2025-02-18T18:19:57.204Z)
+Sent by unidentified/sealed sender
+Received a typing message
+  Action: STOPPED
+  Timestamp: 1739902796299 (2025-02-18T18:19:56.299Z)
+  Group Info:
+    Id: NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+    Name: Demo Bot Admingruppe
+

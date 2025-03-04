@@ -1,0 +1,48 @@
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740929785348 (2025-03-02T15:36:25.348Z)
+Server timestamps: received: 1740929786901 (2025-03-02T15:36:26.901Z) delivered: 1740929786902 (2025-03-02T15:36:26.902Z)
+Sent by unidentified/sealed sender
+Received a typing message
+  Action: STARTED
+  Timestamp: 1740929785348 (2025-03-02T15:36:25.348Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740929788941 (2025-03-02T15:36:28.941Z)
+Server timestamps: received: 1740929790486 (2025-03-02T15:36:30.486Z) delivered: 1740929790487 (2025-03-02T15:36:30.487Z)
+Sent by unidentified/sealed sender
+Received a typing message
+  Action: STOPPED
+  Timestamp: 1740929788941 (2025-03-02T15:36:28.941Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740929792067 (2025-03-02T15:36:32.067Z)
+Server timestamps: received: 1740929793609 (2025-03-02T15:36:33.609Z) delivered: 1740929793610 (2025-03-02T15:36:33.610Z)
+Sent by unidentified/sealed sender
+Received a typing message
+  Action: STARTED
+  Timestamp: 1740929792067 (2025-03-02T15:36:32.067Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740929792701 (2025-03-02T15:36:32.701Z)
+Server timestamps: received: 1740929794242 (2025-03-02T15:36:34.242Z) delivered: 1740929794243 (2025-03-02T15:36:34.243Z)
+Sent by unidentified/sealed sender
+Received a typing message
+  Action: STARTED
+  Timestamp: 1740929792701 (2025-03-02T15:36:32.701Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740929797074 (2025-03-02T15:36:37.074Z)
+Server timestamps: received: 1740929798667 (2025-03-02T15:36:38.667Z) delivered: 1740929798668 (2025-03-02T15:36:38.668Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740929797074 (2025-03-02T15:36:37.074Z)
+Body: !echo hallo welt!
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740929799711 (2025-03-02T15:36:39.711Z)
+Server timestamps: received: 1740929801254 (2025-03-02T15:36:41.254Z) delivered: 1740929801255 (2025-03-02T15:36:41.255Z)
+Sent by unidentified/sealed sender
+Received a typing message
+  Action: STOPPED
+  Timestamp: 1740929799711 (2025-03-02T15:36:39.711Z)
+

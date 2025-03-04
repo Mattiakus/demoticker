@@ -1,0 +1,2237 @@
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938320633 (2025-03-02T17:58:40.633Z)
+Server timestamps: received: 1740938322188 (2025-03-02T17:58:42.188Z) delivered: 1740938322189 (2025-03-02T17:58:42.189Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938320633 (2025-03-02T17:58:40.633Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938321711 (2025-03-02T17:58:41.711Z)
+Server timestamps: received: 1740938323257 (2025-03-02T17:58:43.257Z) delivered: 1740938323259 (2025-03-02T17:58:43.259Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938321711 (2025-03-02T17:58:41.711Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938363207 (2025-03-02T17:59:23.207Z)
+Server timestamps: received: 1740938364766 (2025-03-02T17:59:24.766Z) delivered: 1740938364767 (2025-03-02T17:59:24.767Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938363207 (2025-03-02T17:59:23.207Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938364010 (2025-03-02T17:59:24.010Z)
+Server timestamps: received: 1740938365585 (2025-03-02T17:59:25.585Z) delivered: 1740938365587 (2025-03-02T17:59:25.587Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740938364010 (2025-03-02T17:59:24.010Z)
+Body: !echo hallo welt!
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938365547 (2025-03-02T17:59:25.547Z)
+Server timestamps: received: 1740938367098 (2025-03-02T17:59:27.098Z) delivered: 1740938367100 (2025-03-02T17:59:27.100Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938365547 (2025-03-02T17:59:25.547Z)
+Is delivery receipt
+Timestamps:
+- 1740938366770 (2025-03-02T17:59:26.770Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938365681 (2025-03-02T17:59:25.681Z)
+Server timestamps: received: 1740938367227 (2025-03-02T17:59:27.227Z) delivered: 1740938367229 (2025-03-02T17:59:27.229Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938365681 (2025-03-02T17:59:25.681Z)
+Is read receipt
+Timestamps:
+- 1740938366770 (2025-03-02T17:59:26.770Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938366206 (2025-03-02T17:59:26.206Z)
+Server timestamps: received: 1740938367760 (2025-03-02T17:59:27.760Z) delivered: 1740938367761 (2025-03-02T17:59:27.761Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938366206 (2025-03-02T17:59:26.206Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938373060 (2025-03-02T17:59:33.060Z)
+Server timestamps: received: 1740938374614 (2025-03-02T17:59:34.614Z) delivered: 1740938374615 (2025-03-02T17:59:34.615Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938373060 (2025-03-02T17:59:33.060Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938373522 (2025-03-02T17:59:33.522Z)
+Server timestamps: received: 1740938375101 (2025-03-02T17:59:35.101Z) delivered: 1740938375103 (2025-03-02T17:59:35.103Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740938373522 (2025-03-02T17:59:33.522Z)
+Body: !help
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938374862 (2025-03-02T17:59:34.862Z)
+Server timestamps: received: 1740938376406 (2025-03-02T17:59:36.406Z) delivered: 1740938376408 (2025-03-02T17:59:36.408Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938374862 (2025-03-02T17:59:34.862Z)
+Is delivery receipt
+Timestamps:
+- 1740938376131 (2025-03-02T17:59:36.131Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938374996 (2025-03-02T17:59:34.996Z)
+Server timestamps: received: 1740938376537 (2025-03-02T17:59:36.537Z) delivered: 1740938376539 (2025-03-02T17:59:36.539Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938374996 (2025-03-02T17:59:34.996Z)
+Is read receipt
+Timestamps:
+- 1740938376131 (2025-03-02T17:59:36.131Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938376057 (2025-03-02T17:59:36.057Z)
+Server timestamps: received: 1740938377609 (2025-03-02T17:59:37.609Z) delivered: 1740938377610 (2025-03-02T17:59:37.610Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938376057 (2025-03-02T17:59:36.057Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938390700 (2025-03-02T17:59:50.700Z)
+Server timestamps: received: 1740938392243 (2025-03-02T17:59:52.243Z) delivered: 1740938392244 (2025-03-02T17:59:52.244Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938390700 (2025-03-02T17:59:50.700Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938400700 (2025-03-02T18:00:00.700Z)
+Server timestamps: received: 1740938402247 (2025-03-02T18:00:02.247Z) delivered: 1740938402248 (2025-03-02T18:00:02.248Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938400700 (2025-03-02T18:00:00.700Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938407109 (2025-03-02T18:00:07.109Z)
+Server timestamps: received: 1740938408670 (2025-03-02T18:00:08.670Z) delivered: 1740938408671 (2025-03-02T18:00:08.671Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938407109 (2025-03-02T18:00:07.109Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938408964 (2025-03-02T18:00:08.964Z)
+Server timestamps: received: 1740938410517 (2025-03-02T18:00:10.517Z) delivered: 1740938410519 (2025-03-02T18:00:10.519Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938408964 (2025-03-02T18:00:08.964Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938415259 (2025-03-02T18:00:15.259Z)
+Server timestamps: received: 1740938416854 (2025-03-02T18:00:16.854Z) delivered: 1740938416855 (2025-03-02T18:00:16.855Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740938415259 (2025-03-02T18:00:15.259Z)
+Body: !echo zeile 1
+2 zeile
+3eliez
+ende
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938416618 (2025-03-02T18:00:16.618Z)
+Server timestamps: received: 1740938418160 (2025-03-02T18:00:18.160Z) delivered: 1740938418162 (2025-03-02T18:00:18.162Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938416618 (2025-03-02T18:00:16.618Z)
+Is delivery receipt
+Timestamps:
+- 1740938417862 (2025-03-02T18:00:17.862Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938416748 (2025-03-02T18:00:16.748Z)
+Server timestamps: received: 1740938418291 (2025-03-02T18:00:18.291Z) delivered: 1740938418292 (2025-03-02T18:00:18.292Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938416748 (2025-03-02T18:00:16.748Z)
+Is read receipt
+Timestamps:
+- 1740938417862 (2025-03-02T18:00:17.862Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938417310 (2025-03-02T18:00:17.310Z)
+Server timestamps: received: 1740938418860 (2025-03-02T18:00:18.860Z) delivered: 1740938418861 (2025-03-02T18:00:18.861Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938417310 (2025-03-02T18:00:17.310Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938424899 (2025-03-02T18:00:24.899Z)
+Server timestamps: received: 1740938426434 (2025-03-02T18:00:26.434Z) delivered: 1740938426435 (2025-03-02T18:00:26.435Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938424899 (2025-03-02T18:00:24.899Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938428942 (2025-03-02T18:00:28.942Z)
+Server timestamps: received: 1740938430522 (2025-03-02T18:00:30.522Z) delivered: 1740938430523 (2025-03-02T18:00:30.523Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740938428942 (2025-03-02T18:00:28.942Z)
+Body: !echo
+zeile 1
+2 zeile
+3eliez
+ende
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938430978 (2025-03-02T18:00:30.978Z)
+Server timestamps: received: 1740938432522 (2025-03-02T18:00:32.522Z) delivered: 1740938432524 (2025-03-02T18:00:32.524Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938430978 (2025-03-02T18:00:30.978Z)
+Is delivery receipt
+Timestamps:
+- 1740938432269 (2025-03-02T18:00:32.269Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938431107 (2025-03-02T18:00:31.107Z)
+Server timestamps: received: 1740938432652 (2025-03-02T18:00:32.652Z) delivered: 1740938432653 (2025-03-02T18:00:32.653Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938431107 (2025-03-02T18:00:31.107Z)
+Is read receipt
+Timestamps:
+- 1740938432269 (2025-03-02T18:00:32.269Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938431339 (2025-03-02T18:00:31.339Z)
+Server timestamps: received: 1740938432869 (2025-03-02T18:00:32.869Z) delivered: 1740938432870 (2025-03-02T18:00:32.870Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938431339 (2025-03-02T18:00:31.339Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938441938 (2025-03-02T18:00:41.938Z)
+Server timestamps: received: 1740938443500 (2025-03-02T18:00:43.500Z) delivered: 1740938443501 (2025-03-02T18:00:43.501Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938441938 (2025-03-02T18:00:41.938Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938444668 (2025-03-02T18:00:44.668Z)
+Server timestamps: received: 1740938446257 (2025-03-02T18:00:46.257Z) delivered: 1740938446258 (2025-03-02T18:00:46.258Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740938444668 (2025-03-02T18:00:44.668Z)
+Body: !echo
+zeile 1
+2 zeile
+3eliez
+ende
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938446439 (2025-03-02T18:00:46.439Z)
+Server timestamps: received: 1740938447988 (2025-03-02T18:00:47.988Z) delivered: 1740938447989 (2025-03-02T18:00:47.989Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938446439 (2025-03-02T18:00:46.439Z)
+Is delivery receipt
+Timestamps:
+- 1740938447685 (2025-03-02T18:00:47.685Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938446573 (2025-03-02T18:00:46.573Z)
+Server timestamps: received: 1740938448118 (2025-03-02T18:00:48.118Z) delivered: 1740938448119 (2025-03-02T18:00:48.119Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938446573 (2025-03-02T18:00:46.573Z)
+Is read receipt
+Timestamps:
+- 1740938447685 (2025-03-02T18:00:47.685Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938446934 (2025-03-02T18:00:46.934Z)
+Server timestamps: received: 1740938448465 (2025-03-02T18:00:48.465Z) delivered: 1740938448466 (2025-03-02T18:00:48.466Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938446934 (2025-03-02T18:00:46.934Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938609972 (2025-03-02T18:03:29.972Z)
+Server timestamps: received: 1740938611518 (2025-03-02T18:03:31.518Z) delivered: 1740938611587 (2025-03-02T18:03:31.587Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938609972 (2025-03-02T18:03:29.972Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938614105 (2025-03-02T18:03:34.105Z)
+Server timestamps: received: 1740938615657 (2025-03-02T18:03:35.657Z) delivered: 1740938615658 (2025-03-02T18:03:35.658Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938614105 (2025-03-02T18:03:34.105Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938619328 (2025-03-02T18:03:39.328Z)
+Server timestamps: received: 1740938620885 (2025-03-02T18:03:40.885Z) delivered: 1740938620886 (2025-03-02T18:03:40.886Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938619328 (2025-03-02T18:03:39.328Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938621202 (2025-03-02T18:03:41.202Z)
+Server timestamps: received: 1740938622757 (2025-03-02T18:03:42.757Z) delivered: 1740938622758 (2025-03-02T18:03:42.758Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938621202 (2025-03-02T18:03:41.202Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938626044 (2025-03-02T18:03:46.044Z)
+Server timestamps: received: 1740938627636 (2025-03-02T18:03:47.636Z) delivered: 1740938627637 (2025-03-02T18:03:47.637Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740938626044 (2025-03-02T18:03:46.044Z)
+Body: !help
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938627003 (2025-03-02T18:03:47.003Z)
+Server timestamps: received: 1740938628570 (2025-03-02T18:03:48.570Z) delivered: 1740938628572 (2025-03-02T18:03:48.572Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938627003 (2025-03-02T18:03:47.003Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938637423 (2025-03-02T18:03:57.423Z)
+Server timestamps: received: 1740938638974 (2025-03-02T18:03:58.974Z) delivered: 1740938638975 (2025-03-02T18:03:58.975Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938637423 (2025-03-02T18:03:57.423Z)
+Is delivery receipt
+Timestamps:
+- 1740938637505 (2025-03-02T18:03:57.505Z)
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548
+Timestamp: 1740938637505 (2025-03-02T18:03:57.505Z)
+Server timestamps: received: 1740938639104 (2025-03-02T18:03:59.104Z) delivered: 1740938639172 (2025-03-02T18:03:59.172Z)
+Received a sync message
+Received sync sent message
+To: “Löwenzahn” +4917621430270
+Timestamp: 1740938637505 (2025-03-02T18:03:57.505Z)
+Message timestamp: 1740938637505 (2025-03-02T18:03:57.505Z)
+Body: Hier ist eine Liste von commands:
+-shouts [Antifa|Umwelt] zeigt eine Liste mit Demorufen an
+-subscribe fügt dich zu der Verteilerliste hinzu
+-unsubscribe entfernt dich von der Verteilerliste
+-echo [NACHRICHT] schickt dir eine Nachricht mit dem Inhalt NACHRICHT
+Wenn du eine Nachricht schreibst, die nicht mit einem command anfängt, schreibst du eine Nachricht an die Admins
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938637560 (2025-03-02T18:03:57.560Z)
+Server timestamps: received: 1740938639114 (2025-03-02T18:03:59.114Z) delivered: 1740938639172 (2025-03-02T18:03:59.172Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938637560 (2025-03-02T18:03:57.560Z)
+Is read receipt
+Timestamps:
+- 1740938637505 (2025-03-02T18:03:57.505Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938640092 (2025-03-02T18:04:00.092Z)
+Server timestamps: received: 1740938641649 (2025-03-02T18:04:01.649Z) delivered: 1740938641650 (2025-03-02T18:04:01.650Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938640092 (2025-03-02T18:04:00.092Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938640974 (2025-03-02T18:04:00.974Z)
+Server timestamps: received: 1740938642509 (2025-03-02T18:04:02.509Z) delivered: 1740938642510 (2025-03-02T18:04:02.510Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938640974 (2025-03-02T18:04:00.974Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938642826 (2025-03-02T18:04:02.826Z)
+Server timestamps: received: 1740938644418 (2025-03-02T18:04:04.418Z) delivered: 1740938644420 (2025-03-02T18:04:04.420Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740938642826 (2025-03-02T18:04:02.826Z)
+Body: !echo
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938644527 (2025-03-02T18:04:04.527Z)
+Server timestamps: received: 1740938646080 (2025-03-02T18:04:06.080Z) delivered: 1740938646098 (2025-03-02T18:04:06.098Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938644527 (2025-03-02T18:04:04.527Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938650316 (2025-03-02T18:04:10.316Z)
+Server timestamps: received: 1740938651917 (2025-03-02T18:04:11.917Z) delivered: 1740938651919 (2025-03-02T18:04:11.919Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938650316 (2025-03-02T18:04:10.316Z)
+Is delivery receipt
+Timestamps:
+- 1740938651526 (2025-03-02T18:04:11.526Z)
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548
+Timestamp: 1740938651526 (2025-03-02T18:04:11.526Z)
+Server timestamps: received: 1740938651950 (2025-03-02T18:04:11.950Z) delivered: 1740938652076 (2025-03-02T18:04:12.076Z)
+Received a sync message
+Received sync sent message
+To: “Löwenzahn” +4917621430270
+Timestamp: 1740938651526 (2025-03-02T18:04:11.526Z)
+Message timestamp: 1740938651526 (2025-03-02T18:04:11.526Z)
+Body: !echo
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938650453 (2025-03-02T18:04:10.453Z)
+Server timestamps: received: 1740938652045 (2025-03-02T18:04:12.045Z) delivered: 1740938652077 (2025-03-02T18:04:12.077Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938650453 (2025-03-02T18:04:10.453Z)
+Is read receipt
+Timestamps:
+- 1740938651526 (2025-03-02T18:04:11.526Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938748933 (2025-03-02T18:05:48.933Z)
+Server timestamps: received: 1740938750471 (2025-03-02T18:05:50.471Z) delivered: 1740938750472 (2025-03-02T18:05:50.472Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938748933 (2025-03-02T18:05:48.933Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938751328 (2025-03-02T18:05:51.328Z)
+Server timestamps: received: 1740938752893 (2025-03-02T18:05:52.893Z) delivered: 1740938752894 (2025-03-02T18:05:52.894Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740938751328 (2025-03-02T18:05:51.328Z)
+Body: !help
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938753681 (2025-03-02T18:05:53.681Z)
+Server timestamps: received: 1740938755255 (2025-03-02T18:05:55.255Z) delivered: 1740938755256 (2025-03-02T18:05:55.256Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938753681 (2025-03-02T18:05:53.681Z)
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548
+Timestamp: 1740938760256 (2025-03-02T18:06:00.256Z)
+Server timestamps: received: 1740938760639 (2025-03-02T18:06:00.639Z) delivered: 1740938760641 (2025-03-02T18:06:00.641Z)
+Received a sync message
+Received sync sent message
+To: “Löwenzahn” +4917621430270
+Timestamp: 1740938760256 (2025-03-02T18:06:00.256Z)
+Message timestamp: 1740938760256 (2025-03-02T18:06:00.256Z)
+Body: Hier ist eine Liste von commands:
+-shouts [Antifa|Umwelt] zeigt eine Liste mit Demorufen an
+-subscribe fügt dich zu der Verteilerliste hinzu
+-unsubscribe entfernt dich von der Verteilerliste
+-echo [NACHRICHT] schickt dir eine Nachricht mit dem Inhalt NACHRICHT
+Wenn du eine Nachricht schreibst, die nicht mit einem command anfängt, schreibst du eine Nachricht an die Admins
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938759166 (2025-03-02T18:05:59.166Z)
+Server timestamps: received: 1740938760717 (2025-03-02T18:06:00.717Z) delivered: 1740938760828 (2025-03-02T18:06:00.828Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938759166 (2025-03-02T18:05:59.166Z)
+Is delivery receipt
+Timestamps:
+- 1740938760256 (2025-03-02T18:06:00.256Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938763810 (2025-03-02T18:06:03.810Z)
+Server timestamps: received: 1740938765354 (2025-03-02T18:06:05.354Z) delivered: 1740938765356 (2025-03-02T18:06:05.356Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938763810 (2025-03-02T18:06:03.810Z)
+Is read receipt
+Timestamps:
+- 1740938760256 (2025-03-02T18:06:00.256Z)
+
+Envelope from: “Murat Güneş” d286652e-54af-4f18-899b-778f1d58a1dc (device: 1) to +49491634615548
+Timestamp: 1740940224527 (2025-03-02T18:30:24.527Z)
+Server timestamps: received: 1740940226793 (2025-03-02T18:30:26.793Z) delivered: 1740940226796 (2025-03-02T18:30:26.796Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740940224527 (2025-03-02T18:30:24.527Z)
+Group info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+Revision: 277
+Type: DELIVER
+With profile key
+Attachments:
+- Attachment:
+Content-Type: image/jpeg
+Type: Pointer
+Id: eaWvtFt8ato131oy0guX.jpeg
+Filename: signal-2025-03-02-193024.jpeg
+Size: 278737 bytes
+Dimensions: 1152x2048
+Stored plaintext in: /home/johbot/.local/share/signal-cli/attachments/eaWvtFt8ato131oy0guX.jpeg
+
+Envelope from: “Melina” +4915206894910 (device: 1) to +49491634615548
+Timestamp: 1740940379331 (2025-03-02T18:32:59.331Z)
+Server timestamps: received: 1740940379485 (2025-03-02T18:32:59.485Z) delivered: 1740940379486 (2025-03-02T18:32:59.486Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740940379331 (2025-03-02T18:32:59.331Z)
+Is read receipt
+Timestamps:
+- 1740919953939 (2025-03-02T12:52:33.939Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740940057047 (2025-03-02T18:27:37.047Z)
+Server timestamps: received: 1740941215330 (2025-03-02T18:46:55.330Z) delivered: 1740941215333 (2025-03-02T18:46:55.333Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740940057047 (2025-03-02T18:27:37.047Z)
+Body: HABS HINGEKRIEGT!!!
+Group info:
+Id: NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Name: Demo Bot Admingruppe
+Revision: 80
+Type: DELIVER
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740940097045 (2025-03-02T18:28:17.045Z)
+Server timestamps: received: 1740941216156 (2025-03-02T18:46:56.156Z) delivered: 1740941216159 (2025-03-02T18:46:56.159Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740940097045 (2025-03-02T18:28:17.045Z)
+Body: kurz bevor ich weg musste
+Group info:
+Id: NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Name: Demo Bot Admingruppe
+Revision: 80
+Type: DELIVER
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740940105993 (2025-03-02T18:28:25.993Z)
+Server timestamps: received: 1740941216506 (2025-03-02T18:46:56.506Z) delivered: 1740941216508 (2025-03-02T18:46:56.508Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740940105993 (2025-03-02T18:28:25.993Z)
+Body: die repo ist aktualisiert
+Group info:
+Id: NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY=
+Name: Demo Bot Admingruppe
+Revision: 80
+Type: DELIVER
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740941250940 (2025-03-02T18:47:30.940Z)
+Server timestamps: received: 1740941252723 (2025-03-02T18:47:32.723Z) delivered: 1740941252724 (2025-03-02T18:47:32.724Z)
+Sent by unidentified/sealed sender
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740941250846 (2025-03-02T18:47:30.846Z)
+Server timestamps: received: 1740941254463 (2025-03-02T18:47:34.463Z) delivered: 1740941254466 (2025-03-02T18:47:34.466Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941250846 (2025-03-02T18:47:30.846Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740941256383 (2025-03-02T18:47:36.383Z)
+Server timestamps: received: 1740941258142 (2025-03-02T18:47:38.142Z) delivered: 1740941258145 (2025-03-02T18:47:38.145Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941256383 (2025-03-02T18:47:36.383Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740941260341 (2025-03-02T18:47:40.341Z)
+Server timestamps: received: 1740941261932 (2025-03-02T18:47:41.932Z) delivered: 1740941261935 (2025-03-02T18:47:41.935Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941260341 (2025-03-02T18:47:40.341Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740941263835 (2025-03-02T18:47:43.835Z)
+Server timestamps: received: 1740941265482 (2025-03-02T18:47:45.482Z) delivered: 1740941265487 (2025-03-02T18:47:45.487Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740941263835 (2025-03-02T18:47:43.835Z)
+Body: Eine PN auf welcher Plattform denn?
+Group info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+Revision: 277
+Type: DELIVER
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740941266541 (2025-03-02T18:47:46.541Z)
+Server timestamps: received: 1740941268122 (2025-03-02T18:47:48.122Z) delivered: 1740941268125 (2025-03-02T18:47:48.125Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740941266541 (2025-03-02T18:47:46.541Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “Murat Güneş” d286652e-54af-4f18-899b-778f1d58a1dc (device: 1) to +49491634615548
+Timestamp: 1740941315968 (2025-03-02T18:48:35.968Z)
+Server timestamps: received: 1740941316667 (2025-03-02T18:48:36.667Z) delivered: 1740941316671 (2025-03-02T18:48:36.671Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941315968 (2025-03-02T18:48:35.968Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “Murat Güneş” d286652e-54af-4f18-899b-778f1d58a1dc (device: 1) to +49491634615548
+Timestamp: 1740941323989 (2025-03-02T18:48:43.989Z)
+Server timestamps: received: 1740941324375 (2025-03-02T18:48:44.375Z) delivered: 1740941324378 (2025-03-02T18:48:44.378Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740941323989 (2025-03-02T18:48:43.989Z)
+Body: Am besten über die Telefonnummer..
+Group info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+Revision: 277
+Type: DELIVER
+With profile key
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941601784 (2025-03-02T18:53:21.784Z)
+Server timestamps: received: 1740941602525 (2025-03-02T18:53:22.525Z) delivered: 1740941602527 (2025-03-02T18:53:22.527Z)
+Sent by unidentified/sealed sender
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941601668 (2025-03-02T18:53:21.668Z)
+Server timestamps: received: 1740941603950 (2025-03-02T18:53:23.950Z) delivered: 1740941603954 (2025-03-02T18:53:23.954Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941601668 (2025-03-02T18:53:21.668Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941609676 (2025-03-02T18:53:29.676Z)
+Server timestamps: received: 1740941608663 (2025-03-02T18:53:28.663Z) delivered: 1740941608665 (2025-03-02T18:53:28.665Z)
+Sent by unidentified/sealed sender
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941609631 (2025-03-02T18:53:29.631Z)
+Server timestamps: received: 1740941609192 (2025-03-02T18:53:29.192Z) delivered: 1740941609196 (2025-03-02T18:53:29.196Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941609631 (2025-03-02T18:53:29.631Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941614969 (2025-03-02T18:53:34.969Z)
+Server timestamps: received: 1740941613595 (2025-03-02T18:53:33.595Z) delivered: 1740941613599 (2025-03-02T18:53:33.599Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740941614969 (2025-03-02T18:53:34.969Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941617902 (2025-03-02T18:53:37.902Z)
+Server timestamps: received: 1740941616473 (2025-03-02T18:53:36.473Z) delivered: 1740941616477 (2025-03-02T18:53:36.477Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941617902 (2025-03-02T18:53:37.902Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941619542 (2025-03-02T18:53:39.542Z)
+Server timestamps: received: 1740941618126 (2025-03-02T18:53:38.126Z) delivered: 1740941618130 (2025-03-02T18:53:38.130Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941619542 (2025-03-02T18:53:39.542Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941629514 (2025-03-02T18:53:49.514Z)
+Server timestamps: received: 1740941628066 (2025-03-02T18:53:48.066Z) delivered: 1740941628071 (2025-03-02T18:53:48.071Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941629514 (2025-03-02T18:53:49.514Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941636747 (2025-03-02T18:53:56.747Z)
+Server timestamps: received: 1740941635410 (2025-03-02T18:53:55.410Z) delivered: 1740941635414 (2025-03-02T18:53:55.414Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740941636747 (2025-03-02T18:53:56.747Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941673025 (2025-03-02T18:54:33.025Z)
+Server timestamps: received: 1740941671593 (2025-03-02T18:54:31.593Z) delivered: 1740941671597 (2025-03-02T18:54:31.597Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941673025 (2025-03-02T18:54:33.025Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941679871 (2025-03-02T18:54:39.871Z)
+Server timestamps: received: 1740941678405 (2025-03-02T18:54:38.405Z) delivered: 1740941678409 (2025-03-02T18:54:38.409Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941679871 (2025-03-02T18:54:39.871Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941689887 (2025-03-02T18:54:49.887Z)
+Server timestamps: received: 1740941688446 (2025-03-02T18:54:48.446Z) delivered: 1740941688451 (2025-03-02T18:54:48.451Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941689887 (2025-03-02T18:54:49.887Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941699914 (2025-03-02T18:54:59.914Z)
+Server timestamps: received: 1740941698504 (2025-03-02T18:54:58.504Z) delivered: 1740941698509 (2025-03-02T18:54:58.509Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941699914 (2025-03-02T18:54:59.914Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941704661 (2025-03-02T18:55:04.661Z)
+Server timestamps: received: 1740941703313 (2025-03-02T18:55:03.313Z) delivered: 1740941703317 (2025-03-02T18:55:03.317Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740941704661 (2025-03-02T18:55:04.661Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941710276 (2025-03-02T18:55:10.276Z)
+Server timestamps: received: 1740941708845 (2025-03-02T18:55:08.845Z) delivered: 1740941708848 (2025-03-02T18:55:08.848Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941710276 (2025-03-02T18:55:10.276Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941720278 (2025-03-02T18:55:20.278Z)
+Server timestamps: received: 1740941718871 (2025-03-02T18:55:18.871Z) delivered: 1740941718876 (2025-03-02T18:55:18.876Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941720278 (2025-03-02T18:55:20.278Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941727421 (2025-03-02T18:55:27.421Z)
+Server timestamps: received: 1740941725980 (2025-03-02T18:55:25.980Z) delivered: 1740941725983 (2025-03-02T18:55:25.983Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941727421 (2025-03-02T18:55:27.421Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941737398 (2025-03-02T18:55:37.398Z)
+Server timestamps: received: 1740941736004 (2025-03-02T18:55:36.004Z) delivered: 1740941736008 (2025-03-02T18:55:36.008Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941737398 (2025-03-02T18:55:37.398Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941740121 (2025-03-02T18:55:40.121Z)
+Server timestamps: received: 1740941738722 (2025-03-02T18:55:38.722Z) delivered: 1740941738726 (2025-03-02T18:55:38.726Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740941740121 (2025-03-02T18:55:40.121Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941744580 (2025-03-02T18:55:44.580Z)
+Server timestamps: received: 1740941743138 (2025-03-02T18:55:43.138Z) delivered: 1740941743142 (2025-03-02T18:55:43.142Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941744580 (2025-03-02T18:55:44.580Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941754601 (2025-03-02T18:55:54.601Z)
+Server timestamps: received: 1740941753165 (2025-03-02T18:55:53.165Z) delivered: 1740941753169 (2025-03-02T18:55:53.169Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941754601 (2025-03-02T18:55:54.601Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941762190 (2025-03-02T18:56:02.190Z)
+Server timestamps: received: 1740941760830 (2025-03-02T18:56:00.830Z) delivered: 1740941760834 (2025-03-02T18:56:00.834Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740941762190 (2025-03-02T18:56:02.190Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941777973 (2025-03-02T18:56:17.973Z)
+Server timestamps: received: 1740941776595 (2025-03-02T18:56:16.595Z) delivered: 1740941776600 (2025-03-02T18:56:16.600Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941777973 (2025-03-02T18:56:17.973Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941787991 (2025-03-02T18:56:27.991Z)
+Server timestamps: received: 1740941786635 (2025-03-02T18:56:26.635Z) delivered: 1740941786639 (2025-03-02T18:56:26.639Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941787991 (2025-03-02T18:56:27.991Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941791874 (2025-03-02T18:56:31.874Z)
+Server timestamps: received: 1740941790467 (2025-03-02T18:56:30.467Z) delivered: 1740941790472 (2025-03-02T18:56:30.472Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740941791874 (2025-03-02T18:56:31.874Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941812926 (2025-03-02T18:56:52.926Z)
+Server timestamps: received: 1740941811492 (2025-03-02T18:56:51.492Z) delivered: 1740941811496 (2025-03-02T18:56:51.496Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941812926 (2025-03-02T18:56:52.926Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941816142 (2025-03-02T18:56:56.142Z)
+Server timestamps: received: 1740941814746 (2025-03-02T18:56:54.746Z) delivered: 1740941814751 (2025-03-02T18:56:54.751Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740941816142 (2025-03-02T18:56:56.142Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941827026 (2025-03-02T18:57:07.026Z)
+Server timestamps: received: 1740941825595 (2025-03-02T18:57:05.595Z) delivered: 1740941825599 (2025-03-02T18:57:05.599Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941827026 (2025-03-02T18:57:07.026Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941837026 (2025-03-02T18:57:17.026Z)
+Server timestamps: received: 1740941835601 (2025-03-02T18:57:15.601Z) delivered: 1740941835604 (2025-03-02T18:57:15.604Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941837026 (2025-03-02T18:57:17.026Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941837390 (2025-03-02T18:57:17.390Z)
+Server timestamps: received: 1740941835901 (2025-03-02T18:57:15.901Z) delivered: 1740941835905 (2025-03-02T18:57:15.905Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740941837390 (2025-03-02T18:57:17.390Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941867578 (2025-03-02T18:57:47.578Z)
+Server timestamps: received: 1740941866141 (2025-03-02T18:57:46.141Z) delivered: 1740941866145 (2025-03-02T18:57:46.145Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941867578 (2025-03-02T18:57:47.578Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941874167 (2025-03-02T18:57:54.167Z)
+Server timestamps: received: 1740941872828 (2025-03-02T18:57:52.828Z) delivered: 1740941872833 (2025-03-02T18:57:52.833Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740941874167 (2025-03-02T18:57:54.167Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941894688 (2025-03-02T18:58:14.688Z)
+Server timestamps: received: 1740941893259 (2025-03-02T18:58:13.259Z) delivered: 1740941893263 (2025-03-02T18:58:13.263Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941894688 (2025-03-02T18:58:14.688Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941900379 (2025-03-02T18:58:20.379Z)
+Server timestamps: received: 1740941898973 (2025-03-02T18:58:18.973Z) delivered: 1740941898977 (2025-03-02T18:58:18.977Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941900379 (2025-03-02T18:58:20.379Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941906893 (2025-03-02T18:58:26.893Z)
+Server timestamps: received: 1740941905519 (2025-03-02T18:58:25.519Z) delivered: 1740941905524 (2025-03-02T18:58:25.524Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740941906893 (2025-03-02T18:58:26.893Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941918398 (2025-03-02T18:58:38.398Z)
+Server timestamps: received: 1740941916983 (2025-03-02T18:58:36.983Z) delivered: 1740941916987 (2025-03-02T18:58:36.987Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941918398 (2025-03-02T18:58:38.398Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941928397 (2025-03-02T18:58:48.397Z)
+Server timestamps: received: 1740941927037 (2025-03-02T18:58:47.037Z) delivered: 1740941927041 (2025-03-02T18:58:47.041Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941928397 (2025-03-02T18:58:48.397Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941930517 (2025-03-02T18:58:50.517Z)
+Server timestamps: received: 1740941929139 (2025-03-02T18:58:49.139Z) delivered: 1740941929143 (2025-03-02T18:58:49.143Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740941930517 (2025-03-02T18:58:50.517Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941934677 (2025-03-02T18:58:54.677Z)
+Server timestamps: received: 1740941933211 (2025-03-02T18:58:53.211Z) delivered: 1740941933215 (2025-03-02T18:58:53.215Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941934677 (2025-03-02T18:58:54.677Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 1) to +49491634615548
+Timestamp: 1740941939280 (2025-03-02T18:58:59.280Z)
+Server timestamps: received: 1740941940840 (2025-03-02T18:59:00.840Z) delivered: 1740941940841 (2025-03-02T18:59:00.841Z)
+Received a sync message
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941944656 (2025-03-02T18:59:04.656Z)
+Server timestamps: received: 1740941943192 (2025-03-02T18:59:03.192Z) delivered: 1740941943197 (2025-03-02T18:59:03.197Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941944656 (2025-03-02T18:59:04.656Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 1) to +49491634615548
+Timestamp: 1740941942252 (2025-03-02T18:59:02.252Z)
+Server timestamps: received: 1740941943802 (2025-03-02T18:59:03.802Z) delivered: 1740941943803 (2025-03-02T18:59:03.803Z)
+Received a sync message
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941946573 (2025-03-02T18:59:06.573Z)
+Server timestamps: received: 1740941945213 (2025-03-02T18:59:05.213Z) delivered: 1740941945217 (2025-03-02T18:59:05.217Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740941946573 (2025-03-02T18:59:06.573Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548
+Timestamp: 1740941945426 (2025-03-02T18:59:05.426Z)
+Server timestamps: received: 1740941945549 (2025-03-02T18:59:05.549Z) delivered: 1740941945553 (2025-03-02T18:59:05.553Z)
+Received a sync message
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941951905 (2025-03-02T18:59:11.905Z)
+Server timestamps: received: 1740941950489 (2025-03-02T18:59:10.489Z) delivered: 1740941950493 (2025-03-02T18:59:10.493Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941951905 (2025-03-02T18:59:11.905Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941958926 (2025-03-02T18:59:18.926Z)
+Server timestamps: received: 1740941957570 (2025-03-02T18:59:17.570Z) delivered: 1740941957574 (2025-03-02T18:59:17.574Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740941958926 (2025-03-02T18:59:18.926Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941962089 (2025-03-02T18:59:22.089Z)
+Server timestamps: received: 1740941960721 (2025-03-02T18:59:20.721Z) delivered: 1740941960726 (2025-03-02T18:59:20.726Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740941962089 (2025-03-02T18:59:22.089Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941984452 (2025-03-02T18:59:44.452Z)
+Server timestamps: received: 1740941983000 (2025-03-02T18:59:43.000Z) delivered: 1740941983004 (2025-03-02T18:59:43.004Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941984452 (2025-03-02T18:59:44.452Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941989041 (2025-03-02T18:59:49.041Z)
+Server timestamps: received: 1740941987653 (2025-03-02T18:59:47.653Z) delivered: 1740941987657 (2025-03-02T18:59:47.657Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740941989041 (2025-03-02T18:59:49.041Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941993025 (2025-03-02T18:59:53.025Z)
+Server timestamps: received: 1740941991546 (2025-03-02T18:59:51.546Z) delivered: 1740941991551 (2025-03-02T18:59:51.551Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740941993025 (2025-03-02T18:59:53.025Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740941998245 (2025-03-02T18:59:58.245Z)
+Server timestamps: received: 1740941996809 (2025-03-02T18:59:56.809Z) delivered: 1740941996813 (2025-03-02T18:59:56.813Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740941998245 (2025-03-02T18:59:58.245Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740942007470 (2025-03-02T19:00:07.470Z)
+Server timestamps: received: 1740942005995 (2025-03-02T19:00:05.995Z) delivered: 1740942005999 (2025-03-02T19:00:05.999Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740942007470 (2025-03-02T19:00:07.470Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740942011271 (2025-03-02T19:00:11.271Z)
+Server timestamps: received: 1740942009853 (2025-03-02T19:00:09.853Z) delivered: 1740942009857 (2025-03-02T19:00:09.857Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740942011271 (2025-03-02T19:00:11.271Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740942016154 (2025-03-02T19:00:16.154Z)
+Server timestamps: received: 1740942014849 (2025-03-02T19:00:14.849Z) delivered: 1740942014854 (2025-03-02T19:00:14.854Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740942016154 (2025-03-02T19:00:16.154Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740942026253 (2025-03-02T19:00:26.253Z)
+Server timestamps: received: 1740942024782 (2025-03-02T19:00:24.782Z) delivered: 1740942024786 (2025-03-02T19:00:24.786Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740942026253 (2025-03-02T19:00:26.253Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740942030574 (2025-03-02T19:00:30.574Z)
+Server timestamps: received: 1740942029173 (2025-03-02T19:00:29.173Z) delivered: 1740942029178 (2025-03-02T19:00:29.178Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740942030574 (2025-03-02T19:00:30.574Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740942063514 (2025-03-02T19:01:03.514Z)
+Server timestamps: received: 1740942062082 (2025-03-02T19:01:02.082Z) delivered: 1740942062086 (2025-03-02T19:01:02.086Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740942063514 (2025-03-02T19:01:03.514Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740942067696 (2025-03-02T19:01:07.696Z)
+Server timestamps: received: 1740942066300 (2025-03-02T19:01:06.300Z) delivered: 1740942066304 (2025-03-02T19:01:06.304Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740942067696 (2025-03-02T19:01:07.696Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740942076443 (2025-03-02T19:01:16.443Z)
+Server timestamps: received: 1740942075041 (2025-03-02T19:01:15.041Z) delivered: 1740942075045 (2025-03-02T19:01:15.045Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740942076443 (2025-03-02T19:01:16.443Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740942081072 (2025-03-02T19:01:21.072Z)
+Server timestamps: received: 1740942079715 (2025-03-02T19:01:19.715Z) delivered: 1740942079719 (2025-03-02T19:01:19.719Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740942081072 (2025-03-02T19:01:21.072Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “ti” e2f91ba8-0821-4383-a80f-533f437f7684 (device: 1) to +49491634615548
+Timestamp: 1740942087209 (2025-03-02T19:01:27.209Z)
+Server timestamps: received: 1740942085884 (2025-03-02T19:01:25.884Z) delivered: 1740942085889 (2025-03-02T19:01:25.889Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740942087209 (2025-03-02T19:01:27.209Z)
+Body: Verständnisfrage: Ist das irgendwie noch eine linkspolitische Aktion oder eher nur eine mildtätige Aktion, die zwar schon schön ist, aber grds. zur Beibehaltung von Armut, Ausgrenzung, etc. beiträgt?
+Group info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+Revision: 277
+Type: DELIVER
+With profile key
+
+Envelope from: “Murat Güneş” d286652e-54af-4f18-899b-778f1d58a1dc (device: 1) to +49491634615548
+Timestamp: 1740942302068 (2025-03-02T19:05:02.068Z)
+Server timestamps: received: 1740942302458 (2025-03-02T19:05:02.458Z) delivered: 1740942302470 (2025-03-02T19:05:02.470Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740942302068 (2025-03-02T19:05:02.068Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “Murat Güneş” d286652e-54af-4f18-899b-778f1d58a1dc (device: 1) to +49491634615548
+Timestamp: 1740942309826 (2025-03-02T19:05:09.826Z)
+Server timestamps: received: 1740942311106 (2025-03-02T19:05:11.106Z) delivered: 1740942311109 (2025-03-02T19:05:11.109Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740942309826 (2025-03-02T19:05:09.826Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “Pippi Langstrumpf” 8c9dc7da-9285-4604-a5f0-7308154b30e6 (device: 1) to +49491634615548
+Timestamp: 1740948411066 (2025-03-02T20:46:51.066Z)
+Server timestamps: received: 1740948418603 (2025-03-02T20:46:58.603Z) delivered: 1740948418604 (2025-03-02T20:46:58.604Z)
+Sent by unidentified/sealed sender
+
+Envelope from: “Pippi Langstrumpf” 8c9dc7da-9285-4604-a5f0-7308154b30e6 (device: 1) to +49491634615548
+Timestamp: 1740948409897 (2025-03-02T20:46:49.897Z)
+Server timestamps: received: 1740948419700 (2025-03-02T20:46:59.700Z) delivered: 1740948419704 (2025-03-02T20:46:59.704Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740948409897 (2025-03-02T20:46:49.897Z)
+Body: Und evtl. in Konkurrenz mit der Tafel geht, die bezieht auch Ware v. Globus.
+Group info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+Revision: 277
+Type: DELIVER
+With profile key
+Quote:
+Id: 1740942087209
+Author: “ti” e2f91ba8-0821-4383-a80f-533f437f7684
+Text: Verständnisfrage: Ist das irgendwie noch eine linkspolitische Aktion oder eher nur eine mildtätige Aktion, die zwar schon schön ist, aber grds. zur Beibehaltung von Armut, Ausgrenzung, etc. beiträgt?
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 1) to +49491634615548
+Timestamp: 1740948419827 (2025-03-02T20:46:59.827Z)
+Server timestamps: received: 1740948421394 (2025-03-02T20:47:01.394Z) delivered: 1740948421396 (2025-03-02T20:47:01.396Z)
+Received a sync message
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548
+Timestamp: 1740948422706 (2025-03-02T20:47:02.706Z)
+Server timestamps: received: 1740948422834 (2025-03-02T20:47:02.834Z) delivered: 1740948422836 (2025-03-02T20:47:02.836Z)
+Received a sync message
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 1) to +49491634615548
+Timestamp: 1740948422476 (2025-03-02T20:47:02.476Z)
+Server timestamps: received: 1740948424026 (2025-03-02T20:47:04.026Z) delivered: 1740948424028 (2025-03-02T20:47:04.028Z)
+Received a sync message
+
+Envelope from: “Annanda Rhine” f715b564-f7df-4099-9d55-f9af1ade7c10 (device: 1) to +49491634615548
+Timestamp: 1740952597218 (2025-03-02T21:56:37.218Z)
+Server timestamps: received: 1740952599584 (2025-03-02T21:56:39.584Z) delivered: 1740952599592 (2025-03-02T21:56:39.592Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740952597218 (2025-03-02T21:56:37.218Z)
+Group info:
+Id: XGkEImZvAp+v2qmKLbBxpk1HB4/oUB0IDUhrMKc7Lww=
+Name: polit-öko-queer-mz-wi-umland
+Revision: 787
+Type: DELIVER
+Remote delete message: timestamp = 1740909008264
+
+Envelope from: “David” 9d762825-d008-485d-9880-86f2a52c471b (device: 1) to +49491634615548
+Timestamp: 1740954069070 (2025-03-02T22:21:09.070Z)
+Server timestamps: received: 1740954069215 (2025-03-02T22:21:09.215Z) delivered: 1740954069216 (2025-03-02T22:21:09.216Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740954069070 (2025-03-02T22:21:09.070Z)
+Is read receipt
+Timestamps:
+- 1740919945264 (2025-03-02T12:52:25.264Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740955219496 (2025-03-02T22:40:19.496Z)
+Server timestamps: received: 1740955221060 (2025-03-02T22:40:21.060Z) delivered: 1740955221061 (2025-03-02T22:40:21.061Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740955219496 (2025-03-02T22:40:19.496Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740955224816 (2025-03-02T22:40:24.816Z)
+Server timestamps: received: 1740955226380 (2025-03-02T22:40:26.380Z) delivered: 1740955226381 (2025-03-02T22:40:26.381Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740955224816 (2025-03-02T22:40:24.816Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740955225543 (2025-03-02T22:40:25.543Z)
+Server timestamps: received: 1740955227152 (2025-03-02T22:40:27.152Z) delivered: 1740955227155 (2025-03-02T22:40:27.155Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740955225543 (2025-03-02T22:40:25.543Z)
+Body: -shouts Antifa
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740955228072 (2025-03-02T22:40:28.072Z)
+Server timestamps: received: 1740955229636 (2025-03-02T22:40:29.636Z) delivered: 1740955229638 (2025-03-02T22:40:29.638Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740955228072 (2025-03-02T22:40:28.072Z)
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548
+Timestamp: 1740955234545 (2025-03-02T22:40:34.545Z)
+Server timestamps: received: 1740955234885 (2025-03-02T22:40:34.885Z) delivered: 1740955234887 (2025-03-02T22:40:34.887Z)
+Received a sync message
+Received sync sent message
+To: “Löwenzahn” +4917621430270
+Timestamp: 1740955234545 (2025-03-02T22:40:34.545Z)
+Message timestamp: 1740955234545 (2025-03-02T22:40:34.545Z)
+Body: Die nachricht wird gepostet
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740955233363 (2025-03-02T22:40:33.363Z)
+Server timestamps: received: 1740955234918 (2025-03-02T22:40:34.918Z) delivered: 1740955235036 (2025-03-02T22:40:35.036Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740955233363 (2025-03-02T22:40:33.363Z)
+Is delivery receipt
+Timestamps:
+- 1740955234545 (2025-03-02T22:40:34.545Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740955233504 (2025-03-02T22:40:33.504Z)
+Server timestamps: received: 1740955235061 (2025-03-02T22:40:35.061Z) delivered: 1740955235140 (2025-03-02T22:40:35.140Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740955233504 (2025-03-02T22:40:33.504Z)
+Is read receipt
+Timestamps:
+- 1740955234545 (2025-03-02T22:40:34.545Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740955246675 (2025-03-02T22:40:46.675Z)
+Server timestamps: received: 1740955248236 (2025-03-02T22:40:48.236Z) delivered: 1740955248238 (2025-03-02T22:40:48.238Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740955246675 (2025-03-02T22:40:46.675Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740955250897 (2025-03-02T22:40:50.897Z)
+Server timestamps: received: 1740955252496 (2025-03-02T22:40:52.496Z) delivered: 1740955252499 (2025-03-02T22:40:52.499Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740955250897 (2025-03-02T22:40:50.897Z)
+Body: !shouts Antifa
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740955253072 (2025-03-02T22:40:53.072Z)
+Server timestamps: received: 1740955254629 (2025-03-02T22:40:54.629Z) delivered: 1740955254630 (2025-03-02T22:40:54.630Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740955253072 (2025-03-02T22:40:53.072Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740955271139 (2025-03-02T22:41:11.139Z)
+Server timestamps: received: 1740955272700 (2025-03-02T22:41:12.700Z) delivered: 1740955272701 (2025-03-02T22:41:12.701Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740955271139 (2025-03-02T22:41:11.139Z)
+Is delivery receipt
+Timestamps:
+- 1740955272375 (2025-03-02T22:41:12.375Z)
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548
+Timestamp: 1740955272375 (2025-03-02T22:41:12.375Z)
+Server timestamps: received: 1740955272704 (2025-03-02T22:41:12.704Z) delivered: 1740955272822 (2025-03-02T22:41:12.822Z)
+Received a sync message
+Received sync sent message
+To: “Löwenzahn” +4917621430270
+Timestamp: 1740955272375 (2025-03-02T22:41:12.375Z)
+Message timestamp: 1740955272375 (2025-03-02T22:41:12.375Z)
+Body: Anti AfD Sprüche/Lieder:
+
+Alerta, Alerta, Antifascista!
+
+Siamo tutti antifascisti!
+
+Gib mir ein A - A! Gib mir ein F - F! Gib mir ein D - D! Was ist das? Scheiße! Was ist das? Scheiße!
+
+AfD - Rassistenpack - wir haben euch zum Kotzen satt!
+
+Say it loud, say it clear, refugees are welcome here!
+
+Alle zusammen gegen den Faschismus!
+
+Ihr habt den Krieg verloren, Ihr habt den Krieg verloren, ihr habt, ihr habt, ihr habt den Krieg verloren (wiederholen) zwei mal!
+
+Nazis gibt's in jeder Stadt, bildet Banden macht sie platt!
+
+Ihr seid so lächerlich, ihr seid so lächerlich, ihr seid, ihr seid, ihr seid so lächerlich
+
+Gebt den Nazis die Straße zurück - Stein für Stein - Stück für Stück
+
+Ob Ost, ob West, nieder mit der Nazipest
+Ob Süd, ob Nord, Nazis über Bord!
+
+Ob Süd ob Nord- Widerstand an jedem Ort.
+
+Es gibt kein Recht auf Nazipropaganda!
+
+Attacke, Attacke, die AfD ist kacke
+
+Gegen das Konstrukt aus Volk, Nation und Rasse. Für uns gibt's nur eins: Klasse gegen Klasse
+
+Gegen das Konstrukt von Rasse und Nation. Für uns gib's nur eins:
+Soziale Revolution!
+
+Für die Freiheit, für das Leben - Nazis von der Straße Fegen
+
+Nie, nie, nie wieder Deutschland!!!
+
+Kein Vergeben - Kein Vergessen: Nazis haben Namen und Adressen!
+
+Der Fuchs ist schlau und Stellt sich dumm - Beim Fascho ist es andersrum
+
+Nationalismus raus aus den Köpfen!
+
+Wer nichts ist und wer nichts kann - der muss stolz sein auf sein Land!
+
+Schießt die Weidel auf den Mond,  das ist Raumfahrt die sich lohnt!
+
+Say it loud, say it clear, fascists are not welcome here
+
+Hurra, hurra,
+Die Antifa ist da
+
+Afd - Rassisten, Sexisten
+Brandstifter, Totschläger und Faschisten
+
+Wer Deutschland nicht liebt, hat Deutschland verstanden
+
+Es gibt kein Recht auf Nazipropaganda
+
+Die AfD ist rechtsextrem -und für die Verfassung ein Problem
+
+Nazis verpisst Euch
+X X   XX X
+keiner vermisst Euch!
+X X   XX X
+
+Nie wieder ist jetzt!
+
+Hoch die internationale Solidarität!
+
+Solidarität heisst Widerstand,
+Kampf dem Faschis
+With profile key
+Attachments:
+- Attachment:
+Content-Type: text/x-signal-plain
+Type: Pointer
+Id: 5KMxOKfQqTL6UPIRTxrE.txt
+Upload timestamp: 1740955271915 (2025-03-02T22:41:11.915Z)
+Size: 3147 bytes
+Stored plaintext in: /home/johbot/.local/share/signal-cli/attachments/5KMxOKfQqTL6UPIRTxrE.txt
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740955272568 (2025-03-02T22:41:12.568Z)
+Server timestamps: received: 1740955274127 (2025-03-02T22:41:14.127Z) delivered: 1740955274128 (2025-03-02T22:41:14.128Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740955272568 (2025-03-02T22:41:12.568Z)
+Is read receipt
+Timestamps:
+- 1740955272375 (2025-03-02T22:41:12.375Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740955278184 (2025-03-02T22:41:18.184Z)
+Server timestamps: received: 1740955279746 (2025-03-02T22:41:19.746Z) delivered: 1740955279747 (2025-03-02T22:41:19.747Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740955278184 (2025-03-02T22:41:18.184Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740955283458 (2025-03-02T22:41:23.458Z)
+Server timestamps: received: 1740955285057 (2025-03-02T22:41:25.057Z) delivered: 1740955285058 (2025-03-02T22:41:25.058Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740955283458 (2025-03-02T22:41:23.458Z)
+Body: !shouts Umwelt
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740955286008 (2025-03-02T22:41:26.008Z)
+Server timestamps: received: 1740955287568 (2025-03-02T22:41:27.568Z) delivered: 1740955287569 (2025-03-02T22:41:27.569Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740955286008 (2025-03-02T22:41:26.008Z)
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548
+Timestamp: 1740955293182 (2025-03-02T22:41:33.182Z)
+Server timestamps: received: 1740955293491 (2025-03-02T22:41:33.491Z) delivered: 1740955293492 (2025-03-02T22:41:33.492Z)
+Received a sync message
+Received sync sent message
+To: “Löwenzahn” +4917621430270
+Timestamp: 1740955293182 (2025-03-02T22:41:33.182Z)
+Message timestamp: 1740955293182 (2025-03-02T22:41:33.182Z)
+Body: Wir sind hier, wir sind laut, weil ihr uns die Zukunft klaut
+Motor aus, Fahrrad fahr'n. Für das Klima Bus und Bahn.
+
+„What do we want? Climate justice! When do we want it? Now!“
+
+Streik in der Schule, Streik in dem Betrieb, das ist unsre Antwort auf eure Politik
+
+„Ob Kohle aus der Mine, ob Kohle aus der Bank: Beidem fehlt die Liebe, beides macht uns krank.“
+Erst kommt das Fressen, dann kommt dir Moral: Wohlstand für alle - Kampf dem Kapital
+
+/// Mathenachhilfe ///
+1,2,3,4, Für das Klima sind wir hier  5,6,7,8,  RWE wird plattgemacht  9 und 10, der Klimastreik wird weitergehen
+1,2,3,4 Alle Bäume bleiben hier  5,6,7,8, Kohlekraft wird plattgemacht  9 und 10, der Widerstand muss weitergehn!
+1,2,3,4 In Wiesbaden da streiken wir  5,6,7,8, die CDU hat scheiß gemacht  9 und 10, der Friedrich Merz der muss jetzt gehn!
+
+/// Rechtsberatung ///
+Es gibt kein Recht, die Erde zu zerstören.
+Es gibt kein Recht, ein SUV zu fahren.
+Es gibt kein Recht, Kohle auszugraben.
+Es gibt kein Recht, Kohlebagger zu fahren.
+Es gibt kein Recht auf Kohlebagger fahren.
+Es gibt kein Recht, auf neue Autobahnen.
+Es gibt kein Recht, auf Kohle, Gas und Erdöl.
+Es gibt kein Recht, von Donald Gas zu Kaufen.
+((Hinweis: immer schön das K in Kein betonen ^^))
+
+Hoch die internationale Solidarität!
+Hoch die antinationale Solidarität!
+
+„Show me what democracy looks like“ – „This is what democracy looks like!“
+
+Wo, Wo, Wo bleibt die Klima-era?
+Wo, Wo, Wo bleibt das Klimageld?
+
+Sport for future
+„Hey, hey! Wer nicht hüpft der ist für Kohle.“
+Hoch mit dem Klimaschutz - Runter mit der Kohle!
+
+„We are unstoppable, another world is possible“
+
+/// Ein geben und Nehmen ///
+Gebt mir ein R - W - E
+Gebt mir ein L - N - G
+Gebt mir ein B - P
+Gebt mir ein A - F - D
+Gebt mir ein F - D - P
+Gebt mir ein C - D - U
+Gebt mir ein A - K - W
+
+Ich sage Kohle ihr sagt Stopp!
+Ich sage Hambi ihr sagt bleibt!
+Ich sage Grüne Lunge ihr sagt bleibt!
+Ich sag Banny ihr sagt Bleib
+With profile key
+Attachments:
+- Attachment:
+Content-Type: text/x-signal-plain
+Type: Pointer
+Id: 9zLpDyO9QSr7QOLhI6RX.txt
+Upload timestamp: 1740955292644 (2025-03-02T22:41:32.644Z)
+Size: 6548 bytes
+Stored plaintext in: /home/johbot/.local/share/signal-cli/attachments/9zLpDyO9QSr7QOLhI6RX.txt
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740955291994 (2025-03-02T22:41:31.994Z)
+Server timestamps: received: 1740955293623 (2025-03-02T22:41:33.623Z) delivered: 1740955293624 (2025-03-02T22:41:33.624Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740955291994 (2025-03-02T22:41:31.994Z)
+Is delivery receipt
+Timestamps:
+- 1740955293182 (2025-03-02T22:41:33.182Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740955319836 (2025-03-02T22:41:59.836Z)
+Server timestamps: received: 1740955321404 (2025-03-02T22:42:01.404Z) delivered: 1740955321406 (2025-03-02T22:42:01.406Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740955319836 (2025-03-02T22:41:59.836Z)
+Is read receipt
+Timestamps:
+- 1740955293182 (2025-03-02T22:41:33.182Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740957196057 (2025-03-02T23:13:16.057Z)
+Server timestamps: received: 1740957197638 (2025-03-02T23:13:17.638Z) delivered: 1740957197639 (2025-03-02T23:13:17.639Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740957196057 (2025-03-02T23:13:16.057Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740957201757 (2025-03-02T23:13:21.757Z)
+Server timestamps: received: 1740957203324 (2025-03-02T23:13:23.324Z) delivered: 1740957203325 (2025-03-02T23:13:23.325Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740957201757 (2025-03-02T23:13:21.757Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740957201570 (2025-03-02T23:13:21.570Z)
+Server timestamps: received: 1740957204116 (2025-03-02T23:13:24.116Z) delivered: 1740957204117 (2025-03-02T23:13:24.117Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740957201570 (2025-03-02T23:13:21.570Z)
+Body: echo https://www.geeksforgeeks.org/python-create-video-using-multiple-images-using-opencv/
+Previews:
+- Preview
+Title: Python | Create video using multiple images using OpenCV - GeeksforGeeks
+Description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+Date: 0 (1970-01-01T00:00:00.000Z)
+Url: https://www.geeksforgeeks.org/python-create-video-using-multiple-images-using-opencv/
+Image:
+Content-Type: image/jpeg
+Type: Pointer
+Id: vtrOevPY4H4B6srQL1hf.jpg
+Upload timestamp: 1740957202063 (2025-03-02T23:13:22.063Z)
+Size: 55293 bytes
+Dimensions: 1391x778
+Stored plaintext in: /home/johbot/.local/share/signal-cli/attachments/vtrOevPY4H4B6srQL1hf.jpg
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740957209278 (2025-03-02T23:13:29.278Z)
+Server timestamps: received: 1740957211332 (2025-03-02T23:13:31.332Z) delivered: 1740957211334 (2025-03-02T23:13:31.334Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740957209278 (2025-03-02T23:13:29.278Z)
+Remote delete message: timestamp = 1740957201570
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548
+Timestamp: 1740957212098 (2025-03-02T23:13:32.098Z)
+Server timestamps: received: 1740957212386 (2025-03-02T23:13:32.386Z) delivered: 1740957212388 (2025-03-02T23:13:32.388Z)
+Received a sync message
+Received sync sent message
+To: “Löwenzahn” +4917621430270
+Timestamp: 1740957212098 (2025-03-02T23:13:32.098Z)
+Message timestamp: 1740957212098 (2025-03-02T23:13:32.098Z)
+Body: Die nachricht wird gepostet
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740957210882 (2025-03-02T23:13:30.882Z)
+Server timestamps: received: 1740957212445 (2025-03-02T23:13:32.445Z) delivered: 1740957212601 (2025-03-02T23:13:32.601Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740957210882 (2025-03-02T23:13:30.882Z)
+Is delivery receipt
+Timestamps:
+- 1740957212098 (2025-03-02T23:13:32.098Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740957211029 (2025-03-02T23:13:31.029Z)
+Server timestamps: received: 1740957212596 (2025-03-02T23:13:32.596Z) delivered: 1740957212601 (2025-03-02T23:13:32.601Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740957211029 (2025-03-02T23:13:31.029Z)
+Is read receipt
+Timestamps:
+- 1740957212098 (2025-03-02T23:13:32.098Z)
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548
+Timestamp: 1740957219778 (2025-03-02T23:13:39.778Z)
+Server timestamps: received: 1740957220191 (2025-03-02T23:13:40.191Z) delivered: 1740957220192 (2025-03-02T23:13:40.192Z)
+Received a sync message
+Received sync sent message
+To: “Moon” +4917664160088
+Timestamp: 1740957219778 (2025-03-02T23:13:39.778Z)
+Message timestamp: 1740957219778 (2025-03-02T23:13:39.778Z)
+Body: echo https://www.geeksforgeeks.org/python-create-video-using-multiple-images-using-opencv/
+Previews:
+- Preview
+Title: Python | Create video using multiple images using OpenCV - GeeksforGeeks
+Description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+Date: 0 (1970-01-01T00:00:00.000Z)
+Url: https://www.geeksforgeeks.org/python-create-video-using-multiple-images-using-opencv/
+Image:
+Content-Type: image/jpeg
+Type: Pointer
+Id: vtrOevPY4H4B6srQL1hf.jpg
+Upload timestamp: 1740957202063 (2025-03-02T23:13:22.063Z)
+Size: 55293 bytes
+Dimensions: 1391x778
+Stored plaintext in: /home/admin/.local/share/signal-cli/attachments/vtrOevPY4H4B6srQL1hf.jpg
+With profile key
+
+Envelope from: “Moon” +4917664160088 (device: 1) to +49491634615548
+Timestamp: 1740957221604 (2025-03-02T23:13:41.604Z)
+Server timestamps: received: 1740957221261 (2025-03-02T23:13:41.261Z) delivered: 1740957221262 (2025-03-02T23:13:41.262Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740957221604 (2025-03-02T23:13:41.604Z)
+Is delivery receipt
+Timestamps:
+- 1740957219778 (2025-03-02T23:13:39.778Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740957223016 (2025-03-02T23:13:43.016Z)
+Server timestamps: received: 1740957224572 (2025-03-02T23:13:44.572Z) delivered: 1740957224574 (2025-03-02T23:13:44.574Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740957223016 (2025-03-02T23:13:43.016Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740957226173 (2025-03-02T23:13:46.173Z)
+Server timestamps: received: 1740957227752 (2025-03-02T23:13:47.752Z) delivered: 1740957227753 (2025-03-02T23:13:47.753Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740957226173 (2025-03-02T23:13:46.173Z)
+Is delivery receipt
+Timestamps:
+- 1740957227453 (2025-03-02T23:13:47.453Z)
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548
+Timestamp: 1740957227453 (2025-03-02T23:13:47.453Z)
+Server timestamps: received: 1740957227758 (2025-03-02T23:13:47.758Z) delivered: 1740957227959 (2025-03-02T23:13:47.959Z)
+Received a sync message
+Received sync sent message
+To: “Löwenzahn” +4917621430270
+Timestamp: 1740957227453 (2025-03-02T23:13:47.453Z)
+Message timestamp: 1740957227453 (2025-03-02T23:13:47.453Z)
+Body: echo https://www.geeksforgeeks.org/python-create-video-using-multiple-images-using-opencv/
+Previews:
+- Preview
+Title: Python | Create video using multiple images using OpenCV - GeeksforGeeks
+Description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+Date: 0 (1970-01-01T00:00:00.000Z)
+Url: https://www.geeksforgeeks.org/python-create-video-using-multiple-images-using-opencv/
+Image:
+Content-Type: image/jpeg
+Type: Pointer
+Id: vtrOevPY4H4B6srQL1hf.jpg
+Upload timestamp: 1740957202063 (2025-03-02T23:13:22.063Z)
+Size: 55293 bytes
+Dimensions: 1391x778
+Stored plaintext in: /home/admin/.local/share/signal-cli/attachments/vtrOevPY4H4B6srQL1hf.jpg
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740957226356 (2025-03-02T23:13:46.356Z)
+Server timestamps: received: 1740957227920 (2025-03-02T23:13:47.920Z) delivered: 1740957227960 (2025-03-02T23:13:47.960Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740957226356 (2025-03-02T23:13:46.356Z)
+Is read receipt
+Timestamps:
+- 1740957227453 (2025-03-02T23:13:47.453Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740957228639 (2025-03-02T23:13:48.639Z)
+Server timestamps: received: 1740957230188 (2025-03-02T23:13:50.188Z) delivered: 1740957230189 (2025-03-02T23:13:50.189Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740957228639 (2025-03-02T23:13:48.639Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740957227998 (2025-03-02T23:13:47.998Z)
+Server timestamps: received: 1740957230865 (2025-03-02T23:13:50.865Z) delivered: 1740957230866 (2025-03-02T23:13:50.866Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740957227998 (2025-03-02T23:13:47.998Z)
+Body: !echo https://www.geeksforgeeks.org/python-create-video-using-multiple-images-using-opencv/
+Previews:
+- Preview
+Title: Python | Create video using multiple images using OpenCV - GeeksforGeeks
+Description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+Date: 0 (1970-01-01T00:00:00.000Z)
+Url: https://www.geeksforgeeks.org/python-create-video-using-multiple-images-using-opencv/
+Image:
+Content-Type: image/jpeg
+Type: Pointer
+Id: kj3kWR-dyiz27R-iVjqz.jpg
+Upload timestamp: 1740957228371 (2025-03-02T23:13:48.371Z)
+Size: 55293 bytes
+Dimensions: 1391x778
+Stored plaintext in: /home/johbot/.local/share/signal-cli/attachments/kj3kWR-dyiz27R-iVjqz.jpg
+With profile key
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548
+Timestamp: 1740957234873 (2025-03-02T23:13:54.873Z)
+Server timestamps: received: 1740957235127 (2025-03-02T23:13:55.127Z) delivered: 1740957235128 (2025-03-02T23:13:55.128Z)
+Received a sync message
+Received sync sent message
+To: “David” 9d762825-d008-485d-9880-86f2a52c471b
+Timestamp: 1740957234873 (2025-03-02T23:13:54.873Z)
+Message timestamp: 1740957234873 (2025-03-02T23:13:54.873Z)
+Body: echo https://www.geeksforgeeks.org/python-create-video-using-multiple-images-using-opencv/
+Previews:
+- Preview
+Title: Python | Create video using multiple images using OpenCV - GeeksforGeeks
+Description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+Date: 0 (1970-01-01T00:00:00.000Z)
+Url: https://www.geeksforgeeks.org/python-create-video-using-multiple-images-using-opencv/
+Image:
+Content-Type: image/jpeg
+Type: Pointer
+Id: vtrOevPY4H4B6srQL1hf.jpg
+Upload timestamp: 1740957202063 (2025-03-02T23:13:22.063Z)
+Size: 55293 bytes
+Dimensions: 1391x778
+Stored plaintext in: /home/admin/.local/share/signal-cli/attachments/vtrOevPY4H4B6srQL1hf.jpg
+With profile key
+
+Envelope from: “David” 9d762825-d008-485d-9880-86f2a52c471b (device: 1) to +49491634615548
+Timestamp: 1740957236064 (2025-03-02T23:13:56.064Z)
+Server timestamps: received: 1740957236256 (2025-03-02T23:13:56.256Z) delivered: 1740957236257 (2025-03-02T23:13:56.257Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740957236064 (2025-03-02T23:13:56.064Z)
+Is delivery receipt
+Timestamps:
+- 1740957234873 (2025-03-02T23:13:54.873Z)
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548
+Timestamp: 1740957242288 (2025-03-02T23:14:02.288Z)
+Server timestamps: received: 1740957242756 (2025-03-02T23:14:02.756Z) delivered: 1740957242757 (2025-03-02T23:14:02.757Z)
+Received a sync message
+Received sync sent message
+To: “Melina” +4915206894910
+Timestamp: 1740957242288 (2025-03-02T23:14:02.288Z)
+Message timestamp: 1740957242288 (2025-03-02T23:14:02.288Z)
+Body: echo https://www.geeksforgeeks.org/python-create-video-using-multiple-images-using-opencv/
+Previews:
+- Preview
+Title: Python | Create video using multiple images using OpenCV - GeeksforGeeks
+Description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+Date: 0 (1970-01-01T00:00:00.000Z)
+Url: https://www.geeksforgeeks.org/python-create-video-using-multiple-images-using-opencv/
+Image:
+Content-Type: image/jpeg
+Type: Pointer
+Id: vtrOevPY4H4B6srQL1hf.jpg
+Upload timestamp: 1740957202063 (2025-03-02T23:13:22.063Z)
+Size: 55293 bytes
+Dimensions: 1391x778
+Stored plaintext in: /home/admin/.local/share/signal-cli/attachments/vtrOevPY4H4B6srQL1hf.jpg
+With profile key
+
+Envelope from: “Demoticker Mainz Wiesbaden” +49491634615548 (device: 4) to +49491634615548
+Timestamp: 1740957250966 (2025-03-02T23:14:10.966Z)
+Server timestamps: received: 1740957251274 (2025-03-02T23:14:11.274Z) delivered: 1740957251275 (2025-03-02T23:14:11.275Z)
+Received a sync message
+Received sync sent message
+To: “Löwenzahn” +4917621430270
+Timestamp: 1740957250966 (2025-03-02T23:14:10.966Z)
+Message timestamp: 1740957250966 (2025-03-02T23:14:10.966Z)
+Body: https://www.geeksforgeeks.org/python-create-video-using-multiple-images-using-opencv/
+Previews:
+- Preview
+Title: Python | Create video using multiple images using OpenCV - GeeksforGeeks
+Description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+Date: 0 (1970-01-01T00:00:00.000Z)
+Url: https://www.geeksforgeeks.org/python-create-video-using-multiple-images-using-opencv/
+Image:
+Content-Type: image/jpeg
+Type: Pointer
+Id: kj3kWR-dyiz27R-iVjqz.jpg
+Upload timestamp: 1740957228371 (2025-03-02T23:13:48.371Z)
+Size: 55293 bytes
+Dimensions: 1391x778
+Stored plaintext in: /home/admin/.local/share/signal-cli/attachments/kj3kWR-dyiz27R-iVjqz.jpg
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740957249794 (2025-03-02T23:14:09.794Z)
+Server timestamps: received: 1740957251381 (2025-03-02T23:14:11.381Z) delivered: 1740957251412 (2025-03-02T23:14:11.412Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740957249794 (2025-03-02T23:14:09.794Z)
+Is delivery receipt
+Timestamps:
+- 1740957250966 (2025-03-02T23:14:10.966Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740957249964 (2025-03-02T23:14:09.964Z)
+Server timestamps: received: 1740957251537 (2025-03-02T23:14:11.537Z) delivered: 1740957251538 (2025-03-02T23:14:11.538Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740957249964 (2025-03-02T23:14:09.964Z)
+Is read receipt
+Timestamps:
+- 1740957250966 (2025-03-02T23:14:10.966Z)
+
+Envelope from: “Ralf-Michael Jäger” 1639c035-5e3f-422f-9cdf-b2583fde874a (device: 1) to +49491634615548
+Timestamp: 1740975600771 (2025-03-03T04:20:00.771Z)
+Server timestamps: received: 1740975600508 (2025-03-03T04:20:00.508Z) delivered: 1740975600512 (2025-03-03T04:20:00.512Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740975600771 (2025-03-03T04:20:00.771Z)
+Body: Liebe alle,
+Heidemarie von den "Omas gegen Rechts" hat mich gerade auf diese Veranstaltung  aufmerksam gemacht. Klingt lohnend!
+Nach meinem Eindruck ist eine intensivere Zusammenarbeit sehr wichtig🤝.  Evt. kann die Veranstaltung auch dazu dienen, dass wir uns besser kennen lernen. Dies hilft um effektiv Kräfte und Ideen zu bündeln🤗. Mein persönlicher Schwerpunkt wird bei den Scientists bleiben. Mit der AFD gibt es aber auch keinen Klimaschutz😔.
+Kommt bitte und bewerbt die Veranstaltung weiter.
+
+https://defend-democracy.de/
+Rechtsextrem, das neue Normal?
+Es besteht Anlass zu erheblicher Sorge und zu dringendem Handeln: Die extreme Rechte zersetzt das Vertrauen in die Demokratie, sagt Matthias Quent. Eines ihrer Werkzeuge sind dabei Desinformationskampagnen mit teils ausländischem Hintergrund.
+
+04. März 2025, 19:30 Uhr
+Schlachthof Wiesbaden
+
+mit Dr. Matthias Quent
+Moderation: Sascha Schmidt und Moritz Buch
+LG, Doris
+Group info:
+Id: U/bVJbYCLQ2QMoYc0tTad/edVkczwaAcoAQRgEvxVDo=
+Name: Bündnis Stadtklima
+Revision: 178
+Type: DELIVER
+Previews:
+- Preview
+Title: defend democracy!
+Description:
+Date: 0 (1970-01-01T00:00:00.000Z)
+Url: https://defend-democracy.de/
+Image:
+Content-Type: image/png
+Type: Pointer
+Id: tTO9MeRjrRRFNFZUrTTP.png
+Upload timestamp: 1740953257438 (2025-03-02T22:07:37.438Z)
+Size: 12164 bytes
+Dimensions: 180x180
+Stored plaintext in: /home/johbot/.local/share/signal-cli/attachments/tTO9MeRjrRRFNFZUrTTP.png
+With profile key
+
+Envelope from: “Ralf-Michael Jäger” 1639c035-5e3f-422f-9cdf-b2583fde874a (device: 1) to +49491634615548
+Timestamp: 1740975601885 (2025-03-03T04:20:01.885Z)
+Server timestamps: received: 1740975601472 (2025-03-03T04:20:01.472Z) delivered: 1740975601473 (2025-03-03T04:20:01.473Z)
+Sent by unidentified/sealed sender
+
+Envelope from: “Ralf-Michael Jäger” 1639c035-5e3f-422f-9cdf-b2583fde874a (device: 1) to +49491634615548
+Timestamp: 1740975601296 (2025-03-03T04:20:01.296Z)
+Server timestamps: received: 1740975601655 (2025-03-03T04:20:01.655Z) delivered: 1740975601658 (2025-03-03T04:20:01.658Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740975601296 (2025-03-03T04:20:01.296Z)
+Body: Liebe alle,
+Heidemarie von den "Omas gegen Rechts" hat mich gerade auf diese Veranstaltung  aufmerksam gemacht. Klingt lohnend!
+Nach meinem Eindruck ist eine intensivere Zusammenarbeit sehr wichtig🤝.  Evt. kann die Veranstaltung auch dazu dienen, dass wir uns besser kennen lernen. Dies hilft um effektiv Kräfte und Ideen zu bündeln🤗. Mein persönlicher Schwerpunkt wird bei den Scientists bleiben. Mit der AFD gibt es aber auch keinen Klimaschutz😔.
+Kommt bitte und bewerbt die Veranstaltung weiter.
+
+https://defend-democracy.de/
+Rechtsextrem, das neue Normal?
+Es besteht Anlass zu erheblicher Sorge und zu dringendem Handeln: Die extreme Rechte zersetzt das Vertrauen in die Demokratie, sagt Matthias Quent. Eines ihrer Werkzeuge sind dabei Desinformationskampagnen mit teils ausländischem Hintergrund.
+
+04. März 2025, 19:30 Uhr
+Schlachthof Wiesbaden
+
+mit Dr. Matthias Quent
+Moderation: Sascha Schmidt und Moritz Buch
+LG, Doris
+Group info:
+Id: JOYmPusY0iPM4t0DatMntkQ6g3gp9+ASgSaWb4gnkNw=
+Name: Fridaysforfuture-WI Signal 1️⃣
+Revision: 248
+Type: DELIVER
+Previews:
+- Preview
+Title: defend democracy!
+Description:
+Date: 0 (1970-01-01T00:00:00.000Z)
+Url: https://defend-democracy.de/
+Image:
+Content-Type: image/png
+Type: Pointer
+Id: tTO9MeRjrRRFNFZUrTTP.png
+Upload timestamp: 1740953257438 (2025-03-02T22:07:37.438Z)
+Size: 12164 bytes
+Dimensions: 180x180
+Stored plaintext in: /home/johbot/.local/share/signal-cli/attachments/tTO9MeRjrRRFNFZUrTTP.png
+Expires in: 2419200 seconds
+With profile key
+
+Envelope from: “Moon” +4917664160088 (device: 2) to +49491634615548
+Timestamp: 1740990469058 (2025-03-03T08:27:49.058Z)
+Server timestamps: received: 1740990461515 (2025-03-03T08:27:41.515Z) delivered: 1740990461517 (2025-03-03T08:27:41.517Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740990469058 (2025-03-03T08:27:49.058Z)
+Is delivery receipt
+Timestamps:
+- 1740957219778 (2025-03-02T23:13:39.778Z)
+
+Envelope from: “conny” 0775fe77-a286-4e29-ba31-64c0686b54f9 (device: 1) to +49491634615548
+Timestamp: 1740992918806 (2025-03-03T09:08:38.806Z)
+Server timestamps: received: 1740992927038 (2025-03-03T09:08:47.038Z) delivered: 1740992927040 (2025-03-03T09:08:47.040Z)
+Sent by unidentified/sealed sender
+
+Envelope from: “conny” 0775fe77-a286-4e29-ba31-64c0686b54f9 (device: 1) to +49491634615548
+Timestamp: 1740992918679 (2025-03-03T09:08:38.679Z)
+Server timestamps: received: 1740992927354 (2025-03-03T09:08:47.354Z) delivered: 1740992927357 (2025-03-03T09:08:47.357Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740992918679 (2025-03-03T09:08:38.679Z)
+Group Info:
+Id: JOYmPusY0iPM4t0DatMntkQ6g3gp9+ASgSaWb4gnkNw=
+Name: Fridaysforfuture-WI Signal 1️⃣
+
+Envelope from: “Melina” +4915206894910 (device: 1) to +49491634615548
+Timestamp: 1740993012231 (2025-03-03T09:10:12.231Z)
+Server timestamps: received: 1740993012821 (2025-03-03T09:10:12.821Z) delivered: 1740993012822 (2025-03-03T09:10:12.822Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740993012231 (2025-03-03T09:10:12.231Z)
+Is delivery receipt
+Timestamps:
+- 1740957242288 (2025-03-02T23:14:02.288Z)
+
+Envelope from: “Jannek Ramm” 2a2fb4ee-b781-43ed-8e8a-9e5375cc40b2 (device: 1) to +49491634615548
+Timestamp: 1740997268135 (2025-03-03T10:21:08.135Z)
+Server timestamps: received: 1740997269437 (2025-03-03T10:21:09.437Z) delivered: 1740997269439 (2025-03-03T10:21:09.439Z)
+Sent by unidentified/sealed sender
+
+Envelope from: “Jannek Ramm” 2a2fb4ee-b781-43ed-8e8a-9e5375cc40b2 (device: 1) to +49491634615548
+Timestamp: 1740997282627 (2025-03-03T10:21:22.627Z)
+Server timestamps: received: 1740997283321 (2025-03-03T10:21:23.321Z) delivered: 1740997283324 (2025-03-03T10:21:23.324Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740997282627 (2025-03-03T10:21:22.627Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “Jannek Ramm” 2a2fb4ee-b781-43ed-8e8a-9e5375cc40b2 (device: 1) to +49491634615548
+Timestamp: 1740997292650 (2025-03-03T10:21:32.650Z)
+Server timestamps: received: 1740997292753 (2025-03-03T10:21:32.753Z) delivered: 1740997292756 (2025-03-03T10:21:32.756Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740997292650 (2025-03-03T10:21:32.650Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “Jannek Ramm” 2a2fb4ee-b781-43ed-8e8a-9e5375cc40b2 (device: 1) to +49491634615548
+Timestamp: 1740997292966 (2025-03-03T10:21:32.966Z)
+Server timestamps: received: 1740997293380 (2025-03-03T10:21:33.380Z) delivered: 1740997293384 (2025-03-03T10:21:33.384Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740997292966 (2025-03-03T10:21:32.966Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “Jannek Ramm” 2a2fb4ee-b781-43ed-8e8a-9e5375cc40b2 (device: 1) to +49491634615548
+Timestamp: 1740997303220 (2025-03-03T10:21:43.220Z)
+Server timestamps: received: 1740997303793 (2025-03-03T10:21:43.793Z) delivered: 1740997303796 (2025-03-03T10:21:43.796Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740997303220 (2025-03-03T10:21:43.220Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “Jannek Ramm” 2a2fb4ee-b781-43ed-8e8a-9e5375cc40b2 (device: 1) to +49491634615548
+Timestamp: 1740997305442 (2025-03-03T10:21:45.442Z)
+Server timestamps: received: 1740997305633 (2025-03-03T10:21:45.633Z) delivered: 1740997305636 (2025-03-03T10:21:45.636Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740997305442 (2025-03-03T10:21:45.442Z)
+Body: Hi, an wen wende ich mich am besten, wen wir vom Klatsch aus ein einmaliges Treffen im Infoladen machen möchten? Liebe Grüße
+Group info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+Revision: 277
+Type: DELIVER
+With profile key
+
+Envelope from: “Jannek Ramm” 2a2fb4ee-b781-43ed-8e8a-9e5375cc40b2 (device: 1) to +49491634615548
+Timestamp: 1740997306082 (2025-03-03T10:21:46.082Z)
+Server timestamps: received: 1740997306141 (2025-03-03T10:21:46.141Z) delivered: 1740997306144 (2025-03-03T10:21:46.144Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740997306082 (2025-03-03T10:21:46.082Z)
+Group Info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+
+Envelope from: “Micha” 2cda6ea3-2426-46bc-b6f2-765ad14a4171 (device: 1) to +49491634615548
+Timestamp: 1740998154214 (2025-03-03T10:35:54.214Z)
+Server timestamps: received: 1740998154946 (2025-03-03T10:35:54.946Z) delivered: 1740998154948 (2025-03-03T10:35:54.948Z)
+Sent by unidentified/sealed sender
+
+Envelope from: “Micha” 2cda6ea3-2426-46bc-b6f2-765ad14a4171 (device: 1) to +49491634615548
+Timestamp: 1740998154138 (2025-03-03T10:35:54.138Z)
+Server timestamps: received: 1740998155922 (2025-03-03T10:35:55.922Z) delivered: 1740998155926 (2025-03-03T10:35:55.926Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740998154138 (2025-03-03T10:35:54.138Z)
+Group info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+Revision: 277
+Type: DELIVER
+Reaction:
+Emoji: 👍
+Target author: “Jannek Ramm” 2a2fb4ee-b781-43ed-8e8a-9e5375cc40b2
+Target timestamp: 1740997305442 (2025-03-03T10:21:45.442Z)
+Is remove: false
+
+Envelope from: “Micha” 2cda6ea3-2426-46bc-b6f2-765ad14a4171 (device: 1) to +49491634615548
+Timestamp: 1740998307909 (2025-03-03T10:38:27.909Z)
+Server timestamps: received: 1740998307665 (2025-03-03T10:38:27.665Z) delivered: 1740998307667 (2025-03-03T10:38:27.667Z)
+Sent by unidentified/sealed sender
+
+Envelope from: “Micha” 2cda6ea3-2426-46bc-b6f2-765ad14a4171 (device: 1) to +49491634615548
+Timestamp: 1740998307852 (2025-03-03T10:38:27.852Z)
+Server timestamps: received: 1740998307919 (2025-03-03T10:38:27.919Z) delivered: 1740998307922 (2025-03-03T10:38:27.922Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740998307852 (2025-03-03T10:38:27.852Z)
+Group info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+Revision: 277
+Type: DELIVER
+Reaction:
+Emoji: 👍
+Target author: “Jannek Ramm” 2a2fb4ee-b781-43ed-8e8a-9e5375cc40b2
+Target timestamp: 1740997305442 (2025-03-03T10:21:45.442Z)
+Is remove: true
+
+Envelope from: “Micha” 2cda6ea3-2426-46bc-b6f2-765ad14a4171 (device: 1) to +49491634615548
+Timestamp: 1740998347711 (2025-03-03T10:39:07.711Z)
+Server timestamps: received: 1740998347623 (2025-03-03T10:39:07.623Z) delivered: 1740998347627 (2025-03-03T10:39:07.627Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740998347711 (2025-03-03T10:39:07.711Z)
+Group info:
+Id: ki7vsuB/M3hCsqaYWvBalgKAoIyxzAbJ9teAl0hy6DM=
+Name: Infoladen WI Infos
+Revision: 277
+Type: DELIVER
+Reaction:
+Emoji: ✉️
+Target author: “Jannek Ramm” 2a2fb4ee-b781-43ed-8e8a-9e5375cc40b2
+Target timestamp: 1740997305442 (2025-03-03T10:21:45.442Z)
+Is remove: false
+
+Envelope from: “Melina” +4915206894910 (device: 1) to +49491634615548
+Timestamp: 1741001223566 (2025-03-03T11:27:03.566Z)
+Server timestamps: received: 1741001223661 (2025-03-03T11:27:03.661Z) delivered: 1741001223663 (2025-03-03T11:27:03.663Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1741001223566 (2025-03-03T11:27:03.566Z)
+Is read receipt
+Timestamps:
+- 1740957242288 (2025-03-02T23:14:02.288Z)
+

@@ -1,0 +1,6 @@
+TASK=$(ps -fu johbot | grep signal-cli)
+TASK="${TASK#*     }"
+TASK="${TASK%%   *}"
+echo "killing $TASK"
+kill $TASK
+

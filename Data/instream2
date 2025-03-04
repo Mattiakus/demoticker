@@ -1,0 +1,271 @@
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938320633 (2025-03-02T17:58:40.633Z)
+Server timestamps: received: 1740938322188 (2025-03-02T17:58:42.188Z) delivered: 1740938322189 (2025-03-02T17:58:42.189Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938320633 (2025-03-02T17:58:40.633Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938321711 (2025-03-02T17:58:41.711Z)
+Server timestamps: received: 1740938323257 (2025-03-02T17:58:43.257Z) delivered: 1740938323259 (2025-03-02T17:58:43.259Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938321711 (2025-03-02T17:58:41.711Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938363207 (2025-03-02T17:59:23.207Z)
+Server timestamps: received: 1740938364766 (2025-03-02T17:59:24.766Z) delivered: 1740938364767 (2025-03-02T17:59:24.767Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938363207 (2025-03-02T17:59:23.207Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938364010 (2025-03-02T17:59:24.010Z)
+Server timestamps: received: 1740938365585 (2025-03-02T17:59:25.585Z) delivered: 1740938365587 (2025-03-02T17:59:25.587Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740938364010 (2025-03-02T17:59:24.010Z)
+Body: !echo hallo welt!
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938365547 (2025-03-02T17:59:25.547Z)
+Server timestamps: received: 1740938367098 (2025-03-02T17:59:27.098Z) delivered: 1740938367100 (2025-03-02T17:59:27.100Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938365547 (2025-03-02T17:59:25.547Z)
+Is delivery receipt
+Timestamps:
+- 1740938366770 (2025-03-02T17:59:26.770Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938365681 (2025-03-02T17:59:25.681Z)
+Server timestamps: received: 1740938367227 (2025-03-02T17:59:27.227Z) delivered: 1740938367229 (2025-03-02T17:59:27.229Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938365681 (2025-03-02T17:59:25.681Z)
+Is read receipt
+Timestamps:
+- 1740938366770 (2025-03-02T17:59:26.770Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938366206 (2025-03-02T17:59:26.206Z)
+Server timestamps: received: 1740938367760 (2025-03-02T17:59:27.760Z) delivered: 1740938367761 (2025-03-02T17:59:27.761Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938366206 (2025-03-02T17:59:26.206Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938373060 (2025-03-02T17:59:33.060Z)
+Server timestamps: received: 1740938374614 (2025-03-02T17:59:34.614Z) delivered: 1740938374615 (2025-03-02T17:59:34.615Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938373060 (2025-03-02T17:59:33.060Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938373522 (2025-03-02T17:59:33.522Z)
+Server timestamps: received: 1740938375101 (2025-03-02T17:59:35.101Z) delivered: 1740938375103 (2025-03-02T17:59:35.103Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740938373522 (2025-03-02T17:59:33.522Z)
+Body: !help
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938374862 (2025-03-02T17:59:34.862Z)
+Server timestamps: received: 1740938376406 (2025-03-02T17:59:36.406Z) delivered: 1740938376408 (2025-03-02T17:59:36.408Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938374862 (2025-03-02T17:59:34.862Z)
+Is delivery receipt
+Timestamps:
+- 1740938376131 (2025-03-02T17:59:36.131Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938374996 (2025-03-02T17:59:34.996Z)
+Server timestamps: received: 1740938376537 (2025-03-02T17:59:36.537Z) delivered: 1740938376539 (2025-03-02T17:59:36.539Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938374996 (2025-03-02T17:59:34.996Z)
+Is read receipt
+Timestamps:
+- 1740938376131 (2025-03-02T17:59:36.131Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938376057 (2025-03-02T17:59:36.057Z)
+Server timestamps: received: 1740938377609 (2025-03-02T17:59:37.609Z) delivered: 1740938377610 (2025-03-02T17:59:37.610Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938376057 (2025-03-02T17:59:36.057Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938390700 (2025-03-02T17:59:50.700Z)
+Server timestamps: received: 1740938392243 (2025-03-02T17:59:52.243Z) delivered: 1740938392244 (2025-03-02T17:59:52.244Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938390700 (2025-03-02T17:59:50.700Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938400700 (2025-03-02T18:00:00.700Z)
+Server timestamps: received: 1740938402247 (2025-03-02T18:00:02.247Z) delivered: 1740938402248 (2025-03-02T18:00:02.248Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938400700 (2025-03-02T18:00:00.700Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938407109 (2025-03-02T18:00:07.109Z)
+Server timestamps: received: 1740938408670 (2025-03-02T18:00:08.670Z) delivered: 1740938408671 (2025-03-02T18:00:08.671Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938407109 (2025-03-02T18:00:07.109Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938408964 (2025-03-02T18:00:08.964Z)
+Server timestamps: received: 1740938410517 (2025-03-02T18:00:10.517Z) delivered: 1740938410519 (2025-03-02T18:00:10.519Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938408964 (2025-03-02T18:00:08.964Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938415259 (2025-03-02T18:00:15.259Z)
+Server timestamps: received: 1740938416854 (2025-03-02T18:00:16.854Z) delivered: 1740938416855 (2025-03-02T18:00:16.855Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740938415259 (2025-03-02T18:00:15.259Z)
+Body: !echo zeile 1
+2 zeile
+3eliez
+ende
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938416618 (2025-03-02T18:00:16.618Z)
+Server timestamps: received: 1740938418160 (2025-03-02T18:00:18.160Z) delivered: 1740938418162 (2025-03-02T18:00:18.162Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938416618 (2025-03-02T18:00:16.618Z)
+Is delivery receipt
+Timestamps:
+- 1740938417862 (2025-03-02T18:00:17.862Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938416748 (2025-03-02T18:00:16.748Z)
+Server timestamps: received: 1740938418291 (2025-03-02T18:00:18.291Z) delivered: 1740938418292 (2025-03-02T18:00:18.292Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938416748 (2025-03-02T18:00:16.748Z)
+Is read receipt
+Timestamps:
+- 1740938417862 (2025-03-02T18:00:17.862Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938417310 (2025-03-02T18:00:17.310Z)
+Server timestamps: received: 1740938418860 (2025-03-02T18:00:18.860Z) delivered: 1740938418861 (2025-03-02T18:00:18.861Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938417310 (2025-03-02T18:00:17.310Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938424899 (2025-03-02T18:00:24.899Z)
+Server timestamps: received: 1740938426434 (2025-03-02T18:00:26.434Z) delivered: 1740938426435 (2025-03-02T18:00:26.435Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938424899 (2025-03-02T18:00:24.899Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938428942 (2025-03-02T18:00:28.942Z)
+Server timestamps: received: 1740938430522 (2025-03-02T18:00:30.522Z) delivered: 1740938430523 (2025-03-02T18:00:30.523Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740938428942 (2025-03-02T18:00:28.942Z)
+Body: !echo
+zeile 1
+2 zeile
+3eliez
+ende
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938430978 (2025-03-02T18:00:30.978Z)
+Server timestamps: received: 1740938432522 (2025-03-02T18:00:32.522Z) delivered: 1740938432524 (2025-03-02T18:00:32.524Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938430978 (2025-03-02T18:00:30.978Z)
+Is delivery receipt
+Timestamps:
+- 1740938432269 (2025-03-02T18:00:32.269Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938431107 (2025-03-02T18:00:31.107Z)
+Server timestamps: received: 1740938432652 (2025-03-02T18:00:32.652Z) delivered: 1740938432653 (2025-03-02T18:00:32.653Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938431107 (2025-03-02T18:00:31.107Z)
+Is read receipt
+Timestamps:
+- 1740938432269 (2025-03-02T18:00:32.269Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938431339 (2025-03-02T18:00:31.339Z)
+Server timestamps: received: 1740938432869 (2025-03-02T18:00:32.869Z) delivered: 1740938432870 (2025-03-02T18:00:32.870Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938431339 (2025-03-02T18:00:31.339Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938441938 (2025-03-02T18:00:41.938Z)
+Server timestamps: received: 1740938443500 (2025-03-02T18:00:43.500Z) delivered: 1740938443501 (2025-03-02T18:00:43.501Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STARTED
+Timestamp: 1740938441938 (2025-03-02T18:00:41.938Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938444668 (2025-03-02T18:00:44.668Z)
+Server timestamps: received: 1740938446257 (2025-03-02T18:00:46.257Z) delivered: 1740938446258 (2025-03-02T18:00:46.258Z)
+Sent by unidentified/sealed sender
+Message timestamp: 1740938444668 (2025-03-02T18:00:44.668Z)
+Body: !echo
+zeile 1
+2 zeile
+3eliez
+ende
+With profile key
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938446439 (2025-03-02T18:00:46.439Z)
+Server timestamps: received: 1740938447988 (2025-03-02T18:00:47.988Z) delivered: 1740938447989 (2025-03-02T18:00:47.989Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938446439 (2025-03-02T18:00:46.439Z)
+Is delivery receipt
+Timestamps:
+- 1740938447685 (2025-03-02T18:00:47.685Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938446573 (2025-03-02T18:00:46.573Z)
+Server timestamps: received: 1740938448118 (2025-03-02T18:00:48.118Z) delivered: 1740938448119 (2025-03-02T18:00:48.119Z)
+Sent by unidentified/sealed sender
+Received a receipt message
+When: 1740938446573 (2025-03-02T18:00:46.573Z)
+Is read receipt
+Timestamps:
+- 1740938447685 (2025-03-02T18:00:47.685Z)
+
+Envelope from: “Löwenzahn” +4917621430270 (device: 1) to +49491634615548
+Timestamp: 1740938446934 (2025-03-02T18:00:46.934Z)
+Server timestamps: received: 1740938448465 (2025-03-02T18:00:48.465Z) delivered: 1740938448466 (2025-03-02T18:00:48.466Z)
+Sent by unidentified/sealed sender
+Received a typing message
+Action: STOPPED
+Timestamp: 1740938446934 (2025-03-02T18:00:46.934Z)
+
