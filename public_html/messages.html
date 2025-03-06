@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nachrichten</title>
+    <style>
+        .message {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin: 5px 0;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+
+<div id="messages-container">
+    <!-- Hier werden die Nachrichten angezeigt -->
+</div>
+
+<script>
+    function prependMessage(message) {
+        // Erstelle ein neues div-Element für die Nachricht
+        const messageDiv = document.createElement('div');
+        messageDiv.className = 'message';
+        messageDiv.textContent = message;
+
+        // Füge die Nachricht oben im Container hinzu
+        const container = document.getElementById('messages-container');
+        container.insertBefore(messageDiv, container.firstChild);
+    }
+
+    // Beispiel: Eine neue Nachricht hinzufügen
+    prependMessage('Dies ist eine neue Nachricht, die oben hinzugefügt wurde!');
+</script>
+
+</body>
+</html>

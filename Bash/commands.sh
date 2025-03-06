@@ -13,6 +13,7 @@ NAME="$5"
 
 ACCOUNT=$(cat ./Data/Account)
 ADMINGROUP="NiZFSzOdvI5aysoKSp6tOPOGqCqKaqWKn+/kAtAt7wY="
+HTML_FILE="/home/signalticker/public_html/messages.html"
 
 ADMIN="0"
 while read user; do
@@ -94,6 +95,16 @@ elif [[ $GROUP = "0" ]]; then
 	 ###ADMIN COMMANDS###
 		signal-cli --dbus -a $ACCOUNT send $uid -m "Die nachricht wird gepostet"
 		bash ./Bash/sending.sh "$TEXT" "$FILE" "$NAME"
+		
+		# # Prepend message to HTML file
+            echo "Prepend message to HTML file"
+            # Create a new message div
+            NEW_MESSAGE="<div class='message'>$(printf "$TEXT")</div>"
+            # Prepend the new message to the HTML file
+            echo "$NEW_MESSAGE" >> "$HTML_FILE"
+
+		echo "tried writing to $HTML_FILE"
+
 		
 	else
 	 ###NORMAL COMMANDS###
